@@ -1,0 +1,6128 @@
+Puebla - San Luis
+0, 'F1', -0.25, 1.98
+0, 'F2', 0.25, 1.943
+0, 'F1', -0.75, 2.7
+0, 'F2', 0.75, 1.507
+0, 'F1', -0.5, 2.28
+0, 'F2', 0.5, 1.699
+0, 'F1', 0, 1.645
+0, 'F2', 0, 2.38
+0, 'F1', 0.25, 1.465
+0, 'F2', -0.25, 2.83
+0, 'TO', 2.5, 1.97
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.458
+0, 'TU', 2, 2.79
+0, 'TO', 2.25, 1.719
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.23
+0, 'TU', 2.75, 1.714
+0, 'TO', 3, 2.67
+0, 'TU', 3, 1.497
+0, '1', nil, 2.28
+0, 'X', nil, 3.46
+0, '2', nil, 3.31
+Pumas U.N.A.M. - Cruz Azul
+0, 'F1', -0.25, 1.98
+0, 'F2', 0.25, 1.943
+0, 'F1', -0.75, 2.74
+0, 'F2', 0.75, 1.495
+0, 'F1', -0.5, 2.29
+0, 'F2', 0.5, 1.694
+0, 'F1', 0, 1.632
+0, 'F2', 0, 2.4
+0, 'F1', 0.25, 1.452
+0, 'F2', -0.25, 2.88
+0, 'TO', 2.25, 1.943
+0, 'TU', 2.25, 1.961
+0, 'TO', 1.75, 1.473
+0, 'TU', 1.75, 2.74
+0, 'TO', 2, 1.641
+0, 'TU', 2, 2.35
+0, 'TO', 2.5, 2.22
+0, 'TU', 2.5, 1.724
+0, 'TO', 2.75, 2.58
+0, 'TU', 2.75, 1.531
+0, '1', nil, 2.29
+0, 'X', nil, 3.36
+0, '2', nil, 3.38
+Atlante - Atlas
+0, 'F1', -0.25, 1.952
+0, 'F2', 0.25, 1.97
+0, 'F1', -0.75, 2.64
+0, 'F2', 0.75, 1.529
+0, 'F1', -0.5, 2.25
+0, 'F2', 0.5, 1.719
+0, 'F1', 0, 1.621
+0, 'F2', 0, 2.43
+0, 'F1', 0.25, 1.45
+0, 'F2', -0.25, 2.89
+0, 'TO', 2.5, 2.04
+0, 'TU', 2.5, 1.862
+0, 'TO', 2, 1.507
+0, 'TU', 2, 2.64
+0, 'TO', 2.25, 1.781
+0, 'TU', 2.25, 2.14
+0, 'TO', 2.75, 2.32
+0, 'TU', 2.75, 1.653
+0, 'TO', 3, 2.83
+0, 'TU', 3, 1.448
+0, '1', nil, 2.25
+0, 'X', nil, 3.46
+0, '2', nil, 3.38
+Guadalajara Chivas - Rayados Monterrey
+0, 'F1', 0, 1.99
+0, 'F2', 0, 1.925
+0, 'F1', 0.5, 1.512
+0, 'F2', -0.5, 2.69
+0, 'F1', 0.25, 1.684
+0, 'F2', -0.25, 2.31
+0, 'F1', -0.25, 2.37
+0, 'F2', 0.25, 1.649
+0, 'F1', -0.5, 2.75
+0, 'F2', 0.5, 1.49
+0, 'TO', 2.25, 1.869
+0, 'TU', 2.25, 2.03
+0, 'TO', 1.75, 1.434
+0, 'TU', 1.75, 2.87
+0, 'TO', 2, 1.581
+0, 'TU', 2, 2.47
+0, 'TO', 2.5, 2.14
+0, 'TU', 2.5, 1.781
+0, 'TO', 2.75, 2.47
+0, 'TU', 2.75, 1.581
+0, '1', nil, 2.77
+0, 'X', nil, 3.38
+0, '2', nil, 2.68
+Club Tijuana - Jaguares de Chiapas
+Monarcas Morelia - Pumas U.N.A.M.
+Rayados Monterrey - Atlas
+Santos Laguna - Tigres UANL
+San Luis - Leon
+Cruz Azul - Pachuca
+Queretaro - Atlante
+Toluca - Club America
+Guadalajara Chivas - Puebla
+GAIS Goteborg - AIK Solna
+0, 'F1', 0.25, 2.02
+0, 'F2', -0.25, 1.9
+0, 'F1', 0.75, 1.518
+0, 'F2', -0.75, 2.67
+0, 'F1', 0.5, 1.74
+0, 'F2', -0.5, 2.22
+0, 'F1', 0, 2.55
+0, 'F2', 0, 1.564
+0, 'F1', -0.25, 3.05
+0, 'F2', 0.25, 1.408
+0, 'TO', 2, 1.869
+0, 'TU', 2, 2.03
+0, 'TO', 1.5, 1.476
+0, 'TU', 1.5, 2.73
+0, 'TO', 1.75, 1.621
+0, 'TU', 1.75, 2.38
+0, 'TO', 2.25, 2.2
+0, 'TU', 2.25, 1.729
+0, 'TO', 2.5, 2.53
+0, 'TU', 2.5, 1.555
+0, '1', nil, 3.73
+0, 'X', nil, 3.26
+0, '2', nil, 2.23
+1, 'F1', 0.25, 1.645
+1, 'F2', -0.25, 2.34
+1, 'TO', 0.75, 1.833
+1, 'TU', 0.75, 2.05
+BK Hacken - Elfsborg
+0, 'F1', -0.25, 1.99
+0, 'F2', 0.25, 1.925
+0, 'F1', -0.75, 2.73
+0, 'F2', 0.75, 1.497
+0, 'F1', -0.5, 2.3
+0, 'F2', 0.5, 1.689
+0, 'F1', 0, 1.666
+0, 'F2', 0, 2.34
+0, 'F1', 0.25, 1.485
+0, 'F2', -0.25, 2.77
+0, 'TO', 2.5, 1.826
+0, 'TU', 2.5, 2.08
+0, 'TO', 2, 1.359
+0, 'TU', 2, 3.18
+0, 'TO', 2.25, 1.595
+0, 'TU', 2.25, 2.44
+0, 'TO', 2.75, 2.04
+0, 'TU', 2.75, 1.862
+0, 'TO', 3, 2.38
+0, 'TU', 3, 1.621
+0, '1', nil, 2.29
+0, 'X', nil, 3.51
+0, '2', nil, 3.28
+Kalmar - IFK Goteborg
+0, 'F1', 0, 1.877
+0, 'F2', 0, 2.04
+0, 'F1', -0.5, 2.6
+0, 'F2', 0.5, 1.543
+0, 'F1', -0.25, 2.24
+0, 'F2', 0.25, 1.724
+0, 'F1', 0.25, 1.613
+0, 'F2', -0.25, 2.44
+0, 'F1', 0.5, 1.465
+0, 'F2', -0.5, 2.83
+0, 'TO', 2.5, 1.961
+0, 'TU', 2.5, 1.943
+0, 'TO', 2, 1.45
+0, 'TU', 2, 2.82
+0, 'TO', 2.25, 1.704
+0, 'TU', 2.25, 2.24
+0, 'TO', 2.75, 2.21
+0, 'TU', 2.75, 1.724
+0, 'TO', 3, 2.65
+0, 'TU', 3, 1.507
+0, '1', nil, 2.61
+0, 'X', nil, 3.45
+0, '2', nil, 2.85
+Malmo - GIF Sundsvall
+0, 'F1', -1.25, 1.8
+0, 'F2', 1.25, 2.14
+0, 'F1', -1.75, 2.35
+0, 'F2', 1.75, 1.662
+0, 'F1', -1.5, 2.04
+0, 'F2', 1.5, 1.877
+0, 'F1', -1, 1.54
+0, 'F2', 1, 2.61
+0, 'F1', -0.75, 1.418
+0, 'F2', 0.75, 3.01
+0, 'TO', 2.75, 1.99
+0, 'TU', 2.75, 1.909
+0, 'TO', 2.25, 1.558
+0, 'TU', 2.25, 2.52
+0, 'TO', 2.5, 1.781
+0, 'TU', 2.5, 2.13
+0, 'TO', 3, 2.3
+0, 'TU', 3, 1.666
+0, 'TO', 3.25, 2.6
+0, 'TU', 3.25, 1.523
+0, '1', nil, 1.354
+0, 'X', nil, 5.07
+0, '2', nil, 10.57
+Mjällby - Syrianska FC
+0, 'F1', -0.75, 1.9
+0, 'F2', 0.75, 2.02
+0, 'F1', -1.25, 2.74
+0, 'F2', 1.25, 1.495
+0, 'F1', -1, 2.31
+0, 'F2', 1, 1.684
+0, 'F1', -0.5, 1.671
+0, 'F2', 0.5, 2.33
+0, 'F1', -0.25, 1.448
+0, 'F2', 0.25, 2.89
+0, 'TO', 2.25, 1.98
+0, 'TU', 2.25, 1.917
+0, 'TO', 1.75, 1.497
+0, 'TU', 1.75, 2.67
+0, 'TO', 2, 1.671
+0, 'TU', 2, 2.29
+0, 'TO', 2.5, 2.26
+0, 'TU', 2.5, 1.694
+0, 'TO', 2.75, 2.65
+0, 'TU', 2.75, 1.505
+0, '1', nil, 1.684
+0, 'X', nil, 3.74
+0, '2', nil, 5.93
+Åtvidaberg - IFK Norrkoping FK
+0, 'F1', -0.5, 1.97
+0, 'F2', 0.5, 1.952
+0, 'F1', -1, 2.76
+0, 'F2', 1, 1.487
+0, 'F1', -0.75, 2.25
+0, 'F2', 0.75, 1.719
+0, 'F1', -0.25, 1.704
+0, 'F2', 0.25, 2.28
+0, 'F1', 0, 1.432
+0, 'F2', 0, 2.95
+0, 'TO', 2.75, 1.952
+0, 'TU', 2.75, 1.952
+0, 'TO', 2.25, 1.531
+0, 'TU', 2.25, 2.59
+0, 'TO', 2.5, 1.751
+0, 'TU', 2.5, 2.17
+0, 'TO', 3, 2.24
+0, 'TU', 3, 1.704
+0, 'TO', 3.25, 2.54
+0, 'TU', 3.25, 1.549
+0, '1', nil, 1.98
+0, 'X', nil, 3.66
+0, '2', nil, 3.97
+BK Hacken - Åtvidaberg
+Orebro - Djurgardens
+Malmo - Mjällby
+AIK Solna - Helsingborg
+GAIS Goteborg - Kalmar
+Elfsborg - Syrianska FC
+GIF Sundsvall - IFK Goteborg
+IFK Norrkoping FK - Gefle
+Crucero del Norte - Independiente Rivadavia
+0, 'F1', 0, 1.826
+0, 'F2', 0, 2.01
+0, 'TO', 2, 1.9
+0, 'TU', 2, 1.943
+0, 'TO', 1.5, 1.465
+0, 'TU', 1.5, 2.6
+0, 'TO', 1.75, 1.625
+0, 'TU', 1.75, 2.27
+0, 'TO', 2.25, 2.23
+0, 'TU', 2.25, 1.653
+0, 'TO', 2.5, 2.55
+0, 'TU', 2.5, 1.487
+Douglas Haig - Almirante Brown
+0, 'F1', 0, 1.917
+0, 'F2', 0, 1.925
+0, 'TO', 2, 1.917
+0, 'TU', 2, 1.925
+0, 'TO', 1.5, 1.473
+0, 'TU', 1.5, 2.58
+0, 'TO', 1.75, 1.636
+0, 'TU', 1.75, 2.26
+0, 'TO', 2.25, 2.25
+0, 'TU', 2.25, 1.641
+0, 'TO', 2.5, 2.57
+0, 'TU', 2.5, 1.476
+Ferrocarril Oeste - Patronato Parana
+0, 'F1', -0.25, 1.961
+0, 'F2', 0.25, 1.877
+0, 'TO', 2, 1.877
+0, 'TU', 2, 1.961
+0, 'TO', 1.5, 1.456
+0, 'TU', 1.5, 2.62
+0, 'TO', 1.75, 1.613
+0, 'TU', 1.75, 2.3
+0, 'TO', 2.25, 2.2
+0, 'TU', 2.25, 1.671
+0, 'TO', 2.5, 2.52
+0, 'TU', 2.5, 1.5
+Gimnasia Jujuy - Olimpo Bahia Blanca
+0, 'F1', -0.25, 2.03
+0, 'F2', 0.25, 1.806
+0, 'TO', 2, 1.909
+0, 'TU', 2, 1.934
+0, 'TO', 1.5, 1.469
+0, 'TU', 1.5, 2.59
+0, 'TO', 1.75, 1.632
+0, 'TU', 1.75, 2.26
+0, 'TO', 2.25, 2.24
+0, 'TU', 2.25, 1.649
+0, 'TO', 2.5, 2.56
+0, 'TU', 2.5, 1.48
+Gimnasia La Plata - Banfield
+0, 'F1', -0.5, 1.99
+0, 'F2', 0.5, 1.847
+0, 'TO', 2, 1.909
+0, 'TU', 2, 1.934
+0, 'TO', 1.5, 1.469
+0, 'TU', 1.5, 2.59
+0, 'TO', 1.75, 1.632
+0, 'TU', 1.75, 2.26
+0, 'TO', 2.25, 2.24
+0, 'TU', 2.25, 1.649
+0, 'TO', 2.5, 2.56
+0, 'TU', 2.5, 1.48
+Almirante Brown - Crucero del Norte
+Atletico Huracan - Deportivo Merlo
+Atletico Tucuman - Gimnasia Jujuy
+Banfield - Rosario Central
+Boca Unidos - Sarmiento
+Douglas Haig - Instituto de Cordoba
+Independiente Rivadavia - Ferrocarril Oeste
+Nueva Chicago BA - Gimnasia La Plata
+Olimpo Bahia Blanca - Aldosivi Mar del Plata
+Patronato Parana - Defensa y Justicia
+Aldosivi Mar del Plata - Atletico Tucuman
+Crucero del Norte - Douglas Haig
+Defensa y Justicia - Independiente Rivadavia
+Deportivo Merlo - Banfield
+Ferrocarril Oeste - Almirante Brown
+Gimnasia Jujuy - Patronato Parana
+Gimnasia La Plata - Olimpo Bahia Blanca
+Instituto de Cordoba - Boca Unidos
+Rosario Central - Nueva Chicago BA
+Sarmiento - Atletico Huracan
+Atletico Rafaela - Quilmes
+0, 'F1', -0.25, 2.09
+0, 'F2', 0.25, 1.833
+0, 'F1', -0.75, 3.05
+0, 'F2', 0.75, 1.408
+0, 'F1', -0.5, 2.46
+0, 'F2', 0.5, 1.606
+0, 'F1', 0, 1.704
+0, 'F2', 0, 2.28
+0, 'F1', 0.25, 1.487
+0, 'F2', -0.25, 2.76
+0, 'TO', 2, 1.99
+0, 'TU', 2, 1.909
+0, 'TO', 1.5, 1.529
+0, 'TU', 1.5, 2.59
+0, 'TO', 1.75, 1.699
+0, 'TU', 1.75, 2.25
+0, 'TO', 2.25, 2.35
+0, 'TU', 2.25, 1.641
+0, 'TO', 2.5, 2.7
+0, 'TU', 2.5, 1.487
+0, '1', nil, 2.47
+0, 'X', nil, 3.09
+0, '2', nil, 3.31
+Belgrano de Cordoba - Newells Old Boys
+0, 'F1', 0, 1.943
+0, 'F2', 0, 1.98
+0, 'F1', -0.5, 2.82
+0, 'F2', 0.5, 1.469
+0, 'F1', -0.25, 2.38
+0, 'F2', 0.25, 1.645
+0, 'F1', 0.25, 1.621
+0, 'F2', -0.25, 2.43
+0, 'F1', 0.5, 1.454
+0, 'F2', -0.5, 2.87
+0, 'TO', 2, 1.943
+0, 'TU', 2, 1.961
+0, 'TO', 1.5, 1.507
+0, 'TU', 1.5, 2.65
+0, 'TO', 1.75, 1.666
+0, 'TU', 1.75, 2.31
+0, 'TO', 2.25, 2.28
+0, 'TU', 2.25, 1.68
+0, 'TO', 2.5, 2.63
+0, 'TU', 2.5, 1.515
+0, '1', nil, 2.82
+0, 'X', nil, 3.06
+0, '2', nil, 2.87
+Estudiantes La Plata - Colon de Santa Fe
+0, 'F1', -0.25, 1.97
+0, 'F2', 0.25, 1.952
+0, 'F1', -0.75, 2.8
+0, 'F2', 0.75, 1.473
+0, 'F1', -0.5, 2.31
+0, 'F2', 0.5, 1.684
+0, 'F1', 0, 1.602
+0, 'F2', 0, 2.47
+0, 'F1', 0.25, 1.425
+0, 'F2', -0.25, 2.98
+0, 'TO', 2, 1.952
+0, 'TU', 2, 1.952
+0, 'TO', 1.5, 1.51
+0, 'TU', 1.5, 2.64
+0, 'TO', 1.75, 1.671
+0, 'TU', 1.75, 2.3
+0, 'TO', 2.25, 2.3
+0, 'TU', 2.25, 1.671
+0, 'TO', 2.5, 2.64
+0, 'TU', 2.5, 1.51
+0, '1', nil, 2.31
+0, 'X', nil, 3.13
+0, '2', nil, 3.61
+Lanus - Racing Club
+0, 'F1', -0.25, 2.07
+0, 'F2', 0.25, 1.854
+0, 'F1', -0.75, 3.01
+0, 'F2', 0.75, 1.416
+0, 'F1', -0.5, 2.43
+0, 'F2', 0.5, 1.617
+0, 'F1', 0, 1.662
+0, 'F2', 0, 2.35
+0, 'F1', 0.25, 1.452
+0, 'F2', -0.25, 2.88
+0, 'TO', 2, 2.05
+0, 'TU', 2, 1.854
+0, 'TO', 1.5, 1.552
+0, 'TU', 1.5, 2.53
+0, 'TO', 1.75, 1.735
+0, 'TU', 1.75, 2.2
+0, 'TO', 2.25, 2.42
+0, 'TU', 2.25, 1.606
+0, 'TO', 2.5, 2.79
+0, 'TU', 2.5, 1.46
+0, '1', nil, 2.45
+0, 'X', nil, 3.01
+0, '2', nil, 3.45
+River Plate - San Lorenzo
+0, 'F1', -0.5, 2.01
+0, 'F2', 0.5, 1.909
+0, 'F1', -1, 3.06
+0, 'F2', 1, 1.406
+0, 'F1', -0.75, 2.35
+0, 'F2', 0.75, 1.657
+0, 'F1', -0.25, 1.735
+0, 'F2', 0.25, 2.23
+0, 'F1', 0, 1.436
+0, 'F2', 0, 2.94
+0, 'TO', 2.25, 2.07
+0, 'TU', 2.25, 1.833
+0, 'TO', 1.75, 1.549
+0, 'TU', 1.75, 2.54
+0, 'TO', 2, 1.751
+0, 'TU', 2, 2.17
+0, 'TO', 2.5, 2.37
+0, 'TU', 2.5, 1.628
+0, 'TO', 2.75, 2.81
+0, 'TU', 2.75, 1.452
+0, '1', nil, 2.01
+0, 'X', nil, 3.39
+0, '2', nil, 4.21
+San Martin San Juan - Velez Sarsfield
+0, 'F1', 0.25, 1.909
+0, 'F2', -0.25, 2.01
+0, 'F1', 0.75, 1.45
+0, 'F2', -0.75, 2.89
+0, 'F1', 0.5, 1.657
+0, 'F2', -0.5, 2.35
+0, 'F1', 0, 2.39
+0, 'F2', 0, 1.641
+0, 'F1', -0.25, 2.89
+0, 'F2', 0.25, 1.448
+0, 'TO', 2, 1.952
+0, 'TU', 2, 1.952
+0, 'TO', 1.5, 1.51
+0, 'TU', 1.5, 2.64
+0, 'TO', 1.75, 1.671
+0, 'TU', 1.75, 2.3
+0, 'TO', 2.25, 2.3
+0, 'TU', 2.25, 1.671
+0, 'TO', 2.5, 2.64
+0, 'TU', 2.5, 1.51
+0, '1', nil, 3.47
+0, 'X', nil, 3.15
+0, '2', nil, 2.36
+All Boys Floresta - Union Santa Fe
+Arsenal de Sarandi - Lanus
+Boca Juniors - Atletico Rafaela
+Club Atletico Tigre - San Lorenzo
+Colon de Santa Fe - River Plate
+Godoy Cruz Antonio Tomba - Independiente
+Newells Old Boys - Estudiantes La Plata
+Quilmes - Argentinos Juniors
+Racing Club - San Martin San Juan
+Velez Sarsfield - Belgrano de Cordoba
+Argentinos Juniors - Boca Juniors
+Atletico Rafaela - All Boys Floresta
+Belgrano de Cordoba - Racing Club
+Estudiantes La Plata - Velez Sarsfield
+Independiente - Quilmes
+Lanus - Godoy Cruz Antonio Tomba
+River Plate - Newells Old Boys
+San Lorenzo - Colon de Santa Fe
+San Martin San Juan - Arsenal de Sarandi
+Union Santa Fe - Club Atletico Tigre
+Austria Lustenau - FC Lustenau
+Rheindorf Altach - TSV Hartberg
+SKN St. Polten - Blau-Weiß Linz
+SV Horn - First Wien 1894
+SV Grodig - Kapfenberger SV
+Wolfsberger AC - Rapid Wien
+0, 'F1', 0.75, 2.02
+0, 'F2', -0.75, 1.9
+0, 'F1', 1.25, 1.515
+0, 'F2', -1.25, 2.68
+0, 'F1', 1, 1.699
+0, 'F2', -1, 2.28
+0, 'F1', 0.5, 2.32
+0, 'F2', -0.5, 1.68
+0, 'F1', 0.25, 2.87
+0, 'F2', -0.25, 1.454
+0, 'TO', 2.5, 1.961
+0, 'TU', 2.5, 1.943
+0, 'TO', 2, 1.45
+0, 'TU', 2, 2.82
+0, 'TO', 2.25, 1.704
+0, 'TU', 2.25, 2.24
+0, 'TO', 2.75, 2.21
+0, 'TU', 2.75, 1.724
+0, 'TO', 3, 2.65
+0, 'TU', 3, 1.507
+0, '1', nil, 5.68
+0, 'X', nil, 3.93
+0, '2', nil, 1.68
+SC Wiener Neustadt - Austria Wien
+SV Ried - Sturm Graz
+Trenkwalder Admira - Wolfsberger AC
+Wacker Innsbruck - Red Bull Salzburg
+Rapid Wien - Mattersburg
+Racing Genk - Zulte Waregem
+0, 'F1', -0.5, 1.952
+0, 'F2', 0.5, 1.97
+0, 'F1', -1, 2.79
+0, 'F2', 1, 1.478
+0, 'F1', -0.75, 2.25
+0, 'F2', 0.75, 1.719
+0, 'TO', 2.75, 1.97
+0, 'TU', 2.75, 1.925
+0, 'TO', 2.25, 1.546
+0, 'TU', 2.25, 2.55
+0, 'TO', 2.5, 1.769
+0, 'TU', 2.5, 2.15
+0, 'TO', 3, 2.28
+0, 'TU', 3, 1.68
+0, 'TO', 3.25, 2.57
+0, 'TU', 3.25, 1.534
+0, '1', nil, 1.952
+0, 'X', nil, 3.69
+0, '2', nil, 4.12
+RAEC Mons - Club Brugge
+0, 'F1', 0.25, 2.08
+0, 'F2', -0.25, 1.847
+0, 'F1', 0.75, 1.598
+0, 'F2', -0.75, 2.47
+0, 'F1', 0.5, 1.806
+0, 'F2', -0.5, 2.13
+0, 'F1', 0, 2.58
+0, 'F2', 0, 1.552
+0, 'F1', -0.25, 3.03
+0, 'F2', 0.25, 1.413
+0, 'TO', 2.75, 1.847
+0, 'TU', 2.75, 2.06
+0, 'TO', 2.25, 1.465
+0, 'TU', 2.25, 2.77
+0, 'TO', 2.5, 1.671
+0, 'TU', 2.5, 2.3
+0, 'TO', 3, 2.11
+0, 'TU', 3, 1.806
+0, 'TO', 3.25, 2.38
+0, 'TU', 3.25, 1.625
+0, '1', nil, 3.46
+0, 'X', nil, 3.68
+0, '2', nil, 2.15
+Standard Liege - Mechelen
+0, 'F1', -1, 1.877
+0, 'F2', 1, 2.04
+0, 'F1', -1.5, 2.47
+0, 'F2', 1.5, 1.598
+0, 'F1', -1.25, 2.18
+0, 'F2', 1.25, 1.769
+0, 'F1', -0.75, 1.645
+0, 'F2', 0.75, 2.38
+0, 'F1', -0.5, 1.502
+0, 'F2', 0.5, 2.72
+0, 'TO', 2.75, 1.826
+0, 'TU', 2.75, 2.08
+0, 'TO', 2.25, 1.452
+0, 'TU', 2.25, 2.81
+0, 'TO', 2.5, 1.657
+0, 'TU', 2.5, 2.32
+0, 'TO', 3, 2.08
+0, 'TU', 3, 1.826
+0, 'TO', 3.25, 2.35
+0, 'TU', 3.25, 1.636
+0, '1', nil, 1.515
+0, 'X', nil, 4.5
+0, '2', nil, 7
+KAA Gent - Lokeren
+0, 'F1', -0.75, 1.826
+0, 'F2', 0.75, 2.1
+0, 'F1', -1.25, 2.47
+0, 'F2', 1.25, 1.598
+0, 'F1', -1, 2.13
+0, 'F2', 1, 1.806
+0, 'F1', -0.5, 1.636
+0, 'F2', 0.5, 2.4
+0, 'F1', -0.25, 1.436
+0, 'F2', 0.25, 2.94
+0, 'TO', 2.75, 1.769
+0, 'TU', 2.75, 2.15
+0, 'TO', 2.25, 1.416
+0, 'TU', 2.25, 2.94
+0, 'TO', 2.5, 1.613
+0, 'TU', 2.5, 2.4
+0, 'TO', 3, 2.01
+0, 'TU', 3, 1.892
+0, 'TO', 3.25, 2.27
+0, 'TU', 3.25, 1.684
+0, '1', nil, 1.641
+0, 'X', nil, 4.18
+0, '2', nil, 5.65
+Mechelen - Beerschot Antwerp
+Charleroi - KAA Gent
+Lierse - Oud-Heverlee Leuven
+Waasland Beveren - Cercle Brugge
+Zulte Waregem - RAEC Mons
+Club Brugge - Standard Liege
+Anderlecht - Racing Genk
+Lokeren - Kortrijk
+CS Vise - FC Brussels
+Dessel Sport - Royal Antwerp
+Eendracht Aalst - Roeselare
+Lommel United - Eupen
+Oostende - Sportkring Sint-Niklaas
+R.RC.Peruwelz - Boussu Dour Borinage
+White Star Woluwe - Westerlo
+K.SV.Oudenaarde - Sint-Truidense
+KSK Heist - Tubize
+Dessel Sport - Westerlo
+K.SV.Oudenaarde - Sportkring Sint-Niklaas
+FC Brussels - Boussu Dour Borinage
+Lommel United - Roeselare
+R.RC.Peruwelz - Eupen
+CS Vise - Tubize
+Eendracht Aalst - Sint-Truidense
+KSK Heist - Royal Antwerp
+White Star Woluwe - Oostende
+Sportkring Sint-Niklaas - FC Brussels
+Eupen - KSK Heist
+Roeselare - Dessel Sport
+Sint-Truidense - White Star Woluwe
+Tubize - R.RC.Peruwelz
+Westerlo - Eendracht Aalst
+Boussu Dour Borinage - CS Vise
+Oostende - K.SV.Oudenaarde
+Royal Antwerp - Lommel United
+Real Potosi - San Jose
+0, 'F1', -0.5, 2.08
+0, 'F2', 0.5, 1.769
+0, 'TO', 2.5, 1.813
+0, 'TU', 2.5, 2.03
+0, 'TO', 2, 1.33
+0, 'TU', 2, 3.04
+0, 'TO', 2.25, 1.574
+0, 'TU', 2.25, 2.36
+0, 'TO', 2.75, 2.03
+0, 'TU', 2.75, 1.813
+0, 'TO', 3, 2.36
+0, 'TU', 3, 1.574
+0, '1', nil, 2.08
+0, 'X', nil, 3.59
+0, '2', nil, 3.55
+Aurora - The Strongest
+0, 'F1', -0.25, 2.28
+0, 'F2', 0.25, 1.621
+0, 'TO', 2.75, 1.952
+0, 'TU', 2.75, 1.892
+0, 'TO', 2.25, 1.515
+0, 'TU', 2.25, 2.48
+0, 'TO', 2.5, 1.746
+0, 'TU', 2.5, 2.11
+0, 'TO', 3, 2.24
+0, 'TU', 3, 1.645
+0, 'TO', 3.25, 2.53
+0, 'TU', 3.25, 1.495
+0, '1', nil, 2.7
+0, 'X', nil, 3.53
+0, '2', nil, 2.58
+Club Petrolero - Nacional Potosí
+0, 'F1', -0.5, 1.819
+0, 'F2', 0.5, 2.02
+0, 'TO', 2.5, 1.847
+0, 'TU', 2.5, 1.99
+0, 'TO', 2, 1.354
+0, 'TU', 2, 2.94
+0, 'TO', 2.25, 1.602
+0, 'TU', 2.25, 2.31
+0, 'TO', 2.75, 2.07
+0, 'TU', 2.75, 1.775
+0, 'TO', 3, 2.43
+0, 'TU', 3, 1.54
+0, '1', nil, 1.819
+0, 'X', nil, 3.75
+0, '2', nil, 4.47
+Blooming - Oriente Petrolero
+0, 'F1', 0, 1.819
+0, 'F2', 0, 2.02
+0, 'TO', 2.5, 1.869
+0, 'TU', 2.5, 1.97
+0, 'TO', 2, 1.369
+0, 'TU', 2, 2.89
+0, 'TO', 2.25, 1.621
+0, 'TU', 2.25, 2.28
+0, 'TO', 2.75, 2.1
+0, 'TU', 2.75, 1.751
+0, 'TO', 3, 2.46
+0, 'TU', 3, 1.523
+0, '1', nil, 2.52
+0, 'X', nil, 3.46
+0, '2', nil, 2.82
+Nacional Potosí - Universitario de Sucre
+Aurora - La Paz
+Botafogo RJ - Flamengo
+0, 'F1', -0.5, 2.23
+0, 'F2', 0.5, 1.735
+0, 'F1', -1, 3.51
+0, 'F2', 1, 1.318
+0, 'F1', -0.75, 2.65
+0, 'F2', 0.75, 1.526
+0, 'F1', -0.25, 1.917
+0, 'F2', 0.25, 2
+0, 'F1', 0, 1.578
+0, 'F2', 0, 2.52
+0, 'TO', 2.25, 1.84
+0, 'TU', 2.25, 2.06
+0, 'TO', 1.75, 1.418
+0, 'TU', 1.75, 2.93
+0, 'TO', 2, 1.558
+0, 'TU', 2, 2.52
+0, 'TO', 2.5, 2.11
+0, 'TU', 2.5, 1.806
+0, 'TO', 2.75, 2.42
+0, 'TU', 2.75, 1.602
+0, '1', nil, 2.23
+0, 'X', nil, 3.4
+0, '2', nil, 3.54
+Corinthians - Sao Paulo
+0, 'F1', -0.25, 1.943
+0, 'F2', 0.25, 1.98
+0, 'F1', -0.75, 2.73
+0, 'F2', 0.75, 1.497
+0, 'F1', -0.5, 2.28
+0, 'F2', 0.5, 1.699
+0, 'F1', 0, 1.584
+0, 'F2', 0, 2.5
+0, 'F1', 0.25, 1.418
+0, 'F2', -0.25, 3.01
+0, 'TO', 2.25, 1.892
+0, 'TU', 2.25, 2.01
+0, 'TO', 1.75, 1.446
+0, 'TU', 1.75, 2.83
+0, 'TO', 2, 1.598
+0, 'TU', 2, 2.43
+0, 'TO', 2.5, 2.16
+0, 'TU', 2.5, 1.763
+0, 'TO', 2.75, 2.5
+0, 'TU', 2.75, 1.568
+0, '1', nil, 2.27
+0, 'X', nil, 3.29
+0, '2', nil, 3.57
+Figueirense - Coritiba
+0, 'F1', 0, 2.04
+0, 'F2', 0, 1.877
+0, 'F1', 0.5, 1.546
+0, 'F2', -0.5, 2.6
+0, 'F1', 0.25, 1.729
+0, 'F2', -0.25, 2.23
+0, 'F1', -0.25, 2.43
+0, 'F2', 0.25, 1.617
+0, 'F1', -0.5, 2.82
+0, 'F2', 0.5, 1.469
+0, 'TO', 2.5, 1.862
+0, 'TU', 2.5, 2.04
+0, 'TO', 2, 1.381
+0, 'TU', 2, 3.07
+0, 'TO', 2.25, 1.621
+0, 'TU', 2.25, 2.38
+0, 'TO', 2.75, 2.09
+0, 'TU', 2.75, 1.819
+0, 'TO', 3, 2.45
+0, 'TU', 3, 1.591
+0, '1', nil, 2.75
+0, 'X', nil, 3.4
+0, '2', nil, 2.69
+Internacional RS - Gremio Porto Alegre
+0, 'F1', -0.25, 1.943
+0, 'F2', 0.25, 1.98
+0, 'F1', -0.75, 2.66
+0, 'F2', 0.75, 1.52
+0, 'F1', -0.5, 2.24
+0, 'F2', 0.5, 1.724
+0, 'F1', 0, 1.602
+0, 'F2', 0, 2.47
+0, 'F1', 0.25, 1.432
+0, 'F2', -0.25, 2.95
+0, 'TO', 2.25, 1.943
+0, 'TU', 2.25, 1.961
+0, 'TO', 1.75, 1.473
+0, 'TU', 1.75, 2.74
+0, 'TO', 2, 1.641
+0, 'TU', 2, 2.35
+0, 'TO', 2.5, 2.22
+0, 'TU', 2.5, 1.724
+0, 'TO', 2.75, 2.58
+0, 'TU', 2.75, 1.531
+0, '1', nil, 2.25
+0, 'X', nil, 3.41
+0, '2', nil, 3.47
+Bahia - Atletico Goianiense
+0, 'F1', -0.25, 1.909
+0, 'F2', 0.25, 2.01
+0, 'F1', -0.75, 2.65
+0, 'F2', 0.75, 1.529
+0, 'F1', -0.5, 2.22
+0, 'F2', 0.5, 1.735
+0, 'F1', 0, 1.568
+0, 'F2', 0, 2.54
+0, 'F1', 0.25, 1.404
+0, 'F2', -0.25, 3.06
+0, 'TO', 2.25, 1.9
+0, 'TU', 2.25, 2
+0, 'TO', 1.75, 1.452
+0, 'TU', 1.75, 2.81
+0, 'TO', 2, 1.606
+0, 'TU', 2, 2.42
+0, 'TO', 2.5, 2.17
+0, 'TU', 2.5, 1.751
+0, 'TO', 2.75, 2.51
+0, 'TU', 2.75, 1.561
+0, '1', nil, 2.22
+0, 'X', nil, 3.34
+0, '2', nil, 3.61
+Cruzeiro - Atletico Mineiro
+0, 'F1', 0.25, 2.01
+0, 'F2', -0.25, 1.909
+0, 'F1', 0.75, 1.529
+0, 'F2', -0.75, 2.64
+0, 'F1', 0.5, 1.74
+0, 'F2', -0.5, 2.22
+0, 'F1', 0, 2.52
+0, 'F2', 0, 1.578
+0, 'F1', -0.25, 2.99
+0, 'F2', 0.25, 1.421
+0, 'TO', 2.5, 2.11
+0, 'TU', 2.5, 1.8
+0, 'TO', 2, 1.561
+0, 'TU', 2, 2.51
+0, 'TO', 2.25, 1.847
+0, 'TU', 2.25, 2.06
+0, 'TO', 2.75, 2.43
+0, 'TU', 2.75, 1.602
+0, 'TO', 3, 3
+0, 'TU', 3, 1.4
+0, '1', nil, 3.46
+0, 'X', nil, 3.36
+0, '2', nil, 2.28
+Sport Club do Recife - Nautico Capibaribe
+0, 'F1', -0.25, 2.22
+0, 'F2', 0.25, 1.74
+0, 'F1', -0.75, 3.17
+0, 'F2', 0.75, 1.38
+0, 'F1', -0.5, 2.58
+0, 'F2', 0.5, 1.552
+0, 'F1', 0, 1.862
+0, 'F2', 0, 2.06
+0, 'F1', 0.25, 1.602
+0, 'F2', -0.25, 2.47
+0, 'TO', 2.5, 2.06
+0, 'TU', 2.5, 1.847
+0, 'TO', 2, 1.52
+0, 'TU', 2, 2.61
+0, 'TO', 2.25, 1.793
+0, 'TU', 2.25, 2.12
+0, 'TO', 2.75, 2.35
+0, 'TU', 2.75, 1.641
+0, 'TO', 3, 2.87
+0, 'TU', 3, 1.434
+0, '1', nil, 2.57
+0, 'X', nil, 3.42
+0, '2', nil, 2.92
+Coritiba - Internacional RS
+Santos - Bahia
+Atletico Mineiro - Ponte Preta
+Nautico Capibaribe - Figueirense
+Portuguesa Desportos - Palmeiras
+Atletico Goianiense - Cruzeiro
+Fluminense - Corinthians
+Gremio Porto Alegre - Vasco da Gama
+Flamengo - Sport Club do Recife
+Sao Paulo - Botafogo RJ
+Figueirense - Fluminense
+Palmeiras - Gremio Porto Alegre
+Vasco da Gama - Portuguesa Desportos
+Bahia - Sao Paulo
+Corinthians - Atletico Mineiro
+Internacional RS - Flamengo
+Sport Club do Recife - Santos
+Botafogo RJ - Coritiba
+Cruzeiro - Nautico Capibaribe
+Ponte Preta - Atletico Goianiense
+Bahia - Atletico Mineiro
+Nautico Capibaribe - Vasco da Gama
+Portuguesa Desportos - Coritiba
+Flamengo - Ponte Preta
+Gremio Porto Alegre - Atletico Goianiense
+Cruzeiro - Botafogo RJ
+Figueirense - Corinthians
+Sao Paulo - Internacional RS
+Fluminense - Santos
+Palmeiras - Sport Club do Recife
+Coritiba - Flamengo
+Ponte Preta - Figueirense
+Corinthians - Gremio Porto Alegre
+Botafogo RJ - Nautico Capibaribe
+Internacional RS - Fluminense
+Santos - Sao Paulo
+Atletico Goianiense - Portuguesa Desportos
+Atletico Mineiro - Palmeiras
+Sport Club do Recife - Cruzeiro
+Vasco da Gama - Bahia
+ABC RN - Ipatinga
+America Mineiro - Ceara
+ASA Arapiraca - Sao Caetano
+Atletico Paranaense - Joinville
+Avai SC - Boa MG
+Bragantino - CRB Maceio
+Goias - America Natal
+Guarani SP - Parana
+Guaratingueta - Criciuma
+Vitória BA - Gremio Barueri
+Boa MG - Guarani SP
+Criciuma - Bragantino
+Ceara - Guaratingueta
+Gremio Barueri - ASA Arapiraca
+Ipatinga - Atletico Paranaense
+America Natal - Vitória BA
+Joinville - ABC RN
+Parana - Goias
+Sao Caetano - Avai SC
+CRB Maceio - America Mineiro
+America Mineiro - Parana
+Atletico Paranaense - Boa MG
+Avai SC - America Natal
+Guarani SP - Joinville
+Vitória BA - Criciuma
+ABC RN - Gremio Barueri
+ASA Arapiraca - Ipatinga
+Bragantino - Sao Caetano
+Goias - Ceara
+Guaratingueta - CRB Maceio
+America Natal - Guaratingueta
+Boa MG - ASA Arapiraca
+Ceara - Guarani SP
+Parana - Bragantino
+Gremio Barueri - Atletico Paranaense
+CRB Maceio - Goias
+Criciuma - America Mineiro
+Ipatinga - Vitória BA
+Joinville - Avai SC
+Sao Caetano - ABC RN
+America Mineiro - Sao Caetano
+Atletico Paranaense - CRB Maceio
+Avai SC - Ipatinga
+Guaratingueta - Parana
+Vitória BA - Boa MG
+ABC RN - Ceara
+ASA Arapiraca - Joinville
+Bragantino - America Natal
+Goias - Criciuma
+Guarani SP - Gremio Barueri
+Hannover 96 - Schalke 04
+0, 'F1', 0, 2.1
+0, 'F2', 0, 1.847
+0, 'F1', 0.5, 1.584
+0, 'F2', -0.5, 2.55
+0, 'F1', 0.25, 1.775
+0, 'F2', -0.25, 2.2
+0, 'F1', -0.25, 2.49
+0, 'F2', 0.25, 1.609
+0, 'F1', -0.5, 2.88
+0, 'F2', 0.5, 1.471
+0, 'TO', 2.5, 1.909
+0, 'TU', 2.5, 2.01
+0, 'TO', 2, 1.421
+0, 'TU', 2, 2.99
+0, 'TO', 2.25, 1.666
+0, 'TU', 2.25, 2.34
+0, 'TO', 2.75, 2.15
+0, 'TU', 2.75, 1.793
+0, 'TO', 3, 2.54
+0, 'TU', 3, 1.568
+0, '1', nil, 2.91
+0, 'X', nil, 3.53
+0, '2', nil, 2.55
+0, 'I1TO', 1.25, 2.07
+0, 'I1TU', 1.25, 1.813
+0, 'I2TO', 1.25, 1.892
+0, 'I2TU', 1.25, 1.99
+1, 'F1', 0, 2.08
+1, 'F2', 0, 1.847
+1, 'TO', 1, 1.9
+1, 'TU', 1, 2
+FSV Mainz 05 - Greuther Furth
+Bayer Leverkusen - SC Freiburg
+Nurnberg - Borussia Dortmund
+Schalke 04 - Augsburg
+TSG Hoffenheim - Eintracht Frankfurt
+Werder Bremen - Hamburger SV
+Fortuna Dusseldorf - Borussia Monchengladbach
+VfL Wolfsburg - Hannover 96
+Bayern Munchen - VfB Stuttgart
+Ingolstadt 04 - FSV Frankfurt
+0, 'F1', -0.5, 1.98
+0, 'F2', 0.5, 1.943
+0, 'F1', -1, 2.84
+0, 'F2', 1, 1.462
+0, 'F1', -0.75, 2.28
+0, 'F2', 0.75, 1.704
+0, 'F1', -0.25, 1.704
+0, 'F2', 0.25, 2.28
+0, 'F1', 0, 1.42
+0, 'F2', 0, 3
+0, 'TO', 2.5, 1.925
+0, 'TU', 2.5, 1.97
+0, 'TO', 2, 1.427
+0, 'TU', 2, 2.9
+0, 'TO', 2.25, 1.68
+0, 'TU', 2.25, 2.28
+0, 'TO', 2.75, 2.17
+0, 'TU', 2.75, 1.751
+0, 'TO', 3, 2.58
+0, 'TU', 3, 1.531
+0, '1', nil, 1.98
+0, 'X', nil, 3.6
+0, '2', nil, 4.13
+1, 'F1', -0.25, 2.08
+1, 'F2', 0.25, 1.826
+1, 'TO', 1, 1.862
+1, 'TU', 1, 2.02
+Kaiserslautern - TSV 1860 Munchen
+0, 'F1', -0.75, 2
+0, 'F2', 0.75, 1.917
+0, 'F1', -1.25, 2.75
+0, 'F2', 1.25, 1.49
+0, 'F1', -1, 2.39
+0, 'F2', 1, 1.636
+0, 'F1', -0.5, 1.775
+0, 'F2', 0.5, 2.17
+0, 'F1', -0.25, 1.534
+0, 'F2', 0.25, 2.63
+0, 'TO', 2.5, 1.84
+0, 'TU', 2.5, 2.06
+0, 'TO', 2, 1.37
+0, 'TU', 2, 3.13
+0, 'TO', 2.25, 1.606
+0, 'TU', 2.25, 2.41
+0, 'TO', 2.75, 2.06
+0, 'TU', 2.75, 1.84
+0, 'TO', 3, 2.41
+0, 'TU', 3, 1.606
+0, '1', nil, 1.775
+0, 'X', nil, 3.86
+0, '2', nil, 4.91
+1, 'F1', -0.25, 1.892
+1, 'F2', 0.25, 2.01
+1, 'TO', 1, 1.781
+1, 'TU', 1, 2.11
+VfL Bochum - VfR Aalen
+1, 'F1', -0.25, 2.11
+1, 'F2', 0.25, 1.8
+1, 'TO', 1, 1.84
+1, 'TU', 1, 2.04
+0, 'F1', -0.5, 2.06
+0, 'F2', 0.5, 1.862
+0, 'F1', -1, 2.98
+0, 'F2', 1, 1.425
+0, 'F1', -0.75, 2.38
+0, 'F2', 0.75, 1.645
+0, 'F1', -0.25, 1.781
+0, 'F2', 0.25, 2.16
+0, 'F1', 0, 1.483
+0, 'F2', 0, 2.78
+0, 'TO', 2.5, 1.877
+0, 'TU', 2.5, 2.02
+0, 'TO', 2, 1.395
+0, 'TU', 2, 3.02
+0, 'TO', 2.25, 1.636
+0, 'TU', 2.25, 2.35
+0, 'TO', 2.75, 2.11
+0, 'TU', 2.75, 1.8
+0, 'TO', 3, 2.48
+0, 'TU', 3, 1.574
+0, '1', nil, 2.07
+0, 'X', nil, 3.61
+0, '2', nil, 3.77
+Erzgebirge Aue - Koln
+0, 'F1', 0.25, 1.847
+0, 'F2', -0.25, 2.08
+0, 'F1', 0.75, 1.44
+0, 'F2', -0.75, 2.92
+0, 'F1', 0.5, 1.625
+0, 'F2', -0.5, 2.42
+0, 'F1', 0, 2.23
+0, 'F2', 0, 1.729
+0, 'F1', -0.25, 2.66
+0, 'F2', 0.25, 1.52
+0, 'TO', 2.5, 2.07
+0, 'TU', 2.5, 1.833
+0, 'TO', 2, 1.531
+0, 'TU', 2, 2.58
+0, 'TO', 2.25, 1.806
+0, 'TU', 2.25, 2.1
+0, 'TO', 2.75, 2.37
+0, 'TU', 2.75, 1.628
+0, 'TO', 3, 2.9
+0, 'TU', 3, 1.425
+0, '1', nil, 3.1
+0, 'X', nil, 3.4
+0, '2', nil, 2.42
+Dynamo Dresden - Kaiserslautern
+Koln - Energie Cottbus
+TSV 1860 Munchen - MSV Duisburg
+St. Pauli - SV Sandhausen
+VfR Aalen - Eintracht Braunschweig
+FSV Frankfurt - Erzgebirge Aue
+Jahn Regensburg - VfL Bochum
+SC Paderborn 07 - Ingolstadt 04
+Union Berlin - Hertha Berlin
+SV Babelsberg 03 - Hallescher FC
+0, 'F1', 0, 2.09
+0, 'F2', 0, 1.819
+0, 'F1', 0.5, 1.518
+0, 'F2', -0.5, 2.62
+0, 'F1', 0.25, 1.719
+0, 'F2', -0.25, 2.22
+0, 'F1', -0.25, 2.55
+0, 'F2', 0.25, 1.546
+0, 'F1', -0.5, 3
+0, 'F2', 0.5, 1.4
+0, 'TO', 2, 1.9
+0, 'TU', 2, 1.98
+0, 'TO', 1.5, 1.48
+0, 'TU', 1.5, 2.66
+0, 'TO', 1.75, 1.636
+0, 'TU', 1.75, 2.32
+0, 'TO', 2.25, 2.23
+0, 'TU', 2.25, 1.689
+0, 'TO', 2.5, 2.56
+0, 'TU', 2.5, 1.52
+0, '1', nil, 3.07
+0, 'X', nil, 3.1
+0, '2', nil, 2.62
+SV Darmstadt 98 - Hansa Rostock
+0, 'F1', -0.25, 2.02
+0, 'F2', 0.25, 1.877
+0, 'F1', -0.75, 2.81
+0, 'F2', 0.75, 1.452
+0, 'F1', -0.5, 2.34
+0, 'F2', 0.5, 1.645
+0, 'F1', 0, 1.675
+0, 'F2', 0, 2.29
+0, 'F1', 0.25, 1.478
+0, 'F2', -0.25, 2.73
+0, 'TO', 2.5, 2.01
+0, 'TU', 2.5, 1.869
+0, 'TO', 2, 1.483
+0, 'TU', 2, 2.66
+0, 'TO', 2.25, 1.751
+0, 'TU', 2.25, 2.15
+0, 'TO', 2.75, 2.28
+0, 'TU', 2.75, 1.657
+0, 'TO', 3, 2.76
+0, 'TU', 3, 1.448
+0, '1', nil, 2.37
+0, 'X', nil, 3.4
+0, '2', nil, 3.2
+Alemannia Aachen - Rot-Weiss Erfurt
+Borussia Dortmund Am - Karlsruher SC
+FC Heidenheim - Chemnitzer
+Saarbrücken - Kickers Offenbach
+VfL Osnabruck - Unterhaching
+Arminia Bielefeld - Stuttgarter Kickers
+Hallescher FC - Preussen Munster
+SV Wehen Wiesbaden - SV Darmstadt 98
+Vfb Stuttgart Am - SV Babelsberg 03
+Wacker Burghausen - Hansa Rostock
+Chemnitzer - Hallescher FC
+Hansa Rostock - SV Wehen Wiesbaden
+Kickers Offenbach - Wacker Burghausen
+Preussen Munster - Vfb Stuttgart Am
+Rot-Weiss Erfurt - Borussia Dortmund Am
+Stuttgarter Kickers - Alemannia Aachen
+SV Babelsberg 03 - VfL Osnabruck
+Unterhaching - Arminia Bielefeld
+Karlsruher SC - Saarbrücken
+SV Darmstadt 98 - FC Heidenheim
+Antofagasta - Huachipato
+0, 'F1', 0, 1.961
+0, 'F2', 0, 1.961
+0, 'F1', -0.5, 2.74
+0, 'F2', 0.5, 1.495
+0, 'F1', -0.25, 2.35
+0, 'F2', 0.25, 1.662
+0, 'F1', 0.25, 1.657
+0, 'F2', -0.25, 2.36
+0, 'F1', 0.5, 1.492
+0, 'F2', -0.5, 2.75
+0, 'TO', 2.5, 1.909
+0, 'TU', 2.5, 1.99
+0, 'TO', 2, 1.414
+0, 'TU', 2, 2.94
+0, 'TO', 2.25, 1.662
+0, 'TU', 2.25, 2.31
+0, 'TO', 2.75, 2.15
+0, 'TU', 2.75, 1.775
+0, 'TO', 3, 2.54
+0, 'TU', 3, 1.549
+0, '1', nil, 2.76
+0, 'X', nil, 3.28
+0, '2', nil, 2.76
+Rangers de Talca - Audax Italiano
+0, 'F1', -0.5, 2.08
+0, 'F2', 0.5, 1.847
+0, 'F1', -1, 3.03
+0, 'F2', 1, 1.411
+0, 'F1', -0.75, 2.41
+0, 'F2', 0.75, 1.628
+0, 'F1', -0.25, 1.813
+0, 'F2', 0.25, 2.12
+0, 'F1', 0, 1.515
+0, 'F2', 0, 2.68
+0, 'TO', 2.75, 2
+0, 'TU', 2.75, 1.9
+0, 'TO', 2.25, 1.564
+0, 'TU', 2.25, 2.51
+0, 'TO', 2.5, 1.793
+0, 'TU', 2.5, 2.12
+0, 'TO', 3, 2.32
+0, 'TU', 3, 1.657
+0, 'TO', 3.25, 2.62
+0, 'TU', 3.25, 1.518
+0, '1', nil, 2.08
+0, 'X', nil, 3.63
+0, '2', nil, 3.65
+Universidad Catolica - Unión La Calera
+0, 'F1', -1, 1.909
+0, 'F2', 1, 2.01
+0, 'F1', -1.5, 2.54
+0, 'F2', 1.5, 1.568
+0, 'F1', -1.25, 2.23
+0, 'F2', 1.25, 1.729
+0, 'F1', -0.75, 1.657
+0, 'F2', 0.75, 2.36
+0, 'F1', -0.5, 1.505
+0, 'F2', 0.5, 2.71
+0, 'TO', 2.75, 2.04
+0, 'TU', 2.75, 1.862
+0, 'TO', 2.25, 1.591
+0, 'TU', 2.25, 2.45
+0, 'TO', 2.5, 1.826
+0, 'TU', 2.5, 2.08
+0, 'TO', 3, 2.38
+0, 'TU', 3, 1.625
+0, 'TO', 3.25, 2.68
+0, 'TU', 3.25, 1.492
+0, '1', nil, 1.52
+0, 'X', nil, 4.36
+0, '2', nil, 6.95
+Audax Italiano - Cobresal
+Cobreloa - Antofagasta
+Deportes Iquique - Universidad Catolica
+Deportes La Serena - Union Espanola
+Huachipato - Rangers de Talca
+Palestino - Colo Colo
+Santiago Wanderers - Universidad de Concepcion
+Unión La Calera - O'Higgins
+Universidad de Chile - Unión San Felipe
+Cobreloa - Universidad de Chile
+Cucuta Deportivo - La Equidad Bogota
+0, 'F1', -0.25, 1.847
+0, 'F2', 0.25, 1.99
+0, 'TO', 2.25, 2.09
+0, 'TU', 2.25, 1.757
+0, 'TO', 1.75, 1.546
+0, 'TU', 1.75, 2.42
+0, 'TO', 2, 1.769
+0, 'TU', 2, 2.07
+0, 'TO', 2.5, 2.38
+0, 'TU', 2.5, 1.561
+0, 'TO', 2.75, 2.84
+0, 'TU', 2.75, 1.383
+Millonarios Bogota - Once Caldas
+0, 'F1', -0.5, 2
+0, 'F2', 0.5, 1.84
+0, 'TO', 2.5, 2.04
+0, 'TU', 2.5, 1.8
+0, 'TO', 2, 1.5
+0, 'TU', 2, 2.52
+0, 'TO', 2.25, 1.781
+0, 'TU', 2.25, 2.06
+0, 'TO', 2.75, 2.33
+0, 'TU', 2.75, 1.595
+0, 'TO', 3, 2.83
+0, 'TU', 3, 1.384
+Boyaca Chico - Real Cartagena
+0, 'F1', -1, 2.26
+0, 'F2', 1, 1.632
+0, 'TO', 2.5, 2.11
+0, 'TU', 2.5, 1.74
+0, 'TO', 2, 1.555
+0, 'TU', 2, 2.4
+0, 'TO', 2.25, 1.854
+0, 'TU', 2.25, 1.99
+0, 'TO', 2.75, 2.43
+0, 'TU', 2.75, 1.54
+0, 'TO', 3, 3.01
+0, 'TU', 3, 1.338
+Hajduk Split - Osijek
+0, 'F1', -0.75, 1.8
+0, 'F2', 0.75, 2.04
+0, 'TO', 2.25, 1.917
+0, 'TU', 2.25, 1.925
+0, 'TO', 1.75, 1.44
+0, 'TU', 1.75, 2.67
+0, 'TO', 2, 1.609
+0, 'TU', 2, 2.3
+0, 'TO', 2.5, 2.18
+0, 'TU', 2.5, 1.689
+0, 'TO', 2.75, 2.53
+0, 'TU', 2.75, 1.495
+NK Lokomotiva - Dinamo Zagreb
+NK Zagreb - Cibalia
+Osijek - Slaven Koprivnica
+Rijeka - Hajduk Split
+RNK Split - Inter Zapresic
+Zadar - Istra 1961Pula
+Dynamo Ceske Budejovice - Slovan Liberec
+0, 'F1', 0.25, 1.97
+0, 'F2', -0.25, 1.952
+0, 'F1', 0.75, 1.518
+0, 'F2', -0.75, 2.67
+0, 'F1', 0.5, 1.719
+0, 'F2', -0.5, 2.25
+0, 'F1', 0, 2.41
+0, 'F2', 0, 1.628
+0, 'F1', -0.25, 2.85
+0, 'F2', 0.25, 1.46
+0, 'TO', 2.5, 1.917
+0, 'TU', 2.5, 1.98
+0, 'TO', 2, 1.42
+0, 'TU', 2, 2.92
+0, 'TO', 2.25, 1.671
+0, 'TU', 2.25, 2.3
+0, 'TO', 2.75, 2.16
+0, 'TU', 2.75, 1.763
+0, 'TO', 3, 2.56
+0, 'TU', 3, 1.54
+0, '1', nil, 3.21
+0, 'X', nil, 3.6
+0, '2', nil, 2.27
+Baumit Jablonec - Sparta Praha
+0, 'F1', 0, 2
+0, 'F2', 0, 1.917
+0, 'F1', 0.5, 1.507
+0, 'F2', -0.5, 2.7
+0, 'F1', 0.25, 1.68
+0, 'F2', -0.25, 2.32
+0, 'F1', -0.25, 2.4
+0, 'F2', 0.25, 1.632
+0, 'F1', -0.5, 2.8
+0, 'F2', 0.5, 1.476
+0, 'TO', 2.5, 2.13
+0, 'TU', 2.5, 1.781
+0, 'TO', 2, 1.578
+0, 'TU', 2, 2.48
+0, 'TO', 2.25, 1.862
+0, 'TU', 2.25, 2.04
+0, 'TO', 2.75, 2.46
+0, 'TU', 2.75, 1.584
+0, 'TO', 3, 3.05
+0, 'TU', 3, 1.387
+0, '1', nil, 2.8
+0, 'X', nil, 3.31
+0, '2', nil, 2.69
+Hradec Kralove - Banik Ostrava
+0, 'F1', -0.25, 1.877
+0, 'F2', 0.25, 2.04
+0, 'F1', -0.75, 2.62
+0, 'F2', 0.75, 1.537
+0, 'F1', -0.5, 2.19
+0, 'F2', 0.5, 1.757
+0, 'F1', 0, 1.54
+0, 'F2', 0, 2.61
+0, 'F1', 0.25, 1.387
+0, 'F2', -0.25, 3.14
+0, 'TO', 2.25, 2.09
+0, 'TU', 2.25, 1.819
+0, 'TO', 1.75, 1.558
+0, 'TU', 1.75, 2.52
+0, 'TO', 2, 1.769
+0, 'TU', 2, 2.15
+0, 'TO', 2.5, 2.39
+0, 'TU', 2.5, 1.621
+0, 'TO', 2.75, 2.84
+0, 'TU', 2.75, 1.442
+0, '1', nil, 2.2
+0, 'X', nil, 3.3
+0, '2', nil, 3.69
+Viktoria Plzen - Mlada Boleslav
+0, 'F1', -1, 2.09
+0, 'F2', 1, 1.84
+0, 'F1', -1.5, 2.71
+0, 'F2', 1.5, 1.505
+0, 'F1', -1.25, 2.4
+0, 'F2', 1.25, 1.632
+0, 'F1', -0.75, 1.806
+0, 'F2', 0.75, 2.13
+0, 'F1', -0.5, 1.628
+0, 'F2', 0.5, 2.41
+0, 'TO', 2.75, 1.892
+0, 'TU', 2.75, 2.01
+0, 'TO', 2.25, 1.492
+0, 'TU', 2.25, 2.68
+0, 'TO', 2.5, 1.704
+0, 'TU', 2.5, 2.24
+0, 'TO', 3, 2.17
+0, 'TU', 3, 1.757
+0, 'TO', 3.25, 2.45
+0, 'TU', 3.25, 1.591
+0, '1', nil, 1.613
+0, 'X', nil, 4.28
+0, '2', nil, 5.67
+FK Pribram - Slovacko
+Banik Ostrava - Sigma Olomouc
+Slovan Liberec - Slavia Praha
+Sparta Praha - Hradec Kralove
+Mlada Boleslav - Vysocina Jihlava
+Teplice - Baumit Jablonec
+Zbojovka Brno - Dynamo Ceske Budejovice
+AB Copenhagen - Fredericia
+0, 'F1', 0.25, 1.84
+0, 'F2', -0.25, 2.06
+0, 'F1', 0.75, 1.42
+0, 'F2', -0.75, 2.92
+0, 'F1', 0.5, 1.609
+0, 'F2', -0.5, 2.41
+0, 'F1', 0, 2.24
+0, 'F2', 0, 1.704
+0, 'F1', -0.25, 2.68
+0, 'F2', 0.25, 1.495
+0, 'TO', 2.5, 2.07
+0, 'TU', 2.5, 1.813
+0, 'TO', 2, 1.529
+0, 'TU', 2, 2.54
+0, 'TO', 2.25, 1.806
+0, 'TU', 2.25, 2.08
+0, 'TO', 2.75, 2.37
+0, 'TU', 2.75, 1.609
+0, 'TO', 3, 2.9
+0, 'TU', 3, 1.404
+0, '1', nil, 3.19
+0, 'X', nil, 3.31
+0, '2', nil, 2.41
+FC Vestsjaelland - Skive IK
+0, 'F1', -0.5, 1.9
+0, 'F2', 0.5, 2
+0, 'F1', -1, 2.62
+0, 'F2', 1, 1.518
+0, 'F1', -0.75, 2.16
+0, 'F2', 0.75, 1.763
+0, 'F1', -0.25, 1.641
+0, 'F2', 0.25, 2.35
+0, 'F1', 0, 1.377
+0, 'F2', 0, 3.09
+0, 'TO', 2.75, 1.806
+0, 'TU', 2.75, 2.08
+0, 'TO', 2.25, 1.432
+0, 'TU', 2.25, 2.81
+0, 'TO', 2.5, 1.636
+0, 'TU', 2.5, 2.32
+0, 'TO', 3, 2.06
+0, 'TU', 3, 1.826
+0, 'TO', 3.25, 2.32
+0, 'TU', 3.25, 1.636
+0, '1', nil, 1.9
+0, 'X', nil, 3.76
+0, '2', nil, 4.2
+Hjorring - Bronshoj
+0, 'F1', 0, 1.99
+0, 'F2', 0, 1.909
+0, 'F1', 0.5, 1.51
+0, 'F2', -0.5, 2.64
+0, 'F1', 0.25, 1.684
+0, 'F2', -0.25, 2.27
+0, 'F1', -0.25, 2.37
+0, 'F2', 0.25, 1.628
+0, 'F1', -0.5, 2.75
+0, 'F2', 0.5, 1.471
+0, 'TO', 2.5, 2
+0, 'TU', 2.5, 1.877
+0, 'TO', 2, 1.476
+0, 'TU', 2, 2.68
+0, 'TO', 2.25, 1.746
+0, 'TU', 2.25, 2.16
+0, 'TO', 2.75, 2.27
+0, 'TU', 2.75, 1.666
+0, 'TO', 3, 2.74
+0, 'TU', 3, 1.454
+0, '1', nil, 2.79
+0, 'X', nil, 3.38
+0, '2', nil, 2.67
+Lyngby - Viborg
+0, 'F1', -0.5, 2.19
+0, 'F2', 0.5, 1.74
+0, 'F1', -1, 3.25
+0, 'F2', 1, 1.344
+0, 'F1', -0.75, 2.55
+0, 'F2', 0.75, 1.543
+0, 'F1', -0.25, 1.877
+0, 'F2', 0.25, 2.02
+0, 'F1', 0, 1.558
+0, 'F2', 0, 2.52
+0, 'TO', 2.75, 1.84
+0, 'TU', 2.75, 2.04
+0, 'TO', 2.25, 1.454
+0, 'TU', 2.25, 2.74
+0, 'TO', 2.5, 1.666
+0, 'TU', 2.5, 2.27
+0, 'TO', 3, 2.1
+0, 'TU', 3, 1.787
+0, 'TO', 3.25, 2.37
+0, 'TU', 3.25, 1.609
+0, '1', nil, 2.19
+0, 'X', nil, 3.47
+0, '2', nil, 3.49
+FC Fyn - Vejle-Kolding
+0, 'F1', 0.5, 2.23
+0, 'F2', -0.5, 1.714
+0, 'F1', 1, 1.675
+0, 'F2', -1, 2.29
+0, 'F1', 0.75, 1.961
+0, 'F2', -0.75, 1.934
+0, 'F1', 0.25, 2.69
+0, 'F2', -0.25, 1.492
+0, 'F1', 0, 3.72
+0, 'F2', 0, 1.267
+0, 'TO', 2.75, 1.854
+0, 'TU', 2.75, 2.03
+0, 'TO', 2.25, 1.462
+0, 'TU', 2.25, 2.72
+0, 'TO', 2.5, 1.675
+0, 'TU', 2.5, 2.26
+0, 'TO', 3, 2.11
+0, 'TU', 3, 1.775
+0, 'TO', 3.25, 2.39
+0, 'TU', 3.25, 1.598
+0, '1', nil, 4.95
+0, 'X', nil, 4.07
+0, '2', nil, 1.714
+Viborg - FC Fyn
+Bronshoj - FC Vestsjaelland
+Fredericia - Hjorring
+Skive IK - Hobro
+Vejle-Kolding - AB Copenhagen
+Herfolge Koge - Lyngby
+Hjorring - Vejle-Kolding
+Hobro - Bronshoj
+FC Vestsjaelland - Fredericia
+AB Copenhagen - FC Fyn
+Lyngby - Skive IK
+Viborg - Herfolge Koge
+Midtjylland - Silkeborg
+0, 'F1', -0.75, 2.02
+0, 'F2', 0.75, 1.9
+0, 'F1', -1.25, 2.8
+0, 'F2', 1.25, 1.476
+0, 'F1', -1, 2.42
+0, 'F2', 1, 1.625
+0, 'F1', -0.5, 1.781
+0, 'F2', 0.5, 2.16
+0, 'F1', -0.25, 1.543
+0, 'F2', 0.25, 2.6
+0, 'TO', 2.75, 1.9
+0, 'TU', 2.75, 2
+0, 'TO', 2.25, 1.5
+0, 'TU', 2.25, 2.67
+0, 'TO', 2.5, 1.714
+0, 'TU', 2.5, 2.23
+0, 'TO', 3, 2.18
+0, 'TU', 3, 1.746
+0, 'TO', 3.25, 2.46
+0, 'TU', 3.25, 1.584
+0, '1', nil, 1.769
+0, 'X', nil, 3.94
+0, '2', nil, 4.99
+Odense BK - Aalborg
+0, 'F1', -0.25, 1.943
+0, 'F2', 0.25, 1.98
+0, 'F1', -0.75, 2.64
+0, 'F2', 0.75, 1.529
+0, 'F1', -0.5, 2.24
+0, 'F2', 0.5, 1.724
+0, 'F1', 0, 1.609
+0, 'F2', 0, 2.45
+0, 'F1', 0.25, 1.442
+0, 'F2', -0.25, 2.91
+0, 'TO', 2.5, 1.892
+0, 'TU', 2.5, 2.01
+0, 'TO', 2, 1.401
+0, 'TU', 2, 2.99
+0, 'TO', 2.25, 1.649
+0, 'TU', 2.25, 2.34
+0, 'TO', 2.75, 2.12
+0, 'TU', 2.75, 1.793
+0, 'TO', 3, 2.5
+0, 'TU', 3, 1.564
+0, '1', nil, 2.25
+0, 'X', nil, 3.55
+0, '2', nil, 3.39
+Brondby IF - Esbjerg
+0, 'F1', -0.5, 2.03
+0, 'F2', 0.5, 1.892
+0, 'F1', -1, 2.94
+0, 'F2', 1, 1.436
+0, 'F1', -0.75, 2.34
+0, 'F2', 0.75, 1.666
+0, 'F1', -0.25, 1.757
+0, 'F2', 0.25, 2.19
+0, 'F1', 0, 1.465
+0, 'F2', 0, 2.83
+0, 'TO', 2.5, 1.892
+0, 'TU', 2.5, 2.01
+0, 'TO', 2, 1.401
+0, 'TU', 2, 2.99
+0, 'TO', 2.25, 1.649
+0, 'TU', 2.25, 2.34
+0, 'TO', 2.75, 2.12
+0, 'TU', 2.75, 1.793
+0, 'TO', 3, 2.5
+0, 'TU', 3, 1.564
+0, '1', nil, 2.03
+0, 'X', nil, 3.61
+0, '2', nil, 3.97
+AC Horsens - AGF Aarhus
+0, 'F1', -0.5, 2.07
+0, 'F2', 0.5, 1.854
+0, 'F1', -1, 3.04
+0, 'F2', 1, 1.409
+0, 'F1', -0.75, 2.39
+0, 'F2', 0.75, 1.636
+0, 'F1', -0.25, 1.813
+0, 'F2', 0.25, 2.12
+0, 'F1', 0, 1.492
+0, 'F2', 0, 2.75
+0, 'TO', 2.5, 2.05
+0, 'TU', 2.5, 1.854
+0, 'TO', 2, 1.515
+0, 'TU', 2, 2.63
+0, 'TO', 2.25, 1.787
+0, 'TU', 2.25, 2.13
+0, 'TO', 2.75, 2.34
+0, 'TU', 2.75, 1.649
+0, 'TO', 3, 2.85
+0, 'TU', 3, 1.44
+0, '1', nil, 2.07
+0, 'X', nil, 3.46
+0, '2', nil, 3.88
+Sonderjyske - Aalborg
+Silkeborg - AGF Aarhus
+Randers FC - AC Horsens
+Midtjylland - Esbjerg
+Nordsjælland - Brondby IF
+Odense BK - FC Copenhagen
+Heracles Almelo - Feyenoord
+1, 'F1', 0, 2.05
+1, 'F2', 0, 1.854
+1, 'TO', 1, 1.724
+1, 'TU', 1, 2.18
+0, 'F1', 0, 2.08
+0, 'F2', 0, 1.847
+0, 'F1', 0.5, 1.584
+0, 'F2', -0.5, 2.5
+0, 'F1', 0.25, 1.769
+0, 'F2', -0.25, 2.18
+0, 'F1', -0.25, 2.44
+0, 'F2', 0.25, 1.613
+0, 'F1', -0.5, 2.79
+0, 'F2', 0.5, 1.478
+0, 'TO', 2.75, 1.892
+0, 'TU', 2.75, 2.01
+0, 'TO', 2.25, 1.492
+0, 'TU', 2.25, 2.68
+0, 'TO', 2.5, 1.704
+0, 'TU', 2.5, 2.24
+0, 'TO', 3, 2.17
+0, 'TU', 3, 1.757
+0, 'TO', 3.25, 2.45
+0, 'TU', 3.25, 1.591
+0, '1', nil, 2.82
+0, 'X', nil, 3.63
+0, '2', nil, 2.53
+AZ Alkmaar - SC Heerenveen
+1, 'F1', -0.5, 1.869
+1, 'F2', 0.5, 2.03
+1, 'TO', 1.5, 2.08
+1, 'TU', 1.5, 1.806
+0, 'F1', -1.25, 1.99
+0, 'F2', 1.25, 1.925
+0, 'F1', -1.75, 2.59
+0, 'F2', 1.75, 1.549
+0, 'F1', -1.5, 2.25
+0, 'F2', 1.5, 1.719
+0, 'F1', -1, 1.719
+0, 'F2', 1, 2.25
+0, 'F1', -0.75, 1.546
+0, 'F2', 0.75, 2.6
+0, 'TO', 3.25, 1.862
+0, 'TU', 3.25, 2.04
+0, 'TO', 2.75, 1.495
+0, 'TU', 2.75, 2.68
+0, 'TO', 3, 1.625
+0, 'TU', 3, 2.38
+0, 'TO', 3.5, 2.08
+0, 'TU', 3.5, 1.826
+0, 'TO', 3.75, 2.33
+0, 'TU', 3.75, 1.649
+0, '1', nil, 1.462
+0, 'X', nil, 5.02
+0, '2', nil, 7.03
+NEC Nijmegen - FC Twente Enschede
+0, 'F1', 0.5, 1.826
+0, 'F2', -0.5, 2.1
+0, 'F1', 1, 1.403
+0, 'F2', -1, 3.07
+0, 'F1', 0.75, 1.617
+0, 'F2', -0.75, 2.44
+0, 'F1', 0.25, 2.11
+0, 'F2', -0.25, 1.819
+0, 'F1', 0, 2.65
+0, 'F2', 0, 1.526
+0, 'TO', 2.75, 1.961
+0, 'TU', 2.75, 1.943
+0, 'TO', 2.25, 1.537
+0, 'TU', 2.25, 2.57
+0, 'TO', 2.5, 1.757
+0, 'TU', 2.5, 2.16
+0, 'TO', 3, 2.26
+0, 'TU', 3, 1.694
+0, 'TO', 3.25, 2.55
+0, 'TU', 3.25, 1.543
+0, '1', nil, 3.64
+0, 'X', nil, 3.64
+0, '2', nil, 2.1
+1, 'F1', 0.25, 1.826
+1, 'F2', -0.25, 2.08
+1, 'TO', 1, 1.757
+1, 'TU', 1, 2.14
+Willem II - Vitesse Arnhem
+1, 'F1', 0.25, 1.806
+1, 'F2', -0.25, 2.1
+1, 'TO', 1, 1.793
+1, 'TU', 1, 2.09
+0, 'F1', 0.5, 1.925
+0, 'F2', -0.5, 1.99
+0, 'F1', 1, 1.46
+0, 'F2', -1, 2.85
+0, 'F1', 0.75, 1.694
+0, 'F2', -0.75, 2.29
+0, 'F1', 0.25, 2.24
+0, 'F2', -0.25, 1.724
+0, 'F1', 0, 2.9
+0, 'F2', 0, 1.446
+0, 'TO', 2.5, 1.833
+0, 'TU', 2.5, 2.07
+0, 'TO', 2, 1.364
+0, 'TU', 2, 3.15
+0, 'TO', 2.25, 1.602
+0, 'TU', 2.25, 2.43
+0, 'TO', 2.75, 2.05
+0, 'TU', 2.75, 1.847
+0, 'TO', 3, 2.4
+0, 'TU', 3, 1.613
+0, '1', nil, 3.93
+0, 'X', nil, 3.72
+0, '2', nil, 1.99
+Groningen - PSV Eindhoven
+0, 'F1', 1, 2.04
+0, 'F2', -1, 1.877
+0, 'F1', 1.5, 1.613
+0, 'F2', -1.5, 2.44
+0, 'F1', 1.25, 1.781
+0, 'F2', -1.25, 2.16
+0, 'F1', 0.75, 2.32
+0, 'F2', -0.75, 1.675
+0, 'F1', 0.5, 2.6
+0, 'F2', -0.5, 1.543
+0, 'TO', 3, 1.751
+0, 'TU', 3, 2.17
+0, 'TO', 2.5, 1.471
+0, 'TU', 2.5, 2.75
+0, 'TO', 2.75, 1.584
+0, 'TU', 2.75, 2.46
+0, 'TO', 3.25, 2.01
+0, 'TU', 3.25, 1.892
+0, 'TO', 3.5, 2.24
+0, 'TU', 3.5, 1.704
+0, '1', nil, 6.15
+0, 'X', nil, 4.5
+0, '2', nil, 1.561
+1, 'F1', 0.5, 1.917
+1, 'F2', -0.5, 1.98
+1, 'TO', 1.25, 1.826
+1, 'TU', 1.25, 2.06
+ADO den Haag - Groningen
+Roda JC - Willem II
+RKC Waalwijk - Heracles Almelo
+Zwolle - NEC Nijmegen
+NAC Breda - FC Utrecht
+Vitesse Arnhem - Feyenoord
+FC Twente Enschede - VVV Venlo
+PSV Eindhoven - AZ Alkmaar
+SC Heerenveen - Ajax
+Home Teams (Sunday 5 Matches) - Away Teams (Sunday 5 Matches)
+0, 'F1', 0.5, 2.09
+0, 'F2', -0.5, 1.833
+0, 'TO', 15.5, 1.877
+0, 'TU', 15.5, 2.02
+Den Bosch - Dordrecht
+0, 'F1', -0.5, 1.877
+0, 'F2', 0.5, 2.04
+0, 'F1', -1, 2.59
+0, 'F2', 1, 1.549
+0, 'F1', -0.75, 2.14
+0, 'F2', 0.75, 1.8
+0, 'F1', -0.25, 1.628
+0, 'F2', 0.25, 2.41
+0, 'F1', 0, 1.37
+0, 'F2', 0, 3.22
+0, 'TO', 2.75, 1.943
+0, 'TU', 2.75, 1.961
+0, 'TO', 2.25, 1.526
+0, 'TU', 2.25, 2.6
+0, 'TO', 2.5, 1.746
+0, 'TU', 2.5, 2.18
+0, 'TO', 3, 2.23
+0, 'TU', 3, 1.709
+0, 'TO', 3.25, 2.52
+0, 'TU', 3.25, 1.555
+0, '1', nil, 1.877
+0, 'X', nil, 3.82
+0, '2', nil, 4.25
+AGOVV Apeldoorn - De Graafschap
+Almere City - FC Oss
+Dordrecht - SC Veendam
+Emmen - Sparta Rotterdam
+Go Ahead Eagles - Cambuur Leeuwaarden
+Helmond Sport - Den Bosch
+MVV Maastricht - Telstar
+Volendam - FC Eindhoven
+Excelsior SBV - Fortuna Sittard
+Bury - Notts County
+Crawley Town - Leyton Orient
+Crewe Alexandra - Coventry City
+Hartlepool United - Scunthorpe United
+Milton Keynes Dons - Carlisle United
+Portsmouth - Oldham Athletic
+Sheffield United - Bournemouth AFC
+Stevenage FC - Shrewsbury Town
+Tranmere Rovers - Colchester United
+Walsall - Brentford
+Yeovil Town - Doncaster Rovers
+Brentford - Colchester United
+Bury - Preston North End
+Crewe Alexandra - Tranmere Rovers
+Doncaster Rovers - Oldham Athletic
+Hartlepool United - Carlisle United
+Notts County - Shrewsbury Town
+Scunthorpe United - Sheffield United
+Swindon Town - Leyton Orient
+Walsall - Milton Keynes Dons
+Yeovil Town - Bournemouth AFC
+Coventry City - Stevenage FC
+Crawley Town - Portsmouth
+AFC Wimbledon - Dagenham & Redbridge
+Bristol Rovers - Morecambe
+Cheltenham Town - Accrington Stanley
+Exeter City - Burton Albion
+Fleetwood Town - Aldershot Town
+Gillingham - Chesterfield
+Plymouth Argyle - Northampton Town
+Port Vale - Torquay United
+Rochdale - Barnet
+Rotherham United - Bradford City
+Southend United - Wycombe Wanderers
+York City - Oxford United
+Accrington Stanley - Bradford City
+Barnet - Gillingham
+Bristol Rovers - Aldershot Town
+Morecambe - Fleetwood Town
+Northampton Town - AFC Wimbledon
+Oxford United - Exeter City
+Port Vale - Rotherham United
+Rochdale - Burton Albion
+Southend United - Dagenham & Redbridge
+Torquay United - Plymouth Argyle
+Wycombe Wanderers - Cheltenham Town
+York City - Chesterfield
+Millwall - Middlesbrough
+Barnsley - Bristol City
+Birmingham City - Peterborough United
+Burnley - Brighton & Hove Albion
+Crystal Palace - Sheffield Wednesday
+Derby County - Watford
+Hull City - Bolton Wanderers
+Ipswich Town - Huddersfield Town
+Leeds United - Blackburn Rovers
+Nottingham Forest - Charlton Athletic
+Leicester City - Blackpool
+Alfreton Town - Nuneaton Town
+Cambridge United - Dartford
+Ebbsfleet United - Luton Town
+Gateshead - Lincoln City
+Grimsby Town - Mansfield Town
+Hyde United - Southport
+Kidderminster Harriers - Forest Green Rovers
+Macclesfield Town - Barrow
+Tamworth - Wrexham
+Newport County - Hereford United
+Woking - Braintree Town
+Wrexham - Newport County
+Barrow - Kidderminster Harriers
+Braintree Town - Tamworth
+Dartford - Alfreton Town
+Forest Green Rovers - Hyde United
+Hereford United - Grimsby Town
+Lincoln City - Ebbsfleet United
+Luton Town - Macclesfield Town
+Mansfield Town - Woking
+Nuneaton Town - Gateshead
+Stockport County - Cambridge United
+Telford United - Stockport County
+Southport - Telford United
+Barrow - Grimsby Town
+Braintree Town - Kidderminster Harriers
+Dartford - Newport County
+Forest Green Rovers - Ebbsfleet United
+Hereford United - Woking
+Lincoln City - Alfreton Town
+Luton Town - Cambridge United
+Mansfield Town - Tamworth
+Nuneaton Town - Telford Utd
+Southport - Gateshead
+Stockport County - Macclesfield Town
+Wrexham - Hyde United
+Alfreton Town - Luton Town
+Cambridge United - Wrexham
+Ebbsfleet United - Mansfield Town
+Gateshead - Dartford
+Grimsby Town - Forest Green Rovers
+Hyde United - Hereford United
+Kidderminster Harriers - Southport
+Macclesfield Town - Braintree Town
+Newport County - Stockport County
+Tamworth - Barrow
+Telford Utd - Lincoln City
+Woking - Nuneaton Town
+Stoke City - Arsenal
+1, 'F1', 0.25, 1.757
+1, 'F2', -0.25, 2.19
+1, 'TO', 1, 2.09
+1, 'TU', 1, 1.819
+0, 'F1', 0.25, 2.07
+0, 'F2', -0.25, 1.877
+0, 'F1', 0.75, 1.571
+0, 'F2', -0.75, 2.58
+0, 'F1', 0.5, 1.787
+0, 'F2', -0.5, 2.18
+0, 'F1', 0, 2.62
+0, 'F2', 0, 1.555
+0, 'F1', -0.25, 3.13
+0, 'F2', 0.25, 1.409
+0, 'TO', 2.5, 2.09
+0, 'TU', 2.5, 1.833
+0, 'TO', 2, 1.552
+0, 'TU', 2, 2.58
+0, 'TO', 2.25, 1.826
+0, 'TU', 2.25, 2.1
+0, 'TO', 2.75, 2.4
+0, 'TU', 2.75, 1.632
+0, 'TO', 3, 2.95
+0, 'TU', 3, 1.432
+0, '1', nil, 3.73
+0, 'X', nil, 3.45
+0, '2', nil, 2.16
+0, 'I1TO', 1, 2.06
+0, 'I1TU', 1, 1.826
+0, 'I2TO', 1.25, 1.833
+0, 'I2TU', 1.25, 2.05
+Liverpool - Manchester City
+0, 'F1', 0, 2.13
+0, 'F2', 0, 1.826
+0, 'F1', 0.5, 1.584
+0, 'F2', -0.5, 2.55
+0, 'F1', 0.25, 1.781
+0, 'F2', -0.25, 2.19
+0, 'F1', -0.25, 2.54
+0, 'F2', 0.25, 1.588
+0, 'F1', -0.5, 2.95
+0, 'F2', 0.5, 1.452
+0, 'TO', 2.5, 1.99
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.478
+0, 'TU', 2, 2.79
+0, 'TO', 2.25, 1.735
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.26
+0, 'TU', 2.75, 1.714
+0, 'TO', 3, 2.72
+0, 'TU', 3, 1.502
+0, '1', nil, 2.98
+0, 'X', nil, 3.42
+0, '2', nil, 2.55
+0, 'I1TO', 1, 1.724
+0, 'I1TU', 1, 2.18
+0, 'I2TO', 1.25, 1.925
+0, 'I2TU', 1.25, 1.952
+1, 'F1', 0, 2.08
+1, 'F2', 0, 1.847
+1, 'TO', 1, 1.99
+1, 'TU', 1, 1.909
+West Ham United - Fulham
+0, 'F1', 0, 1.909
+0, 'F2', 0, 2.03
+0, 'TO', 2.5, 2.03
+0, 'TU', 2.5, 1.892
+0, 'TO', 2, 1.505
+0, 'TU', 2, 2.71
+0, 'TO', 2.25, 1.769
+0, 'TU', 2.25, 2.17
+0, 'TO', 2.75, 2.31
+0, 'TU', 2.75, 1.684
+0, 'TO', 3, 2.8
+0, 'TU', 3, 1.473
+Swansea City - Sunderland
+0, 'F1', -0.25, 1.943
+0, 'F2', 0.25, 2
+0, 'TO', 2.25, 1.9
+0, 'TU', 2.25, 2.02
+0, 'TO', 1.75, 1.458
+0, 'TU', 1.75, 2.85
+0, 'TO', 2, 1.609
+0, 'TU', 2, 2.45
+0, 'TO', 2.5, 2.17
+0, 'TU', 2.5, 1.775
+0, 'TO', 2.75, 2.52
+0, 'TU', 2.75, 1.578
+Tottenham Hotspur - Norwich City
+0, 'F1', -1.25, 1.8
+0, 'F2', 1.25, 2.16
+0, 'TO', 3, 1.847
+0, 'TU', 3, 2.08
+0, 'TO', 2.5, 1.529
+0, 'TU', 2.5, 2.64
+0, 'TO', 2.75, 1.653
+0, 'TU', 2.75, 2.36
+0, 'TO', 3.25, 2.11
+0, 'TU', 3.25, 1.826
+0, 'TO', 3.5, 2.36
+0, 'TU', 3.5, 1.657
+W.B.A - Everton
+0, 'F1', 0, 2.06
+0, 'F2', 0, 1.884
+0, 'TO', 2.5, 2.09
+0, 'TU', 2.5, 1.84
+0, 'TO', 2, 1.549
+0, 'TU', 2, 2.59
+0, 'TO', 2.25, 1.826
+0, 'TU', 2.25, 2.11
+0, 'TO', 2.75, 2.39
+0, 'TU', 2.75, 1.636
+0, 'TO', 3, 2.94
+0, 'TU', 3, 1.434
+Wigan Athletic - Stoke City
+0, 'F1', -0.25, 2.02
+0, 'F2', 0.25, 1.917
+0, 'TO', 2.25, 2.07
+0, 'TU', 2.25, 1.854
+0, 'TO', 1.75, 1.552
+0, 'TU', 1.75, 2.58
+0, 'TO', 2, 1.751
+0, 'TU', 2, 2.2
+0, 'TO', 2.5, 2.37
+0, 'TU', 2.5, 1.649
+0, 'TO', 2.75, 2.82
+0, 'TU', 2.75, 1.471
+Manchester City - Queens Park Rangers
+0, 'F1', -2, 1.925
+0, 'F2', 2, 2.01
+0, 'TO', 3.25, 1.793
+0, 'TU', 3.25, 2.14
+0, 'TO', 2.75, 1.452
+0, 'TU', 2.75, 2.88
+0, 'TO', 3, 1.568
+0, 'TU', 3, 2.54
+0, 'TO', 3.5, 2.02
+0, 'TU', 3.5, 1.9
+Liverpool - Arsenal
+0, 'F1', -0.25, 1.99
+0, 'F2', 0.25, 1.952
+0, 'TO', 2.5, 2
+0, 'TU', 2.5, 1.917
+0, 'TO', 2, 1.485
+0, 'TU', 2, 2.77
+0, 'TO', 2.25, 1.746
+0, 'TU', 2.25, 2.21
+0, 'TO', 2.75, 2.27
+0, 'TU', 2.75, 1.709
+0, 'TO', 3, 2.74
+0, 'TU', 3, 1.495
+Newcastle United - Aston Villa
+0, 'F1', -0.75, 1.862
+0, 'F2', 0.75, 2.08
+0, 'TO', 2.5, 1.833
+0, 'TU', 2.5, 2.09
+0, 'TO', 2, 1.371
+0, 'TU', 2, 3.21
+0, 'TO', 2.25, 1.606
+0, 'TU', 2.25, 2.46
+0, 'TO', 2.75, 2.05
+0, 'TU', 2.75, 1.869
+0, 'TO', 3, 2.4
+0, 'TU', 3, 1.636
+Southampton - Manchester United
+0, 'F1', 1, 1.99
+0, 'F2', -1, 1.952
+0, 'TO', 2.75, 1.854
+0, 'TU', 2.75, 2.07
+0, 'TO', 2.25, 1.476
+0, 'TU', 2.25, 2.8
+0, 'TO', 2.5, 1.68
+0, 'TU', 2.5, 2.31
+0, 'TO', 3, 2.12
+0, 'TU', 3, 1.813
+0, 'TO', 3.25, 2.4
+0, 'TU', 3.25, 1.636
+HJK Helsinki - IFK Mariehamn
+0, 'F1', -1, 1.819
+0, 'F2', 1, 2.11
+0, 'F1', -1.5, 2.38
+0, 'F2', 1.5, 1.645
+0, 'F1', -1.25, 2.11
+0, 'F2', 1.25, 1.819
+0, 'F1', -0.75, 1.609
+0, 'F2', 0.75, 2.45
+0, 'F1', -0.5, 1.476
+0, 'F2', 0.5, 2.8
+0, 'TO', 2.5, 1.806
+0, 'TU', 2.5, 2.1
+0, 'TO', 2, 1.346
+0, 'TU', 2, 3.24
+0, 'TO', 2.25, 1.578
+0, 'TU', 2.25, 2.48
+0, 'TO', 2.75, 2.02
+0, 'TU', 2.75, 1.884
+0, 'TO', 3, 2.35
+0, 'TU', 3, 1.641
+0, '1', nil, 1.476
+0, 'X', nil, 4.58
+0, '2', nil, 7.75
+Inter Turku - Jaro
+0, 'F1', -1.25, 2
+0, 'F2', 1.25, 1.917
+0, 'F1', -1.75, 2.68
+0, 'F2', 1.75, 1.515
+0, 'F1', -1.5, 2.29
+0, 'F2', 1.5, 1.694
+0, 'F1', -1, 1.704
+0, 'F2', 1, 2.28
+0, 'F1', -0.75, 1.52
+0, 'F2', 0.75, 2.66
+0, 'TO', 2.75, 1.787
+0, 'TU', 2.75, 2.13
+0, 'TO', 2.25, 1.425
+0, 'TU', 2.25, 2.9
+0, 'TO', 2.5, 1.625
+0, 'TU', 2.5, 2.38
+0, 'TO', 3, 2.03
+0, 'TU', 3, 1.869
+0, 'TO', 3.25, 2.3
+0, 'TU', 3.25, 1.671
+0, '1', nil, 1.44
+0, 'X', nil, 4.91
+0, '2', nil, 7.87
+KuPS - JJK Jyvaskyla
+0, 'F1', -0.5, 1.877
+0, 'F2', 0.5, 2.04
+0, 'F1', -1, 2.54
+0, 'F2', 1, 1.568
+0, 'F1', -0.75, 2.11
+0, 'F2', 0.75, 1.819
+0, 'F1', -0.25, 1.645
+0, 'F2', 0.25, 2.38
+0, 'F1', 0, 1.39
+0, 'F2', 0, 3.12
+0, 'TO', 2.75, 1.806
+0, 'TU', 2.75, 2.1
+0, 'TO', 2.25, 1.44
+0, 'TU', 2.25, 2.85
+0, 'TO', 2.5, 1.641
+0, 'TU', 2.5, 2.35
+0, 'TO', 3, 2.06
+0, 'TU', 3, 1.847
+0, 'TO', 3.25, 2.33
+0, 'TU', 3.25, 1.653
+0, '1', nil, 1.877
+0, 'X', nil, 3.96
+0, '2', nil, 4.17
+MyPa - TPS Turku
+0, 'F1', 0, 2.06
+0, 'F2', 0, 1.862
+0, 'F1', 0.5, 1.549
+0, 'F2', -0.5, 2.59
+0, 'F1', 0.25, 1.735
+0, 'F2', -0.25, 2.23
+0, 'F1', -0.25, 2.47
+0, 'F2', 0.25, 1.598
+0, 'F1', -0.5, 2.87
+0, 'F2', 0.5, 1.454
+0, 'TO', 2.25, 1.8
+0, 'TU', 2.25, 2.11
+0, 'TO', 1.75, 1.396
+0, 'TU', 1.75, 3.01
+0, 'TO', 2, 1.526
+0, 'TU', 2, 2.6
+0, 'TO', 2.5, 2.06
+0, 'TU', 2.5, 1.84
+0, 'TO', 2.75, 2.36
+0, 'TU', 2.75, 1.636
+0, '1', nil, 2.87
+0, 'X', nil, 3.43
+0, '2', nil, 2.59
+Honka Espoo - Vaasa VPS
+0, 'F1', -0.5, 1.869
+0, 'F2', 0.5, 2.05
+0, 'F1', -1, 2.67
+0, 'F2', 1, 1.518
+0, 'F1', -0.75, 2.14
+0, 'F2', 0.75, 1.793
+0, 'F1', -0.25, 1.621
+0, 'F2', 0.25, 2.43
+0, 'F1', 0, 1.355
+0, 'F2', 0, 3.29
+0, 'TO', 2.25, 1.833
+0, 'TU', 2.25, 2.07
+0, 'TO', 1.75, 1.414
+0, 'TU', 1.75, 2.94
+0, 'TO', 2, 1.552
+0, 'TU', 2, 2.53
+0, 'TO', 2.5, 2.1
+0, 'TU', 2.5, 1.813
+0, 'TO', 2.75, 2.41
+0, 'TU', 2.75, 1.609
+0, '1', nil, 1.884
+0, 'X', nil, 3.66
+0, '2', nil, 4.42
+Lahti - Honka Espoo
+TPS Turku - HJK Helsinki
+IFK Mariehamn - KuPS
+Jaro - MyPa
+JJK Jyvaskyla - Haka
+Inter Turku - Vaasa VPS
+AC Oulu - OPS Oulu
+FC Hämeenlinna - HIFK Helsinki
+JIPPO Joensuu - FC Viikingit
+RoPS Rovaniemi - KooTeePee
+Seinajoen JK - PK-35 Vantaa
+FC Hämeenlinna - Seinajoen JK
+FC Viikingit - KooTeePee
+HIFK Helsinki - JIPPO Joensuu
+OPS Oulu - RoPS Rovaniemi
+PK-35 Vantaa - AC Oulu
+US Quevilly - Metz
+Bourg Peronnas - Rouen
+Amiens - CA Bastia
+Creteil - Vannes
+SR Colmar - Red Star Saint Ouen
+Carquefou - Paris FC
+Uzès Pont du Gard - Boulogne
+Etoile Frejus Saint Raphael - US Orleans
+SAS Espinal - Cherbourg
+Luzenac - Le Poire Sur Vie
+Boulogne - SAS Espinal
+CA Bastia - Carquefou
+Cherbourg - Etoile Frejus Saint Raphael
+Le Poire Sur Vie - Red Star Saint Ouen
+Luzenac - US Quevilly
+Metz - Creteil
+Paris FC - Bourg Peronnas
+Rouen - SR Colmar
+US Orleans - Amiens
+Vannes - Uzès Pont du Gard
+Montpellier - Marseille
+0, 'F1', -0.25, 2.04
+0, 'F2', 0.25, 1.877
+0, 'F1', -0.75, 2.93
+0, 'F2', 0.75, 1.438
+0, 'F1', -0.5, 2.41
+0, 'F2', 0.5, 1.628
+0, 'F1', 0, 1.653
+0, 'F2', 0, 2.36
+0, 'F1', 0.25, 1.45
+0, 'F2', -0.25, 2.89
+0, 'TO', 2.25, 2.1
+0, 'TU', 2.25, 1.806
+0, 'TO', 1.75, 1.564
+0, 'TU', 1.75, 2.5
+0, 'TO', 2, 1.781
+0, 'TU', 2, 2.14
+0, 'TO', 2.5, 2.41
+0, 'TU', 2.5, 1.609
+0, 'TO', 2.75, 2.87
+0, 'TU', 2.75, 1.434
+0, '1', nil, 2.41
+0, 'X', nil, 3.11
+0, '2', nil, 3.45
+1, 'F1', 0, 1.714
+1, 'F2', 0, 2.23
+1, 'TO', 0.75, 1.781
+1, 'TU', 0.75, 2.11
+Saint Etienne - Brest
+0, 'F1', -0.75, 1.847
+0, 'F2', 0.75, 2.08
+0, 'F1', -1.25, 2.59
+0, 'F2', 1.25, 1.549
+0, 'F1', -1, 2.18
+0, 'F2', 1, 1.769
+0, 'F1', -0.5, 1.653
+0, 'F2', 0.5, 2.36
+0, 'F1', -0.25, 1.416
+0, 'F2', 0.25, 3.01
+0, 'TO', 2, 1.775
+0, 'TU', 2, 2.14
+0, 'TO', 1.5, 1.434
+0, 'TU', 1.5, 2.87
+0, 'TO', 1.75, 1.564
+0, 'TU', 1.75, 2.51
+0, 'TO', 2.25, 2.1
+0, 'TU', 2.25, 1.813
+0, 'TO', 2.5, 2.4
+0, 'TU', 2.5, 1.613
+0, '1', nil, 1.657
+0, 'X', nil, 3.6
+0, '2', nil, 6.93
+1, 'F1', -0.25, 1.793
+1, 'F2', 0.25, 2.12
+1, 'TO', 0.75, 1.719
+1, 'TU', 0.75, 2.19
+Paris Saint Germain - Bordeaux
+0, 'F1', -1, 2.09
+0, 'F2', 1, 1.84
+0, 'F1', -1.5, 2.75
+0, 'F2', 1.5, 1.49
+0, 'F1', -1.25, 2.41
+0, 'F2', 1.25, 1.628
+0, 'F1', -0.75, 1.793
+0, 'F2', 0.75, 2.14
+0, 'F1', -0.5, 1.609
+0, 'F2', 0.5, 2.45
+0, 'TO', 2.5, 1.934
+0, 'TU', 2.5, 1.97
+0, 'TO', 2, 1.429
+0, 'TU', 2, 2.89
+0, 'TO', 2.25, 1.68
+0, 'TU', 2.25, 2.28
+0, 'TO', 2.75, 2.17
+0, 'TU', 2.75, 1.751
+0, 'TO', 3, 2.59
+0, 'TU', 3, 1.531
+0, '1', nil, 1.628
+0, 'X', nil, 3.87
+0, '2', nil, 6.54
+1, 'F1', -0.25, 1.763
+1, 'F2', 0.25, 2.16
+1, 'TO', 1, 1.869
+1, 'TU', 1, 2.01
+SC Bastia - Saint Etienne
+Lyon - Valenciennes
+Ajaccio - Évian Thonon Gaillard
+Brest - Troyes
+Lorient - Nancy
+Sochaux - Montpellier
+Toulouse - Reims
+Bordeaux - Nice
+Marseille - Rennes
+Lille - Paris Saint Germain
+Nantes - Le Mans
+0, 'F1', -0.75, 2.04
+0, 'F2', 0.75, 1.877
+0, 'F1', -1.25, 2.94
+0, 'F2', 1.25, 1.434
+0, 'F1', -1, 2.51
+0, 'F2', 1, 1.581
+0, 'F1', -0.5, 1.781
+0, 'F2', 0.5, 2.16
+0, 'F1', -0.25, 1.523
+0, 'F2', 0.25, 2.66
+0, 'TO', 2.25, 2.04
+0, 'TU', 2.25, 1.862
+0, 'TO', 1.75, 1.531
+0, 'TU', 1.75, 2.58
+0, 'TO', 2, 1.724
+0, 'TU', 2, 2.21
+0, 'TO', 2.5, 2.33
+0, 'TU', 2.5, 1.649
+0, 'TO', 2.75, 2.76
+0, 'TU', 2.75, 1.469
+0, '1', nil, 1.781
+0, 'X', nil, 3.48
+0, '2', nil, 5.52
+Lens - Angers
+Kerkyra - Atromitos
+0, 'F1', 0.25, 1.952
+0, 'F2', -0.25, 1.97
+0, 'F1', 0.75, 1.483
+0, 'F2', -0.75, 2.78
+0, 'F1', 0.5, 1.684
+0, 'F2', -0.5, 2.31
+0, 'F1', 0, 2.47
+0, 'F2', 0, 1.598
+0, 'F1', -0.25, 2.98
+0, 'F2', 0.25, 1.425
+0, 'TO', 2, 1.892
+0, 'TU', 2, 2.01
+0, 'TO', 1.5, 1.485
+0, 'TU', 1.5, 2.71
+0, 'TO', 1.75, 1.636
+0, 'TU', 1.75, 2.36
+0, 'TO', 2.25, 2.23
+0, 'TU', 2.25, 1.714
+0, 'TO', 2.5, 2.56
+0, 'TU', 2.5, 1.543
+0, '1', nil, 3.54
+0, 'X', nil, 3.19
+0, '2', nil, 2.3
+OFI - SKODA Xanthi
+0, 'F1', 0, 2.05
+0, 'F2', 0, 1.869
+0, 'F1', 0.5, 1.505
+0, 'F2', -0.5, 2.71
+0, 'F1', 0.25, 1.694
+0, 'F2', -0.25, 2.29
+0, 'F1', -0.25, 2.5
+0, 'F2', 0.25, 1.584
+0, 'F1', -0.5, 2.94
+0, 'F2', 0.5, 1.434
+0, 'TO', 2, 2.06
+0, 'TU', 2, 1.84
+0, 'TO', 1.5, 1.558
+0, 'TU', 1.5, 2.52
+0, 'TO', 1.75, 1.74
+0, 'TU', 1.75, 2.19
+0, 'TO', 2.25, 2.43
+0, 'TU', 2.25, 1.598
+0, 'TO', 2.5, 2.8
+0, 'TU', 2.5, 1.454
+0, '1', nil, 3.01
+0, 'X', nil, 3.01
+0, '2', nil, 2.73
+PAOK - Panthrakikos
+0, 'F1', -1.25, 2.02
+0, 'F2', 1.25, 1.9
+0, 'F1', -1.75, 2.77
+0, 'F2', 1.75, 1.485
+0, 'F1', -1.5, 2.31
+0, 'F2', 1.5, 1.684
+0, 'F1', -1, 1.709
+0, 'F2', 1, 2.27
+0, 'F1', -0.75, 1.523
+0, 'F2', 0.75, 2.66
+0, 'TO', 2.25, 2.05
+0, 'TU', 2.25, 1.854
+0, 'TO', 1.75, 1.534
+0, 'TU', 1.75, 2.57
+0, 'TO', 2, 1.735
+0, 'TU', 2, 2.2
+0, 'TO', 2.5, 2.34
+0, 'TU', 2.5, 1.645
+0, 'TO', 2.75, 2.77
+0, 'TU', 2.75, 1.465
+0, '1', nil, 1.42
+0, 'X', nil, 4.34
+0, '2', nil, 10.48
+Veria - Olympiacos
+0, 'F1', 1.5, 1.84
+0, 'F2', -1.5, 2.09
+0, 'F1', 2, 1.358
+0, 'F2', -2, 3.28
+0, 'F1', 1.75, 1.598
+0, 'F2', -1.75, 2.47
+0, 'F1', 1.25, 2.11
+0, 'F2', -1.25, 1.826
+0, 'F1', 1, 2.6
+0, 'F2', -1, 1.546
+0, 'TO', 2.5, 1.98
+0, 'TU', 2.5, 1.917
+0, 'TO', 2, 1.465
+0, 'TU', 2, 2.77
+0, 'TO', 2.25, 1.724
+0, 'TU', 2.25, 2.21
+0, 'TO', 2.75, 2.24
+0, 'TU', 2.75, 1.704
+0, 'TO', 3, 2.69
+0, 'TU', 3, 1.49
+0, '1', nil, 12
+0, 'X', nil, 5.22
+0, '2', nil, 1.324
+Panionios - Aris Thessaloniki
+0, 'F1', -0.25, 2.06
+0, 'F2', 0.25, 1.862
+0, 'F1', -0.75, 3
+0, 'F2', 0.75, 1.42
+0, 'F1', -0.5, 2.42
+0, 'F2', 0.5, 1.625
+0, 'F1', 0, 1.662
+0, 'F2', 0, 2.35
+0, 'F1', 0.25, 1.452
+0, 'F2', -0.25, 2.88
+0, 'TO', 2, 2.1
+0, 'TU', 2, 1.806
+0, 'TO', 1.5, 1.574
+0, 'TU', 1.5, 2.48
+0, 'TO', 1.75, 1.769
+0, 'TU', 1.75, 2.15
+0, 'TO', 2.25, 2.48
+0, 'TU', 2.25, 1.574
+0, 'TO', 2.5, 2.86
+0, 'TU', 2.5, 1.436
+0, '1', nil, 2.43
+0, 'X', nil, 3.09
+0, '2', nil, 3.4
+Debrecin VSC - Lombard Pápa
+0, 'F1', -1.75, 1.847
+0, 'F2', 1.75, 1.99
+0, 'TO', 2.75, 1.781
+0, 'TU', 2.75, 2.06
+0, 'TO', 2.25, 1.406
+0, 'TU', 2.25, 2.76
+0, 'TO', 2.5, 1.613
+0, 'TU', 2.5, 2.29
+0, 'TO', 3, 2.03
+0, 'TU', 3, 1.813
+0, 'TO', 3.25, 2.29
+0, 'TU', 3.25, 1.617
+Videoton FC - Szombathelyi Haladas
+0, 'F1', -1, 1.943
+0, 'F2', 1, 1.9
+0, 'TO', 2.5, 1.847
+0, 'TU', 2.5, 1.99
+0, 'TO', 2, 1.354
+0, 'TU', 2, 2.94
+0, 'TO', 2.25, 1.602
+0, 'TU', 2.25, 2.31
+0, 'TO', 2.75, 2.07
+0, 'TU', 2.75, 1.775
+0, 'TO', 3, 2.43
+0, 'TU', 3, 1.54
+Pecsi MFC - Kecskemeti TE
+Budapest Honved - MTK Hungaria FC
+Diosgyori VTK - Gyor ETO
+Egri FC - Ferencvarosi
+Szombathelyi Haladas - Paksi SE
+Lombard Pápa - Kaposvari FC
+Ujpest - Debrecin VSC
+BFC Siófok - Videoton FC
+Breidablik - Selfoss
+0, 'F1', -0.75, 2.09
+0, 'F2', 0.75, 1.833
+0, 'F1', -1.25, 2.91
+0, 'F2', 1.25, 1.442
+0, 'F1', -1, 2.53
+0, 'F2', 1, 1.574
+0, 'F1', -0.5, 1.84
+0, 'F2', 0.5, 2.09
+0, 'F1', -0.25, 1.595
+0, 'F2', 0.25, 2.48
+0, 'TO', 2.75, 1.877
+0, 'TU', 2.75, 2.02
+0, 'TO', 2.25, 1.485
+0, 'TU', 2.25, 2.71
+0, 'TO', 2.5, 1.699
+0, 'TU', 2.5, 2.25
+0, 'TO', 3, 2.15
+0, 'TU', 3, 1.769
+0, 'TO', 3.25, 2.43
+0, 'TU', 3.25, 1.598
+0, '1', nil, 1.84
+0, 'X', nil, 3.83
+0, '2', nil, 4.45
+ÍA Akranes - Grindavik
+0, 'F1', -0.75, 2.08
+0, 'F2', 0.75, 1.847
+0, 'F1', -1.25, 2.85
+0, 'F2', 1.25, 1.46
+0, 'F1', -1, 2.48
+0, 'F2', 1, 1.595
+0, 'F1', -0.5, 1.826
+0, 'F2', 0.5, 2.1
+0, 'F1', -0.25, 1.598
+0, 'F2', 0.25, 2.47
+0, 'TO', 3.25, 1.892
+0, 'TU', 3.25, 2.01
+0, 'TO', 2.75, 1.507
+0, 'TU', 2.75, 2.65
+0, 'TO', 3, 1.645
+0, 'TU', 3, 2.34
+0, 'TO', 3.5, 2.12
+0, 'TU', 3.5, 1.793
+0, '1', nil, 1.813
+0, 'X', nil, 3.94
+0, '2', nil, 4.44
+Stjarnan Gardabaer - ÍBV Vestmannaeyjar
+0, 'F1', -0.25, 2.07
+0, 'F2', 0.25, 1.854
+0, 'F1', -0.75, 2.78
+0, 'F2', 0.75, 1.48
+0, 'F1', -0.5, 2.34
+0, 'F2', 0.5, 1.666
+0, 'F1', 0, 1.757
+0, 'F2', 0, 2.19
+0, 'F1', 0.25, 1.558
+0, 'F2', -0.25, 2.57
+0, 'TO', 3.25, 1.925
+0, 'TU', 3.25, 1.97
+0, 'TO', 2.75, 1.529
+0, 'TU', 2.75, 2.59
+0, 'TO', 3, 1.68
+0, 'TU', 3, 2.28
+0, 'TO', 3.5, 2.15
+0, 'TU', 3.5, 1.769
+0, '1', nil, 2.36
+0, 'X', nil, 3.8
+0, '2', nil, 2.91
+Fylkir - FH Hafnarfjordur
+0, 'F1', 0.5, 2.06
+0, 'F2', -0.5, 1.862
+0, 'F1', 1, 1.578
+0, 'F2', -1, 2.52
+0, 'F1', 0.75, 1.826
+0, 'F2', -0.75, 2.11
+0, 'F1', 0.25, 2.39
+0, 'F2', -0.25, 1.636
+0, 'F1', 0, 3.12
+0, 'F2', 0, 1.39
+0, 'TO', 3, 1.854
+0, 'TU', 3, 2.05
+0, 'TO', 2.5, 1.526
+0, 'TU', 2.5, 2.6
+0, 'TO', 2.75, 1.653
+0, 'TU', 2.75, 2.32
+0, 'TO', 3.25, 2.11
+0, 'TU', 3.25, 1.8
+0, 'TO', 3.5, 2.36
+0, 'TU', 3.5, 1.632
+0, '1', nil, 4.13
+0, 'X', nil, 3.98
+0, '2', nil, 1.862
+Keflavik - Valur Reykjavik
+KR Reykjavik - Fram Reykjavik
+FH Hafnarfjordur - ÍBV Vestmannaeyjar
+ÍBV Vestmannaeyjar - ÍA Akranes
+Selfoss - KR Reykjavik
+Valur Reykjavik - Stjarnan Gardabaer
+FH Hafnarfjordur - Keflavik
+Grindavik - Breidablik
+Fram Reykjavik - Fylkir
+Cork City - Shamrock Rovers
+Drogheda United - Dundalk
+UC Dublin - Bray Wanderers
+Shelbourne - Derry City
+Sligo Rovers - Bohemians
+Bohemians - St Patricks Athletic
+Bray Wanderers - Drogheda United
+Derry City - Cork City
+Dundalk - UC Dublin
+Shamrock Rovers - Shelbourne
+Cork City - Bray Wanderers
+Drogheda United - Derry City
+Sligo Rovers - Dundalk
+Shamrock Rovers - Bohemians
+Shelbourne - St Patricks Athletic
+Athlone Town - Longford Town
+Limerick FC - Waterford United
+Mervue United - Finn Harps
+Wexford Youths - SD Galway
+Limerick FC - Mervue United
+Finn Harps - Athlone Town
+SD Galway - Waterford United
+Longford Town - Wexford Youths
+Maccabi Tel Aviv - Maccabi Haifa
+0, 'F1', -0.25, 2.16
+0, 'F2', 0.25, 1.74
+0, 'TO', 2.25, 1.97
+0, 'TU', 2.25, 1.909
+0, 'TO', 1.75, 1.485
+0, 'TU', 1.75, 2.65
+0, 'TO', 2, 1.662
+0, 'TU', 2, 2.28
+0, 'TO', 2.5, 2.25
+0, 'TU', 2.5, 1.68
+0, 'TO', 2.75, 2.63
+0, 'TU', 2.75, 1.495
+Hapoel Ramat Gan (n) - Hapoel Tel Aviv
+0, 'F1', 1, 1.769
+0, 'F2', -1, 2.12
+0, 'F1', 1.5, 1.42
+0, 'F2', -1.5, 2.85
+0, 'F1', 1.25, 1.552
+0, 'F2', -1.25, 2.49
+0, 'F1', 0.75, 2.1
+0, 'F2', -0.75, 1.787
+0, 'F1', 0.5, 2.4
+0, 'F2', -0.5, 1.595
+0, 'TO', 2.5, 1.917
+0, 'TU', 2.5, 1.961
+0, 'TO', 2, 1.414
+0, 'TU', 2, 2.87
+0, 'TO', 2.25, 1.666
+0, 'TU', 2.25, 2.27
+0, 'TO', 2.75, 2.16
+0, 'TU', 2.75, 1.746
+0, 'TO', 3, 2.56
+0, 'TU', 3, 1.52
+0, '1', nil, 5.93
+0, 'X', nil, 4.01
+0, '2', nil, 1.606
+Consadole Sapporo - Shimizu S Pulse
+Urawa Red Diamonds - Omiya Ardija
+FC Tokyo - Yokohama F Marinos
+Albirex Niigata - Cerezo Osaka
+Jubilo Iwata - Hiroshima Sanfrecce
+Kashima Antlers - Vissel Kobe
+Nagoya Grampus Eight - Kashiwa Reysol
+Sagan Tosu - Gamba Osaka
+Vegalta Sendai - Kawasaki Frontale
+Ehime FC - FC Gifu
+0, 'F1', -0.5, 1.98
+0, 'F2', 0.5, 1.917
+0, 'F1', -1, 2.91
+0, 'F2', 1, 1.423
+0, 'F1', -0.75, 2.28
+0, 'F2', 0.75, 1.68
+0, 'F1', -0.25, 1.714
+0, 'F2', 0.25, 2.23
+0, 'F1', 0, 1.423
+0, 'F2', 0, 2.91
+0, 'TO', 2.25, 1.961
+0, 'TU', 2.25, 1.917
+0, 'TO', 1.75, 1.48
+0, 'TU', 1.75, 2.67
+0, 'TO', 2, 1.653
+0, 'TU', 2, 2.29
+0, 'TO', 2.5, 2.24
+0, 'TU', 2.5, 1.689
+0, 'TO', 2.75, 2.61
+0, 'TU', 2.75, 1.5
+0, '1', nil, 1.98
+0, 'X', nil, 3.46
+0, '2', nil, 4.23
+1, 'F1', -0.25, 2.07
+1, 'F2', 0.25, 1.813
+1, 'TO', 1, 2.12
+1, 'TU', 1, 1.769
+Gainare Tottori - Tokushima Vortis
+0, 'F1', 0.5, 1.943
+0, 'F2', -0.5, 1.961
+0, 'F1', 1, 1.418
+0, 'F2', -1, 2.93
+0, 'F1', 0.75, 1.68
+0, 'F2', -0.75, 2.28
+0, 'F1', 0.25, 2.29
+0, 'F2', -0.25, 1.675
+0, 'F1', 0, 3.09
+0, 'F2', 0, 1.377
+0, 'TO', 2.25, 1.97
+0, 'TU', 2.25, 1.909
+0, 'TO', 1.75, 1.485
+0, 'TU', 1.75, 2.65
+0, 'TO', 2, 1.662
+0, 'TU', 2, 2.28
+0, 'TO', 2.5, 2.25
+0, 'TU', 2.5, 1.68
+0, 'TO', 2.75, 2.63
+0, 'TU', 2.75, 1.495
+0, '1', nil, 4.39
+0, 'X', nil, 3.42
+0, '2', nil, 1.961
+1, 'F1', 0.25, 1.847
+1, 'F2', -0.25, 2.03
+1, 'TO', 1, 2.18
+1, 'TU', 1, 1.724
+Tokyo Verdy - Giravanz Kitakyushu
+0, 'F1', -0.75, 1.892
+0, 'F2', 0.75, 2.01
+0, 'F1', -1.25, 2.68
+0, 'F2', 1.25, 1.495
+0, 'F1', -1, 2.28
+0, 'F2', 1, 1.684
+0, 'F1', -0.5, 1.666
+0, 'F2', 0.5, 2.31
+0, 'F1', -0.25, 1.45
+0, 'F2', 0.25, 2.82
+0, 'TO', 2.5, 1.98
+0, 'TU', 2.5, 1.9
+0, 'TO', 2, 1.458
+0, 'TU', 2, 2.73
+0, 'TO', 2.25, 1.724
+0, 'TU', 2.25, 2.19
+0, 'TO', 2.75, 2.24
+0, 'TU', 2.75, 1.689
+0, 'TO', 3, 2.69
+0, 'TU', 3, 1.471
+0, '1', nil, 1.666
+0, 'X', nil, 3.82
+0, '2', nil, 5.93
+1, 'F1', -0.25, 1.746
+1, 'F2', 0.25, 2.15
+1, 'TO', 1, 1.877
+1, 'TU', 1, 2
+Ventforet Kofu - Yokohama FC
+1, 'F1', -0.25, 2
+1, 'F2', 0.25, 1.877
+1, 'TO', 1, 2.13
+1, 'TU', 1, 1.763
+0, 'F1', -0.5, 1.892
+0, 'F2', 0.5, 2.01
+0, 'F1', -1, 2.77
+0, 'F2', 1, 1.465
+0, 'F1', -0.75, 2.19
+0, 'F2', 0.75, 1.74
+0, 'F1', -0.25, 1.613
+0, 'F2', 0.25, 2.4
+0, 'F1', 0, 1.343
+0, 'F2', 0, 3.25
+0, 'TO', 2.25, 1.961
+0, 'TU', 2.25, 1.917
+0, 'TO', 1.75, 1.48
+0, 'TU', 1.75, 2.67
+0, 'TO', 2, 1.653
+0, 'TU', 2, 2.29
+0, 'TO', 2.5, 2.24
+0, 'TU', 2.5, 1.689
+0, 'TO', 2.75, 2.61
+0, 'TU', 2.75, 1.5
+0, '1', nil, 1.892
+0, 'X', nil, 3.36
+0, '2', nil, 4.91
+Shonan Bellmare - Tochigi SC
+0, 'F1', -0.5, 2.08
+0, 'F2', 0.5, 1.826
+0, 'F1', -1, 3.26
+0, 'F2', 1, 1.342
+0, 'F1', -0.75, 2.46
+0, 'F2', 0.75, 1.584
+0, 'F1', -0.25, 1.781
+0, 'F2', 0.25, 2.13
+0, 'F1', 0, 1.454
+0, 'F2', 0, 2.8
+0, 'TO', 2.25, 2.09
+0, 'TU', 2.25, 1.8
+0, 'TO', 1.75, 1.552
+0, 'TU', 1.75, 2.48
+0, 'TO', 2, 1.769
+0, 'TU', 2, 2.13
+0, 'TO', 2.5, 2.39
+0, 'TU', 2.5, 1.602
+0, 'TO', 2.75, 2.84
+0, 'TU', 2.75, 1.421
+0, '1', nil, 2.08
+0, 'X', nil, 3.34
+0, '2', nil, 4.01
+1, 'F1', -0.25, 2.12
+1, 'F2', 0.25, 1.769
+1, 'TO', 0.75, 1.746
+1, 'TU', 0.75, 2.15
+Avispa Fukuoka - Matsumoto Yamaga
+1, 'F1', 0, 1.735
+1, 'F2', 0, 2.17
+1, 'TO', 1, 2.12
+1, 'TU', 1, 1.769
+0, 'F1', -0.25, 1.99
+0, 'F2', 0.25, 1.909
+0, 'F1', -0.75, 2.77
+0, 'F2', 0.75, 1.465
+0, 'F1', -0.5, 2.3
+0, 'F2', 0.5, 1.666
+0, 'F1', 0, 1.653
+0, 'F2', 0, 2.33
+0, 'F1', 0.25, 1.469
+0, 'F2', -0.25, 2.76
+0, 'TO', 2.25, 1.862
+0, 'TU', 2.25, 2.02
+0, 'TO', 1.75, 1.423
+0, 'TU', 1.75, 2.84
+0, 'TO', 2, 1.571
+0, 'TU', 2, 2.45
+0, 'TO', 2.5, 2.13
+0, 'TU', 2.5, 1.769
+0, 'TO', 2.75, 2.45
+0, 'TU', 2.75, 1.571
+0, '1', nil, 2.31
+0, 'X', nil, 3.45
+0, '2', nil, 3.25
+Fagiano Okayama - Oita Trinita
+0, 'F1', 0, 1.877
+0, 'F2', 0, 2.02
+0, 'F1', -0.5, 2.64
+0, 'F2', 0.5, 1.51
+0, 'F1', -0.25, 2.26
+0, 'F2', 0.25, 1.694
+0, 'F1', 0.25, 1.598
+0, 'F2', -0.25, 2.43
+0, 'F1', 0.5, 1.444
+0, 'F2', -0.5, 2.84
+0, 'TO', 2.25, 2.05
+0, 'TU', 2.25, 1.833
+0, 'TO', 1.75, 1.531
+0, 'TU', 1.75, 2.54
+0, 'TO', 2, 1.735
+0, 'TU', 2, 2.17
+0, 'TO', 2.5, 2.34
+0, 'TU', 2.5, 1.625
+0, 'TO', 2.75, 2.77
+0, 'TU', 2.75, 1.444
+0, '1', nil, 2.7
+0, 'X', nil, 3.17
+0, '2', nil, 2.91
+1, 'F1', 0, 1.877
+1, 'F2', 0, 2
+1, 'TO', 0.75, 1.787
+1, 'TU', 0.75, 2.1
+JEF United Ichihara - Mito Hollyhock
+1, 'F1', -0.25, 1.925
+1, 'F2', 0.25, 1.952
+1, 'TO', 1, 2.1
+1, 'TU', 1, 1.787
+0, 'F1', -0.5, 1.793
+0, 'F2', 0.5, 2.12
+0, 'F1', -1, 2.59
+0, 'F2', 1, 1.529
+0, 'F1', -0.75, 2.07
+0, 'F2', 0.75, 1.833
+0, 'F1', -0.25, 1.543
+0, 'F2', 0.25, 2.55
+0, 'F1', 0, 1.291
+0, 'F2', 0, 3.55
+0, 'TO', 2.25, 1.877
+0, 'TU', 2.25, 2
+0, 'TO', 1.75, 1.432
+0, 'TU', 1.75, 2.81
+0, 'TO', 2, 1.584
+0, 'TU', 2, 2.42
+0, 'TO', 2.5, 2.14
+0, 'TU', 2.5, 1.751
+0, 'TO', 2.75, 2.48
+0, 'TU', 2.75, 1.558
+0, '1', nil, 1.793
+0, 'X', nil, 3.67
+0, '2', nil, 5.01
+Montedio Yamagata - Machida Zelvia
+0, 'F1', -1, 1.961
+0, 'F2', 1, 1.943
+0, 'F1', -1.5, 2.57
+0, 'F2', 1.5, 1.537
+0, 'F1', -1.25, 2.27
+0, 'F2', 1.25, 1.684
+0, 'F1', -0.75, 1.689
+0, 'F2', 0.75, 2.27
+0, 'F1', -0.5, 1.523
+0, 'F2', 0.5, 2.6
+0, 'TO', 2.25, 1.746
+0, 'TU', 2.25, 2.15
+0, 'TO', 1.75, 1.359
+0, 'TU', 1.75, 3.09
+0, 'TO', 2, 1.478
+0, 'TU', 2, 2.67
+0, 'TO', 2.5, 2.01
+0, 'TU', 2.5, 1.877
+0, 'TO', 2.75, 2.28
+0, 'TU', 2.75, 1.662
+0, '1', nil, 1.534
+0, 'X', nil, 4.17
+0, '2', nil, 7.19
+1, 'F1', -0.5, 2.09
+1, 'F2', 0.5, 1.793
+1, 'TO', 1, 2.05
+1, 'TU', 1, 1.833
+Roasso Kumamoto - Kataller Toyama
+0, 'F1', -0.5, 2.13
+0, 'F2', 0.5, 1.781
+0, 'F1', -1, 3.37
+0, 'F2', 1, 1.322
+0, 'F1', -0.75, 2.53
+0, 'F2', 0.75, 1.552
+0, 'F1', -0.25, 1.826
+0, 'F2', 0.25, 2.08
+0, 'F1', 0, 1.49
+0, 'F2', 0, 2.69
+0, 'TO', 2.25, 2.02
+0, 'TU', 2.25, 1.862
+0, 'TO', 1.75, 1.512
+0, 'TU', 1.75, 2.58
+0, 'TO', 2, 1.704
+0, 'TU', 2, 2.21
+0, 'TO', 2.5, 2.3
+0, 'TU', 2.5, 1.645
+0, 'TO', 2.75, 2.72
+0, 'TU', 2.75, 1.462
+0, '1', nil, 2.13
+0, 'X', nil, 3.29
+0, '2', nil, 3.9
+1, 'F1', -0.25, 2.15
+1, 'F2', 0.25, 1.746
+1, 'TO', 0.75, 1.781
+1, 'TU', 0.75, 2.11
+Giravanz Kitakyushu - Roasso Kumamoto
+Kataller Toyama - Ehime FC
+Machida Zelvia - Fagiano Okayama
+Matsumoto Yamaga - Thespa Kusatsu
+Mito Hollyhock - Gainare Tottori
+Oita Trinita - Ventforet Kofu
+Yokohama FC - Tochigi SC
+Tokushima Vortis - Montedio Yamagata
+FC Gifu - Tokyo Verdy
+JEF United Ichihara - Avispa Fukuoka
+Kyoto Sanga - Shonan Bellmare
+Thespa Kusatsu (n) - Kyoto Sanga
+0, 'F1', 0.5, 1.98
+0, 'F2', -0.5, 1.917
+0, 'F1', 1, 1.44
+0, 'F2', -1, 2.85
+0, 'F1', 0.75, 1.714
+0, 'F2', -0.75, 2.23
+0, 'F1', 0.25, 2.34
+0, 'F2', -0.25, 1.649
+0, 'F1', 0, 3.1
+0, 'F2', 0, 1.375
+0, 'TO', 2.25, 2
+0, 'TU', 2.25, 1.877
+0, 'TO', 1.75, 1.502
+0, 'TU', 1.75, 2.61
+0, 'TO', 2, 1.689
+0, 'TU', 2, 2.24
+0, 'TO', 2.5, 2.28
+0, 'TU', 2.5, 1.657
+0, 'TO', 2.75, 2.68
+0, 'TU', 2.75, 1.473
+0, '1', nil, 4.52
+0, 'X', nil, 3.52
+0, '2', nil, 1.909
+1, 'F1', 0.25, 1.869
+1, 'F2', -0.25, 2.01
+1, 'TO', 1, 2.16
+1, 'TU', 1, 1.74
+Getafe - Real Madrid
+1, 'F1', 0.75, 1.9
+1, 'F2', -0.75, 2.02
+1, 'TO', 1.25, 1.925
+1, 'TU', 1.25, 1.97
+0, 'F1', 1.5, 1.877
+0, 'F2', -1.5, 2.07
+0, 'F1', 2, 1.462
+0, 'F2', -2, 2.91
+0, 'F1', 1.75, 1.671
+0, 'F2', -1.75, 2.37
+0, 'F1', 1.25, 2.13
+0, 'F2', -1.25, 1.826
+0, 'F1', 1, 2.61
+0, 'F2', -1, 1.561
+0, 'TO', 3, 1.869
+0, 'TU', 3, 2.05
+0, 'TO', 2.5, 1.54
+0, 'TU', 2.5, 2.61
+0, 'TO', 2.75, 1.671
+0, 'TU', 2.75, 2.33
+0, 'TO', 3.25, 2.13
+0, 'TU', 3.25, 1.806
+0, 'TO', 3.5, 2.39
+0, 'TU', 3.5, 1.641
+0, '1', nil, 9.3
+0, 'X', nil, 5.43
+0, '2', nil, 1.373
+0, 'I1TO', 0.75, 2.04
+0, 'I1TU', 0.75, 1.84
+0, 'I2TO', 2.25, 1.943
+0, 'I2TU', 2.25, 1.943
+Osasuna - Barcelona
+1, 'F1', 1, 1.675
+1, 'F2', -1, 2.32
+1, 'TO', 1.25, 1.813
+1, 'TU', 1.25, 2.1
+0, 'F1', 1.75, 2.11
+0, 'F2', -1.75, 1.84
+0, 'F1', 2.25, 1.632
+0, 'F2', -2.25, 2.44
+0, 'F1', 2, 1.826
+0, 'F2', -2, 2.13
+0, 'F1', 1.5, 2.41
+0, 'F2', -1.5, 1.649
+0, 'F1', 1.25, 2.89
+0, 'F2', -1.25, 1.469
+0, 'TO', 3, 1.793
+0, 'TU', 3, 2.14
+0, 'TO', 2.5, 1.502
+0, 'TU', 2.5, 2.72
+0, 'TO', 2.75, 1.617
+0, 'TU', 2.75, 2.43
+0, 'TO', 3.25, 2.05
+0, 'TU', 3.25, 1.869
+0, 'TO', 3.5, 2.3
+0, 'TU', 3.5, 1.694
+0, '1', nil, 16.1
+0, 'X', nil, 7
+0, '2', nil, 1.226
+0, 'I1TO', 0.5, 1.892
+0, 'I1TU', 0.5, 1.99
+0, 'I2TO', 2.5, 1.925
+0, 'I2TU', 2.5, 1.952
+Granada - Sevilla
+0, 'F1', 0, 2.08
+0, 'F2', 0, 1.862
+0, 'F1', 0.5, 1.568
+0, 'F2', -0.5, 2.59
+0, 'F1', 0.25, 1.751
+0, 'F2', -0.25, 2.23
+0, 'F1', -0.25, 2.48
+0, 'F2', 0.25, 1.613
+0, 'F1', -0.5, 2.88
+0, 'F2', 0.5, 1.471
+0, 'TO', 2.25, 1.862
+0, 'TU', 2.25, 2.06
+0, 'TO', 1.75, 1.438
+0, 'TU', 1.75, 2.93
+0, 'TO', 2, 1.578
+0, 'TU', 2, 2.52
+0, 'TO', 2.5, 2.13
+0, 'TU', 2.5, 1.806
+0, 'TO', 2.75, 2.46
+0, 'TU', 2.75, 1.606
+0, '1', nil, 2.92
+0, 'X', nil, 3.4
+0, '2', nil, 2.61
+0, 'I1TO', 1, 1.787
+0, 'I1TU', 1, 2.1
+0, 'I2TO', 1.25, 2.09
+0, 'I2TU', 1.25, 1.793
+1, 'F1', 0, 2.06
+1, 'F2', 0, 1.862
+1, 'TO', 1, 2.14
+1, 'TU', 1, 1.775
+Valencia - Deportivo La Coruna
+1, 'F1', -0.5, 1.917
+1, 'F2', 0.5, 2
+1, 'TO', 1, 1.746
+1, 'TU', 1, 2.18
+0, 'F1', -1.25, 2
+0, 'F2', 1.25, 1.943
+0, 'F1', -1.75, 2.66
+0, 'F2', 1.75, 1.543
+0, 'F1', -1.5, 2.27
+0, 'F2', 1.5, 1.724
+0, 'F1', -1, 1.704
+0, 'F2', 1, 2.31
+0, 'F1', -0.75, 1.531
+0, 'F2', 0.75, 2.69
+0, 'TO', 2.75, 1.909
+0, 'TU', 2.75, 2.01
+0, 'TO', 2.25, 1.512
+0, 'TU', 2.25, 2.69
+0, 'TO', 2.5, 1.724
+0, 'TU', 2.5, 2.24
+0, 'TO', 3, 2.19
+0, 'TU', 3, 1.757
+0, 'TO', 3.25, 2.48
+0, 'TU', 3.25, 1.595
+0, '1', nil, 1.444
+0, 'X', nil, 4.72
+0, '2', nil, 8.6
+0, 'I1TO', 2, 2
+0, 'I1TU', 2, 1.877
+0, 'I2TO', 0.5, 1.769
+0, 'I2TU', 0.5, 2.12
+Real Valladolid - Levante
+0, 'F1', -0.25, 1.833
+0, 'F2', 0.25, 2.12
+0, 'F1', -0.75, 2.52
+0, 'F2', 0.75, 1.598
+0, 'F1', -0.5, 2.14
+0, 'F2', 0.5, 1.813
+0, 'F1', 0, 1.515
+0, 'F2', 0, 2.74
+0, 'F1', 0.25, 1.38
+0, 'F2', -0.25, 3.27
+0, 'TO', 2.25, 1.98
+0, 'TU', 2.25, 1.943
+0, 'TO', 1.75, 1.502
+0, 'TU', 1.75, 2.72
+0, 'TO', 2, 1.671
+0, 'TU', 2, 2.33
+0, 'TO', 2.5, 2.26
+0, 'TU', 2.5, 1.714
+0, 'TO', 2.75, 2.65
+0, 'TU', 2.75, 1.526
+0, '1', nil, 2.14
+0, 'X', nil, 3.44
+0, '2', nil, 3.81
+0, 'I1TO', 1.25, 1.917
+0, 'I1TU', 1.25, 1.961
+0, 'I2TO', 0.75, 1.775
+0, 'I2TU', 0.75, 2.12
+1, 'F1', -0.25, 2.23
+1, 'F2', 0.25, 1.729
+1, 'TO', 1, 2.21
+1, 'TU', 1, 1.724
+Atletico Madrid - Athletic Bilbao
+1, 'F1', -0.25, 1.781
+1, 'F2', 0.25, 2.16
+1, 'TO', 1, 1.8
+1, 'TU', 1, 2.11
+0, 'F1', -1, 2.13
+0, 'F2', 1, 1.826
+0, 'F1', -1.5, 2.85
+0, 'F2', 1.5, 1.48
+0, 'F1', -1.25, 2.49
+0, 'F2', 1.25, 1.609
+0, 'F1', -0.75, 1.813
+0, 'F2', 0.75, 2.15
+0, 'F1', -0.5, 1.628
+0, 'F2', 0.5, 2.45
+0, 'TO', 2.5, 1.806
+0, 'TU', 2.5, 2.13
+0, 'TO', 2, 1.35
+0, 'TU', 2, 3.32
+0, 'TO', 2.25, 1.578
+0, 'TU', 2.25, 2.52
+0, 'TO', 2.75, 2.01
+0, 'TU', 2.75, 1.909
+0, 'TO', 3, 2.34
+0, 'TU', 3, 1.666
+0, '1', nil, 1.625
+0, 'X', nil, 4.15
+0, '2', nil, 6.1
+0, 'I1TO', 1.75, 1.925
+0, 'I1TU', 1.75, 1.952
+0, 'I2TO', 0.75, 1.877
+0, 'I2TU', 0.75, 2
+Celta Vigo - Osasuna
+0, 'F1', -0.25, 1.854
+0, 'F2', 0.25, 2.09
+0, 'TO', 2.5, 2.13
+0, 'TU', 2.5, 1.806
+0, 'TO', 2, 1.578
+0, 'TU', 2, 2.52
+0, 'TO', 2.25, 1.862
+0, 'TU', 2.25, 2.06
+0, 'TO', 2.75, 2.45
+0, 'TU', 2.75, 1.609
+0, 'TO', 3, 3.04
+0, 'TU', 3, 1.409
+Real Zaragoza - Malaga
+0, 'F1', 0, 1.892
+0, 'F2', 0, 2.05
+0, 'TO', 2.5, 2.13
+0, 'TU', 2.5, 1.806
+0, 'TO', 2, 1.578
+0, 'TU', 2, 2.52
+0, 'TO', 2.25, 1.862
+0, 'TU', 2.25, 2.06
+0, 'TO', 2.75, 2.45
+0, 'TU', 2.75, 1.609
+0, 'TO', 3, 3.04
+0, 'TU', 3, 1.409
+Deportivo La Coruna - Getafe
+0, 'F1', -0.25, 1.833
+0, 'F2', 0.25, 2.12
+0, 'TO', 2.5, 2.16
+0, 'TU', 2.5, 1.781
+0, 'TO', 2, 1.602
+0, 'TU', 2, 2.47
+0, 'TO', 2.25, 1.892
+0, 'TU', 2.25, 2.03
+0, 'TO', 2.75, 2.5
+0, 'TU', 2.75, 1.588
+0, 'TO', 3, 3.12
+0, 'TU', 3, 1.39
+Mallorca - Real Sociedad
+0, 'F1', -0.5, 2.05
+0, 'F2', 0.5, 1.892
+0, 'TO', 2.25, 1.961
+0, 'TU', 2.25, 1.961
+0, 'TO', 1.75, 1.492
+0, 'TU', 1.75, 2.75
+0, 'TO', 2, 1.657
+0, 'TU', 2, 2.36
+0, 'TO', 2.5, 2.24
+0, 'TU', 2.5, 1.724
+0, 'TO', 2.75, 2.62
+0, 'TU', 2.75, 1.537
+Rayo Vallecano - Sevilla
+0, 'F1', 0, 2.18
+0, 'F2', 0, 1.787
+0, 'TO', 2.25, 1.917
+0, 'TU', 2.25, 2
+0, 'TO', 1.75, 1.469
+0, 'TU', 1.75, 2.82
+0, 'TO', 2, 1.625
+0, 'TU', 2, 2.42
+0, 'TO', 2.5, 2.19
+0, 'TU', 2.5, 1.757
+0, 'TO', 2.75, 2.55
+0, 'TU', 2.75, 1.568
+Athletic Bilbao - Real Valladolid
+0, 'F1', -0.75, 2.12
+0, 'F2', 0.75, 1.833
+0, 'TO', 2.5, 2.13
+0, 'TU', 2.5, 1.806
+0, 'TO', 2, 1.578
+0, 'TU', 2, 2.52
+0, 'TO', 2.25, 1.862
+0, 'TU', 2.25, 2.06
+0, 'TO', 2.75, 2.45
+0, 'TU', 2.75, 1.609
+0, 'TO', 3, 3.04
+0, 'TU', 3, 1.409
+Levante - RCD Espanyol
+0, 'F1', -0.5, 2.15
+0, 'F2', 0.5, 1.806
+0, 'TO', 2.25, 2.01
+0, 'TU', 2.25, 1.909
+0, 'TO', 1.75, 1.52
+0, 'TU', 1.75, 2.67
+0, 'TO', 2, 1.699
+0, 'TU', 2, 2.28
+0, 'TO', 2.5, 2.3
+0, 'TU', 2.5, 1.689
+0, 'TO', 2.75, 2.71
+0, 'TU', 2.75, 1.505
+Barcelona - Valencia
+0, 'F1', -1.75, 1.884
+0, 'F2', 1.75, 2.06
+0, 'TO', 3.25, 1.869
+0, 'TU', 3.25, 2.05
+0, 'TO', 2.75, 1.5
+0, 'TU', 2.75, 2.72
+0, 'TO', 3, 1.632
+0, 'TU', 3, 2.4
+0, 'TO', 3.5, 2.1
+0, 'TU', 3.5, 1.833
+Real Madrid - Granada
+0, 'F1', -2.75, 1.909
+0, 'F2', 2.75, 2.03
+0, 'TO', 3.75, 1.877
+0, 'TU', 3.75, 2.04
+Real Betis - Atletico Madrid
+Home Teams (Sunday 4 Matches) - Away Teams (Sunday 4 Matches)
+0, 'F1', 2.5, 1.9
+0, 'F2', -2.5, 2.04
+0, 'TO', 12, 2.02
+0, 'TU', 12, 1.9
+Ballymena United - Lisburn Distillery
+Dungannon Swifts - Portadown
+Coleraine - Cliftonville
+Crusaders - Ballinamallard United
+Donegal Celtic - Glenavon FC
+Glentoran FC - Linfield FC
+Glenavon FC - Portadown
+Ballinamallard United - Glentoran FC
+Cliftonville - Ballymena United
+Donegal Celtic - Coleraine
+Linfield FC - Crusaders
+Lisburn Distillery - Dungannon Swifts
+Ballymena United - Donegal Celtic
+Cliftonville - Ballinamallard United
+Coleraine - Lisburn Distillery
+Dungannon Swifts - Glentoran FC
+Glenavon FC - Crusaders
+Portadown - Linfield FC
+Bodo Glimt - Ham Kam
+0, 'F1', -0.75, 1.877
+0, 'F2', 0.75, 2.02
+0, 'F1', -1.25, 2.54
+0, 'F2', 1.25, 1.546
+0, 'F1', -1, 2.2
+0, 'F2', 1, 1.729
+0, 'F1', -0.5, 1.675
+0, 'F2', 0.5, 2.29
+0, 'F1', -0.25, 1.462
+0, 'F2', 0.25, 2.78
+0, 'TO', 3, 1.961
+0, 'TU', 3, 1.917
+0, 'TO', 2.5, 1.581
+0, 'TU', 2.5, 2.42
+0, 'TO', 2.75, 1.729
+0, 'TU', 2.75, 2.17
+0, 'TO', 3.25, 2.22
+0, 'TU', 3.25, 1.699
+0, 'TO', 3.5, 2.48
+0, 'TU', 3.5, 1.555
+0, '1', nil, 1.68
+0, 'X', nil, 4.22
+0, '2', nil, 4.91
+Alta - Sandefjord
+0, 'F1', 0.5, 2.02
+0, 'F2', -0.5, 1.877
+0, 'F1', 1, 1.537
+0, 'F2', -1, 2.57
+0, 'F1', 0.75, 1.787
+0, 'F2', -0.75, 2.13
+0, 'F1', 0.25, 2.35
+0, 'F2', -0.25, 1.641
+0, 'F1', 0, 3.04
+0, 'F2', 0, 1.389
+0, 'TO', 3, 1.98
+0, 'TU', 3, 1.9
+0, 'TO', 2.5, 1.591
+0, 'TU', 2.5, 2.4
+0, 'TO', 2.75, 1.746
+0, 'TU', 2.75, 2.16
+0, 'TO', 3.25, 2.24
+0, 'TU', 3.25, 1.684
+0, 'TO', 3.5, 2.5
+0, 'TU', 3.5, 1.546
+0, '1', nil, 4.08
+0, 'X', nil, 3.83
+0, '2', nil, 1.892
+Baerum SK Sandvika - Hodd
+0, 'F1', 0.25, 1.9
+0, 'F2', -0.25, 2
+0, 'F1', 0.75, 1.526
+0, 'F2', -0.75, 2.6
+0, 'F1', 0.5, 1.689
+0, 'F2', -0.5, 2.26
+0, 'F1', 0, 2.25
+0, 'F2', 0, 1.699
+0, 'F1', -0.25, 2.61
+0, 'F2', 0.25, 1.52
+0, 'TO', 3.5, 1.917
+0, 'TU', 3.5, 1.961
+0, 'TO', 3, 1.487
+0, 'TU', 3, 2.65
+0, 'TO', 3.25, 1.704
+0, 'TU', 3.25, 2.21
+0, '1', nil, 2.98
+0, 'X', nil, 3.87
+0, '2', nil, 2.27
+Kongsvinger - Mjondalen IF
+0, 'F1', -0.75, 1.925
+0, 'F2', 0.75, 1.97
+0, 'F1', -1.25, 2.59
+0, 'F2', 1.25, 1.529
+0, 'F1', -1, 2.26
+0, 'F2', 1, 1.694
+0, 'F1', -0.5, 1.714
+0, 'F2', 0.5, 2.22
+0, 'F1', -0.25, 1.497
+0, 'F2', 0.25, 2.67
+0, 'TO', 3, 1.862
+0, 'TU', 3, 2.02
+0, 'TO', 2.5, 1.523
+0, 'TU', 2.5, 2.55
+0, 'TO', 2.75, 1.657
+0, 'TU', 2.75, 2.29
+0, 'TO', 3.25, 2.12
+0, 'TU', 3.25, 1.775
+0, 'TO', 3.5, 2.36
+0, 'TU', 3.5, 1.613
+0, '1', nil, 1.729
+0, 'X', nil, 4.07
+0, '2', nil, 4.91
+Notodden FK - Ullensaker Kisa IL
+0, 'F1', -0.5, 1.909
+0, 'F2', 0.5, 1.99
+0, 'F1', -1, 2.6
+0, 'F2', 1, 1.526
+0, 'F1', -0.75, 2.16
+0, 'F2', 0.75, 1.763
+0, 'F1', -0.25, 1.653
+0, 'F2', 0.25, 2.33
+0, 'F1', 0, 1.401
+0, 'F2', 0, 2.99
+0, 'TO', 3, 1.84
+0, 'TU', 3, 2.04
+0, 'TO', 2.5, 1.512
+0, 'TU', 2.5, 2.58
+0, 'TO', 2.75, 1.641
+0, 'TU', 2.75, 2.31
+0, 'TO', 3.25, 2.1
+0, 'TU', 3.25, 1.793
+0, 'TO', 3.5, 2.34
+0, 'TU', 3.5, 1.625
+0, '1', nil, 1.892
+0, 'X', nil, 3.9
+0, '2', nil, 4.06
+Ranheim - Bryne
+0, 'F1', -1, 2.12
+0, 'F2', 1, 1.793
+0, 'F1', -1.5, 2.76
+0, 'F2', 1.5, 1.467
+0, 'F1', -1.25, 2.44
+0, 'F2', 1.25, 1.595
+0, 'F1', -0.75, 1.826
+0, 'F2', 0.75, 2.08
+0, 'F1', -0.5, 1.636
+0, 'F2', 0.5, 2.36
+0, 'TO', 3, 1.847
+0, 'TU', 3, 2.03
+0, 'TO', 2.5, 1.518
+0, 'TU', 2.5, 2.57
+0, 'TO', 2.75, 1.649
+0, 'TU', 2.75, 2.3
+0, 'TO', 3.25, 2.11
+0, 'TU', 3.25, 1.781
+0, 'TO', 3.5, 2.35
+0, 'TU', 3.5, 1.621
+0, '1', nil, 1.666
+0, 'X', nil, 4.1
+0, '2', nil, 5.35
+Sarpsborg 08 - Tromsdalen
+0, 'F1', -1.75, 1.787
+0, 'F2', 1.75, 2.13
+0, 'TO', 3.5, 1.781
+0, 'TU', 3.5, 2.11
+0, 'TO', 3, 1.393
+0, 'TU', 3, 2.94
+0, 'TO', 3.25, 1.588
+0, 'TU', 3.25, 2.41
+Strommen - Start IK
+0, 'F1', 1, 2.08
+0, 'F2', -1, 1.826
+0, 'F1', 1.5, 1.621
+0, 'F2', -1.5, 2.39
+0, 'F1', 1.25, 1.8
+0, 'F2', -1.25, 2.11
+0, 'F1', 0.75, 2.38
+0, 'F2', -0.75, 1.625
+0, 'F1', 0.5, 2.68
+0, 'F2', -0.5, 1.495
+0, 'TO', 3, 1.793
+0, 'TU', 3, 2.09
+0, 'TO', 2.5, 1.487
+0, 'TU', 2.5, 2.64
+0, 'TO', 2.75, 1.609
+0, 'TU', 2.75, 2.37
+0, 'TO', 3.25, 2.05
+0, 'TU', 3.25, 1.833
+0, 'TO', 3.5, 2.29
+0, 'TU', 3.5, 1.657
+0, '1', nil, 6.5
+0, 'X', nil, 4.45
+0, '2', nil, 1.531
+Hodd - Notodden FK
+Bryne - Bodo Glimt
+Ullensaker Kisa IL - Sandefjord
+Bryne - Kongsvinger
+Ham Kam - Sarpsborg 08
+Hodd - Ranheim
+Mjondalen IF - Bodo Glimt
+Sandefjord - Notodden FK
+Start IK - Baerum SK Sandvika
+Tromsdalen - Strommen
+Ullensaker Kisa IL - Alta
+Ranheim - Sandefjord
+Baerum SK Sandvika - Bryne
+Strommen - Ham Kam
+Bodo Glimt - Ullensaker Kisa IL
+Kongsvinger - Alta
+Notodden FK - Mjondalen IF
+Sarpsborg 08 - Hodd
+Start IK - Tromsdalen
+Bryne - Bodo Glimt
+Molde - Valerenga
+0, 'F1', -1, 1.862
+0, 'F2', 1, 2.06
+0, 'F1', -1.5, 2.39
+0, 'F2', 1.5, 1.636
+0, 'F1', -1.25, 2.13
+0, 'F2', 1.25, 1.806
+0, 'F1', -0.75, 1.649
+0, 'F2', 0.75, 2.37
+0, 'F1', -0.5, 1.51
+0, 'F2', 0.5, 2.69
+0, 'TO', 3, 1.925
+0, 'TU', 3, 1.97
+0, 'TO', 2.5, 1.568
+0, 'TU', 2.5, 2.5
+0, 'TO', 2.75, 1.709
+0, 'TU', 2.75, 2.24
+0, 'TO', 3.25, 2.19
+0, 'TU', 3.25, 1.74
+0, 'TO', 3.5, 2.44
+0, 'TU', 3.5, 1.591
+0, '1', nil, 1.515
+0, 'X', nil, 4.58
+0, '2', nil, 6.8
+Haugesund - Stabaek
+0, 'F1', -1.25, 1.892
+0, 'F2', 1.25, 2.03
+0, 'F1', -1.75, 2.43
+0, 'F2', 1.75, 1.617
+0, 'F1', -1.5, 2.16
+0, 'F2', 1.5, 1.781
+0, 'F1', -1, 1.621
+0, 'F2', 1, 2.43
+0, 'F1', -0.75, 1.48
+0, 'F2', 0.75, 2.78
+0, 'TO', 3, 1.729
+0, 'TU', 3, 2.2
+0, 'TO', 2.5, 1.46
+0, 'TU', 2.5, 2.79
+0, 'TO', 2.75, 1.568
+0, 'TU', 2.75, 2.5
+0, 'TO', 3.25, 1.98
+0, 'TU', 3.25, 1.917
+0, 'TO', 3.5, 2.22
+0, 'TU', 3.5, 1.724
+0, '1', nil, 1.4
+0, 'X', nil, 5.2
+0, '2', nil, 8.45
+Honefoss BK - Tromso
+0, 'F1', 0, 1.909
+0, 'F2', 0, 2.01
+0, 'F1', -0.5, 2.62
+0, 'F2', 0.5, 1.537
+0, 'F1', -0.25, 2.27
+0, 'F2', 0.25, 1.709
+0, 'F1', 0.25, 1.636
+0, 'F2', -0.25, 2.39
+0, 'F1', 0.5, 1.483
+0, 'F2', -0.5, 2.78
+0, 'TO', 2.5, 1.97
+0, 'TU', 2.5, 1.934
+0, 'TO', 2, 1.454
+0, 'TU', 2, 2.8
+0, 'TO', 2.25, 1.714
+0, 'TU', 2.25, 2.23
+0, 'TO', 2.75, 2.22
+0, 'TU', 2.75, 1.719
+0, 'TO', 3, 2.66
+0, 'TU', 3, 1.502
+0, '1', nil, 2.64
+0, 'X', nil, 3.46
+0, '2', nil, 2.79
+Sandnes Ulf - Sogndal
+0, 'F1', -0.25, 1.99
+0, 'F2', 0.25, 1.925
+0, 'F1', -0.75, 2.76
+0, 'F2', 0.75, 1.487
+0, 'F1', -0.5, 2.3
+0, 'F2', 0.5, 1.689
+0, 'F1', 0, 1.641
+0, 'F2', 0, 2.39
+0, 'F1', 0.25, 1.46
+0, 'F2', -0.25, 2.85
+0, 'TO', 2.5, 2.09
+0, 'TU', 2.5, 1.819
+0, 'TO', 2, 1.546
+0, 'TU', 2, 2.55
+0, 'TO', 2.25, 1.826
+0, 'TU', 2.25, 2.08
+0, 'TO', 2.75, 2.39
+0, 'TU', 2.75, 1.617
+0, 'TO', 3, 2.95
+0, 'TU', 3, 1.413
+0, '1', nil, 2.32
+0, 'X', nil, 3.41
+0, '2', nil, 3.33
+Rosenborg - Viking
+0, 'F1', -1, 2.12
+0, 'F2', 1, 1.813
+0, 'F1', -1.5, 2.76
+0, 'F2', 1.5, 1.487
+0, 'F1', -1.25, 2.44
+0, 'F2', 1.25, 1.613
+0, 'F1', -0.75, 1.826
+0, 'F2', 0.75, 2.1
+0, 'F1', -0.5, 1.645
+0, 'F2', 0.5, 2.38
+0, 'TO', 2.75, 1.847
+0, 'TU', 2.75, 2.06
+0, 'TO', 2.25, 1.465
+0, 'TU', 2.25, 2.77
+0, 'TO', 2.5, 1.671
+0, 'TU', 2.5, 2.3
+0, 'TO', 3, 2.11
+0, 'TU', 3, 1.806
+0, 'TO', 3.25, 2.38
+0, 'TU', 3.25, 1.625
+0, '1', nil, 1.649
+0, 'X', nil, 4.25
+0, '2', nil, 5.45
+Fredrikstad - Aalesund FK
+0, 'F1', 0, 1.961
+0, 'F2', 0, 1.961
+0, 'F1', -0.5, 2.68
+0, 'F2', 0.5, 1.515
+0, 'F1', -0.25, 2.32
+0, 'F2', 0.25, 1.675
+0, 'F1', 0.25, 1.671
+0, 'F2', -0.25, 2.33
+0, 'F1', 0.5, 1.507
+0, 'F2', -0.5, 2.7
+0, 'TO', 2.5, 1.909
+0, 'TU', 2.5, 1.99
+0, 'TO', 2, 1.414
+0, 'TU', 2, 2.94
+0, 'TO', 2.25, 1.662
+0, 'TU', 2.25, 2.31
+0, 'TO', 2.75, 2.15
+0, 'TU', 2.75, 1.775
+0, 'TO', 3, 2.54
+0, 'TU', 3, 1.549
+0, '1', nil, 2.7
+0, 'X', nil, 3.46
+0, '2', nil, 2.7
+Valerenga - Sandnes Ulf
+Lillestrom - Fredrikstad
+Aalesund FK - Honefoss BK
+Haugesund - Odd Grenland
+Sogndal - Stromsgodset
+Viking - Tromso
+Brann - Molde
+Stabaek - Rosenborg
+Cerro Porteño - Cerro Porteño PF
+Guarani - Tacuary Asuncion
+Olimpia Asuncion - Nacional Querido
+Rubio Ñú - Independiente CG
+Sol de America - Sportivo Luqueno
+Sportivo Carapegua - Libertad
+Cerro Porteño PF - Guarani
+Independiente CG - Cerro Porteño
+Libertad - Rubio Ñú
+Nacional Querido - Sol de America
+Sportivo Luqueno - Sportivo Carapegua
+Tacuary Asuncion - Olimpia Asuncion
+Cerro Porteno PF (n) - Tacuary Asuncion
+0, 'F1', -0.5, 2.2
+0, 'F2', 0.5, 1.675
+0, 'TO', 2.5, 2.08
+0, 'TU', 2.5, 1.763
+0, 'TO', 2, 1.531
+0, 'TU', 2, 2.45
+0, 'TO', 2.25, 1.819
+0, 'TU', 2.25, 2.02
+0, 'TO', 2.75, 2.38
+0, 'TU', 2.75, 1.561
+0, 'TO', 3, 2.93
+0, 'TU', 3, 1.357
+0, '1', nil, 2.2
+0, 'X', nil, 3.41
+0, '2', nil, 3.41
+FBC Melgar Arequipa - Juan Aurich
+0, 'F1', -0.5, 1.877
+0, 'F2', 0.5, 1.961
+0, 'TO', 2.25, 1.8
+0, 'TU', 2.25, 2.04
+0, 'TO', 1.75, 1.374
+0, 'TU', 1.75, 2.87
+0, 'TO', 2, 1.512
+0, 'TU', 2, 2.48
+0, 'TO', 2.5, 2.06
+0, 'TU', 2.5, 1.781
+0, 'TO', 2.75, 2.35
+0, 'TU', 2.75, 1.581
+0, '1', nil, 1.877
+0, 'X', nil, 3.58
+0, '2', nil, 4.4
+Sport Huancayo - Cienciano Cuzco
+0, 'F1', -0.75, 1.74
+0, 'F2', 0.75, 2.11
+0, 'TO', 2.5, 2.03
+0, 'TU', 2.5, 1.813
+0, 'TO', 2, 1.49
+0, 'TU', 2, 2.54
+0, 'TO', 2.25, 1.769
+0, 'TU', 2.25, 2.07
+0, 'TO', 2.75, 2.31
+0, 'TU', 2.75, 1.606
+0, 'TO', 3, 2.81
+0, 'TU', 3, 1.393
+0, '1', nil, 1.581
+0, 'X', nil, 3.97
+0, '2', nil, 6.37
+Unión Comercio - Real Garcilaso
+0, 'F1', 0, 1.641
+0, 'F2', 0, 2.25
+0, 'TO', 2.25, 1.925
+0, 'TU', 2.25, 1.917
+0, 'TO', 1.75, 1.444
+0, 'TU', 1.75, 2.65
+0, 'TO', 2, 1.617
+0, 'TU', 2, 2.29
+0, 'TO', 2.5, 2.19
+0, 'TU', 2.5, 1.68
+0, 'TO', 2.75, 2.54
+0, 'TU', 2.75, 1.487
+0, '1', nil, 2.35
+0, 'X', nil, 3.3
+0, '2', nil, 3.22
+Universidad Cesar Vallejo - Leon de Huanuco
+0, 'F1', -0.75, 1.555
+0, 'F2', 0.75, 2.4
+0, 'TO', 2.25, 1.719
+0, 'TU', 2.25, 2.14
+0, 'TO', 1.75, 1.327
+0, 'TU', 1.75, 3.05
+0, 'TO', 2, 1.448
+0, 'TU', 2, 2.65
+0, 'TO', 2.5, 1.98
+0, 'TU', 2.5, 1.862
+0, 'TO', 2.75, 2.23
+0, 'TU', 2.75, 1.649
+0, '1', nil, 1.483
+0, 'X', nil, 4.21
+0, '2', nil, 7.73
+Universitario Deportes - Inti Gas Deportes
+Slask Wroclaw - Korona Kielce
+0, 'F1', -0.5, 2.2
+0, 'F2', 0.5, 1.751
+0, 'F1', -1, 3.45
+0, 'F2', 1, 1.327
+0, 'F1', -0.75, 2.61
+0, 'F2', 0.75, 1.54
+0, 'F1', -0.25, 1.909
+0, 'F2', 0.25, 2.01
+0, 'F1', 0, 1.571
+0, 'F2', 0, 2.54
+0, 'TO', 2.25, 1.869
+0, 'TU', 2.25, 2.03
+0, 'TO', 1.75, 1.434
+0, 'TU', 1.75, 2.87
+0, 'TO', 2, 1.581
+0, 'TU', 2, 2.47
+0, 'TO', 2.5, 2.14
+0, 'TU', 2.5, 1.781
+0, 'TO', 2.75, 2.47
+0, 'TU', 2.75, 1.581
+0, '1', nil, 2.24
+0, 'X', nil, 3.34
+0, '2', nil, 3.54
+GKS Belchatow - Legia Warszawa
+0, 'F1', 0.5, 1.869
+0, 'F2', -0.5, 2.05
+0, 'F1', 1, 1.393
+0, 'F2', -1, 3.11
+0, 'F1', 0.75, 1.636
+0, 'F2', -0.75, 2.39
+0, 'F1', 0.25, 2.18
+0, 'F2', -0.25, 1.769
+0, 'F1', 0, 2.85
+0, 'F2', 0, 1.46
+0, 'TO', 2.25, 1.98
+0, 'TU', 2.25, 1.917
+0, 'TO', 1.75, 1.497
+0, 'TU', 1.75, 2.67
+0, 'TO', 2, 1.671
+0, 'TU', 2, 2.29
+0, 'TO', 2.5, 2.26
+0, 'TU', 2.5, 1.694
+0, 'TO', 2.75, 2.65
+0, 'TU', 2.75, 1.505
+0, '1', nil, 4.11
+0, 'X', nil, 3.35
+0, '2', nil, 2.05
+MKS Pogon Szczecin - Lechia Gdansk
+0, 'F1', 0, 1.757
+0, 'F2', 0, 2.19
+0, 'F1', -0.5, 2.48
+0, 'F2', 0.5, 1.595
+0, 'F1', -0.25, 2.13
+0, 'F2', 0.25, 1.806
+0, 'F1', 0.25, 1.531
+0, 'F2', -0.25, 2.63
+0, 'F1', 0.5, 1.4
+0, 'F2', -0.5, 3.08
+0, 'TO', 2.25, 2.03
+0, 'TU', 2.25, 1.869
+0, 'TO', 1.75, 1.526
+0, 'TU', 1.75, 2.6
+0, 'TO', 2, 1.719
+0, 'TU', 2, 2.22
+0, 'TO', 2.5, 2.32
+0, 'TU', 2.5, 1.657
+0, 'TO', 2.75, 2.74
+0, 'TU', 2.75, 1.473
+0, '1', nil, 2.55
+0, 'X', nil, 3.21
+0, '2', nil, 3.06
+Piast Gliwice - MKS Pogon Szczecin
+Wisla Krakow - Polonia Warszawa
+Korona Kielce - Lechia Gdansk
+Widzew Lodz - GKS Belchatow
+Jagiellonia Bialystok - Zaglebie Lubin
+Lech Poznan - Gornik Zabrze
+Slask Wroclaw - Ruch Chorzow
+Legia Warszawa - Podbeskidzie Bielsko Biala
+Estoril Praia - Paços de Ferreira
+0, 'F1', -0.25, 1.961
+0, 'F2', 0.25, 1.961
+0, 'F1', -0.75, 2.75
+0, 'F2', 0.75, 1.49
+0, 'F1', -0.5, 2.29
+0, 'F2', 0.5, 1.694
+0, 'F1', 0, 1.606
+0, 'F2', 0, 2.46
+0, 'F1', 0.25, 1.431
+0, 'F2', -0.25, 2.96
+0, 'TO', 2.25, 2.09
+0, 'TU', 2.25, 1.819
+0, 'TO', 1.75, 1.558
+0, 'TU', 1.75, 2.52
+0, 'TO', 2, 1.769
+0, 'TU', 2, 2.15
+0, 'TO', 2.5, 2.39
+0, 'TU', 2.5, 1.621
+0, 'TO', 2.75, 2.84
+0, 'TU', 2.75, 1.442
+0, '1', nil, 2.28
+0, 'X', nil, 3.26
+0, '2', nil, 3.51
+Maritimo - Gil Vicente
+0, 'F1', -0.5, 1.909
+0, 'F2', 0.5, 2.01
+0, 'F1', -1, 2.79
+0, 'F2', 1, 1.478
+0, 'F1', -0.75, 2.21
+0, 'F2', 0.75, 1.746
+0, 'F1', -0.25, 1.632
+0, 'F2', 0.25, 2.4
+0, 'F1', 0, 1.354
+0, 'F2', 0, 3.3
+0, 'TO', 2.25, 1.99
+0, 'TU', 2.25, 1.909
+0, 'TO', 1.75, 1.502
+0, 'TU', 1.75, 2.66
+0, 'TO', 2, 1.68
+0, 'TU', 2, 2.28
+0, 'TO', 2.5, 2.27
+0, 'TU', 2.5, 1.684
+0, 'TO', 2.75, 2.66
+0, 'TU', 2.75, 1.5
+0, '1', nil, 1.925
+0, 'X', nil, 3.42
+0, '2', nil, 4.6
+Moreirense - Nacional da Madeira
+0, 'F1', 0, 2.04
+0, 'F2', 0, 1.884
+0, 'F1', 0.5, 1.52
+0, 'F2', -0.5, 2.66
+0, 'F1', 0.25, 1.704
+0, 'F2', -0.25, 2.28
+0, 'F1', -0.25, 2.45
+0, 'F2', 0.25, 1.609
+0, 'F1', -0.5, 2.87
+0, 'F2', 0.5, 1.454
+0, 'TO', 2.25, 1.97
+0, 'TU', 2.25, 1.925
+0, 'TO', 1.75, 1.492
+0, 'TU', 1.75, 2.69
+0, 'TO', 2, 1.666
+0, 'TU', 2, 2.31
+0, 'TO', 2.5, 2.25
+0, 'TU', 2.5, 1.699
+0, 'TO', 2.75, 2.64
+0, 'TU', 2.75, 1.51
+0, '1', nil, 2.85
+0, 'X', nil, 3.25
+0, '2', nil, 2.69
+Sporting Lisbon - Rio Ave
+0, 'F1', -1.25, 2.04
+0, 'F2', 1.25, 1.877
+0, 'F1', -1.75, 2.8
+0, 'F2', 1.75, 1.476
+0, 'F1', -1.5, 2.34
+0, 'F2', 1.5, 1.666
+0, 'F1', -1, 1.724
+0, 'F2', 1, 2.24
+0, 'F1', -0.75, 1.537
+0, 'F2', 0.75, 2.62
+0, 'TO', 2.5, 1.98
+0, 'TU', 2.5, 1.917
+0, 'TO', 2, 1.465
+0, 'TU', 2, 2.77
+0, 'TO', 2.25, 1.724
+0, 'TU', 2.25, 2.21
+0, 'TO', 2.75, 2.24
+0, 'TU', 2.75, 1.704
+0, 'TO', 3, 2.69
+0, 'TU', 3, 1.49
+0, '1', nil, 1.431
+0, 'X', nil, 4.54
+0, '2', nil, 9.02
+Vitoria Setubal - Benfica
+0, 'F1', 1.5, 1.869
+0, 'F2', -1.5, 2.05
+0, 'F1', 2, 1.408
+0, 'F2', -2, 3.05
+0, 'F1', 1.75, 1.641
+0, 'F2', -1.75, 2.39
+0, 'F1', 1.25, 2.13
+0, 'F2', -1.25, 1.806
+0, 'F1', 1, 2.59
+0, 'F2', -1, 1.549
+0, 'TO', 2.75, 1.917
+0, 'TU', 2.75, 1.98
+0, 'TO', 2.25, 1.51
+0, 'TU', 2.25, 2.64
+0, 'TO', 2.5, 1.729
+0, 'TU', 2.5, 2.21
+0, 'TO', 3, 2.2
+0, 'TU', 3, 1.729
+0, 'TO', 3.25, 2.49
+0, 'TU', 3.25, 1.571
+0, '1', nil, 10.25
+0, 'X', nil, 5.1
+0, '2', nil, 1.358
+Beira Mar - Moreirense
+Benfica - Nacional da Madeira
+Gil Vicente - Vitoria Setubal
+Maritimo - Sporting Lisbon
+Olhanense - Porto
+Paços de Ferreira - Sporting Braga
+Rio Ave - Academica Coimbra
+Vitoria Guimaraes - Estoril Praia
+Atletico Clube de Portugal - Sporting Lisbon B
+0, 'F1', 0.25, 1.793
+0, 'F2', -0.25, 2.12
+0, 'F1', 0.75, 1.386
+0, 'F2', -0.75, 3.06
+0, 'F1', 0.5, 1.571
+0, 'F2', -0.5, 2.49
+0, 'F1', 0, 2.19
+0, 'F2', 0, 1.74
+0, 'F1', -0.25, 2.64
+0, 'F2', 0.25, 1.51
+0, 'TO', 2.25, 2.12
+0, 'TU', 2.25, 1.775
+0, 'TO', 1.75, 1.571
+0, 'TU', 1.75, 2.45
+0, 'TO', 2, 1.793
+0, 'TU', 2, 2.09
+0, 'TO', 2.5, 2.42
+0, 'TU', 2.5, 1.581
+0, 'TO', 2.75, 2.9
+0, 'TU', 2.75, 1.406
+0, '1', nil, 3.14
+0, 'X', nil, 3.19
+0, '2', nil, 2.48
+1, 'F1', 0, 2.12
+1, 'F2', 0, 1.769
+1, 'TO', 0.75, 1.813
+1, 'TU', 0.75, 2.07
+Benfica B - Belenenses
+0, 'F1', 0, 1.826
+0, 'F2', 0, 2.08
+0, 'F1', -0.5, 2.49
+0, 'F2', 0.5, 1.571
+0, 'F1', -0.25, 2.16
+0, 'F2', 0.25, 1.763
+0, 'F1', 0.25, 1.574
+0, 'F2', -0.25, 2.48
+0, 'F1', 0.5, 1.425
+0, 'F2', -0.5, 2.9
+0, 'TO', 2.25, 1.909
+0, 'TU', 2.25, 1.97
+0, 'TO', 1.75, 1.45
+0, 'TU', 1.75, 2.76
+0, 'TO', 2, 1.609
+0, 'TU', 2, 2.37
+0, 'TO', 2.5, 2.18
+0, 'TU', 2.5, 1.729
+0, 'TO', 2.75, 2.52
+0, 'TU', 2.75, 1.534
+0, '1', nil, 2.55
+0, 'X', nil, 3.35
+0, '2', nil, 2.91
+FC Arouca - Oliveirense
+1, 'F1', 0, 1.666
+1, 'F2', 0, 2.27
+1, 'TO', 0.75, 1.781
+1, 'TU', 0.75, 2.11
+0, 'F1', -0.25, 1.925
+0, 'F2', 0.25, 1.97
+0, 'F1', -0.75, 2.66
+0, 'F2', 0.75, 1.502
+0, 'F1', -0.5, 2.24
+0, 'F2', 0.5, 1.704
+0, 'F1', 0, 1.574
+0, 'F2', 0, 2.48
+0, 'F1', 0.25, 1.404
+0, 'F2', -0.25, 2.98
+0, 'TO', 2.25, 2.08
+0, 'TU', 2.25, 1.806
+0, 'TO', 1.75, 1.549
+0, 'TU', 1.75, 2.5
+0, 'TO', 2, 1.757
+0, 'TU', 2, 2.14
+0, 'TO', 2.5, 2.38
+0, 'TU', 2.5, 1.606
+0, 'TO', 2.75, 2.83
+0, 'TU', 2.75, 1.427
+0, '1', nil, 2.24
+0, 'X', nil, 3.27
+0, '2', nil, 3.53
+Feirense - Naval
+0, 'F1', -0.25, 1.99
+0, 'F2', 0.25, 1.909
+0, 'F1', -0.75, 2.82
+0, 'F2', 0.75, 1.448
+0, 'F1', -0.5, 2.34
+0, 'F2', 0.5, 1.645
+0, 'F1', 0, 1.613
+0, 'F2', 0, 2.4
+0, 'F1', 0.25, 1.423
+0, 'F2', -0.25, 2.91
+0, 'TO', 2, 1.826
+0, 'TU', 2, 2.06
+0, 'TO', 1.5, 1.448
+0, 'TU', 1.5, 2.76
+0, 'TO', 1.75, 1.588
+0, 'TU', 1.75, 2.41
+0, 'TO', 2.25, 2.15
+0, 'TU', 2.25, 1.746
+0, 'TO', 2.5, 2.46
+0, 'TU', 2.5, 1.564
+0, '1', nil, 2.35
+0, 'X', nil, 3.14
+0, '2', nil, 3.46
+1, 'F1', 0, 1.68
+1, 'F2', 0, 2.25
+1, 'TO', 0.75, 1.813
+1, 'TU', 0.75, 2.07
+Freamunde - Portimonense
+1, 'F1', 0, 1.666
+1, 'F2', 0, 2.27
+1, 'TO', 0.75, 1.787
+1, 'TU', 0.75, 2.1
+0, 'F1', -0.25, 1.925
+0, 'F2', 0.25, 1.97
+0, 'F1', -0.75, 2.67
+0, 'F2', 0.75, 1.497
+0, 'F1', -0.5, 2.25
+0, 'F2', 0.5, 1.699
+0, 'F1', 0, 1.564
+0, 'F2', 0, 2.5
+0, 'F1', 0.25, 1.393
+0, 'F2', -0.25, 3.03
+0, 'TO', 2.25, 2.02
+0, 'TU', 2.25, 1.862
+0, 'TO', 1.75, 1.512
+0, 'TU', 1.75, 2.58
+0, 'TO', 2, 1.704
+0, 'TU', 2, 2.21
+0, 'TO', 2.5, 2.3
+0, 'TU', 2.5, 1.645
+0, 'TO', 2.75, 2.72
+0, 'TU', 2.75, 1.462
+0, '1', nil, 2.25
+0, 'X', nil, 3.2
+0, '2', nil, 3.6
+Maritimo B - Vitoria Guimaraes B
+1, 'F1', 0, 1.694
+1, 'F2', 0, 2.23
+1, 'TO', 0.75, 1.793
+1, 'TU', 0.75, 2.09
+0, 'F1', -0.25, 1.98
+0, 'F2', 0.25, 1.917
+0, 'F1', -0.75, 2.78
+0, 'F2', 0.75, 1.46
+0, 'F1', -0.5, 2.32
+0, 'F2', 0.5, 1.657
+0, 'F1', 0, 1.613
+0, 'F2', 0, 2.4
+0, 'F1', 0.25, 1.425
+0, 'F2', -0.25, 2.9
+0, 'TO', 2, 1.833
+0, 'TU', 2, 2.05
+0, 'TO', 1.5, 1.452
+0, 'TU', 1.5, 2.75
+0, 'TO', 1.75, 1.595
+0, 'TU', 1.75, 2.4
+0, 'TO', 2.25, 2.16
+0, 'TU', 2.25, 1.74
+0, 'TO', 2.5, 2.47
+0, 'TU', 2.5, 1.558
+0, '1', nil, 2.31
+0, 'X', nil, 3.22
+0, '2', nil, 3.42
+Porto B - Aves
+0, 'F1', -0.25, 2.11
+0, 'F2', 0.25, 1.8
+0, 'F1', -0.75, 3.02
+0, 'F2', 0.75, 1.395
+0, 'F1', -0.5, 2.48
+0, 'F2', 0.5, 1.574
+0, 'F1', 0, 1.724
+0, 'F2', 0, 2.21
+0, 'F1', 0.25, 1.492
+0, 'F2', -0.25, 2.69
+0, 'TO', 2, 1.806
+0, 'TU', 2, 2.08
+0, 'TO', 1.5, 1.44
+0, 'TU', 1.5, 2.78
+0, 'TO', 1.75, 1.578
+0, 'TU', 1.75, 2.43
+0, 'TO', 2.25, 2.13
+0, 'TU', 2.25, 1.763
+0, 'TO', 2.5, 2.44
+0, 'TU', 2.5, 1.574
+0, '1', nil, 2.48
+0, 'X', nil, 3.16
+0, '2', nil, 3.17
+1, 'F1', 0, 1.757
+1, 'F2', 0, 2.14
+1, 'TO', 0.75, 1.813
+1, 'TU', 0.75, 2.07
+Santa Clara - CD Tondela
+0, 'F1', -0.75, 2.05
+0, 'F2', 0.75, 1.854
+0, 'F1', -1.25, 2.95
+0, 'F2', 1.25, 1.413
+0, 'F1', -1, 2.52
+0, 'F2', 1, 1.558
+0, 'F1', -0.5, 1.787
+0, 'F2', 0.5, 2.13
+0, 'F1', -0.25, 1.523
+0, 'F2', 0.25, 2.61
+0, 'TO', 2.25, 1.98
+0, 'TU', 2.25, 1.9
+0, 'TO', 1.75, 1.49
+0, 'TU', 1.75, 2.64
+0, 'TO', 2, 1.671
+0, 'TU', 2, 2.27
+0, 'TO', 2.5, 2.26
+0, 'TU', 2.5, 1.675
+0, 'TO', 2.75, 2.64
+0, 'TU', 2.75, 1.487
+0, '1', nil, 1.787
+0, 'X', nil, 3.53
+0, '2', nil, 5.19
+1, 'F1', -0.25, 1.917
+1, 'F2', 0.25, 1.961
+1, 'TO', 0.75, 1.694
+1, 'TU', 0.75, 2.23
+Sporting Braga B - Uniao da Madeira
+1, 'F1', 0, 1.862
+1, 'F2', 0, 2.02
+1, 'TO', 0.75, 1.847
+1, 'TU', 0.75, 2.03
+0, 'F1', 0, 1.862
+0, 'F2', 0, 2.04
+0, 'F1', -0.5, 2.66
+0, 'F2', 0.5, 1.502
+0, 'F1', -0.25, 2.27
+0, 'F2', 0.25, 1.684
+0, 'F1', 0.25, 1.571
+0, 'F2', -0.25, 2.49
+0, 'F1', 0.5, 1.414
+0, 'F2', -0.5, 2.94
+0, 'TO', 2, 1.847
+0, 'TU', 2, 2.03
+0, 'TO', 1.5, 1.458
+0, 'TU', 1.5, 2.73
+0, 'TO', 1.75, 1.606
+0, 'TU', 1.75, 2.38
+0, 'TO', 2.25, 2.18
+0, 'TU', 2.25, 1.729
+0, 'TO', 2.5, 2.49
+0, 'TU', 2.5, 1.549
+0, '1', nil, 2.69
+0, 'X', nil, 3.08
+0, '2', nil, 2.95
+Sporting Covilha - Penafiel
+0, 'F1', -0.25, 2.08
+0, 'F2', 0.25, 1.826
+0, 'F1', -0.75, 2.97
+0, 'F2', 0.75, 1.406
+0, 'F1', -0.5, 2.44
+0, 'F2', 0.5, 1.595
+0, 'F1', 0, 1.699
+0, 'F2', 0, 2.25
+0, 'F1', 0.25, 1.478
+0, 'F2', -0.25, 2.73
+0, 'TO', 2, 1.847
+0, 'TU', 2, 2.03
+0, 'TO', 1.5, 1.458
+0, 'TU', 1.5, 2.73
+0, 'TO', 1.75, 1.606
+0, 'TU', 1.75, 2.38
+0, 'TO', 2.25, 2.18
+0, 'TU', 2.25, 1.729
+0, 'TO', 2.5, 2.49
+0, 'TU', 2.5, 1.549
+0, '1', nil, 2.44
+0, 'X', nil, 3.17
+0, '2', nil, 3.23
+1, 'F1', 0, 1.735
+1, 'F2', 0, 2.17
+1, 'TO', 0.75, 1.84
+1, 'TU', 0.75, 2.04
+Trofense - Leixoes
+1, 'F1', 0, 1.961
+1, 'F2', 0, 1.917
+1, 'TO', 0.75, 1.84
+1, 'TU', 0.75, 2.04
+0, 'F1', 0, 1.943
+0, 'F2', 0, 1.961
+0, 'F1', -0.5, 2.77
+0, 'F2', 0.5, 1.465
+0, 'F1', -0.25, 2.36
+0, 'F2', 0.25, 1.632
+0, 'F1', 0.25, 1.625
+0, 'F2', -0.25, 2.38
+0, 'F1', 0.5, 1.454
+0, 'F2', -0.5, 2.8
+0, 'TO', 2, 1.833
+0, 'TU', 2, 2.05
+0, 'TO', 1.5, 1.452
+0, 'TU', 1.5, 2.75
+0, 'TO', 1.75, 1.595
+0, 'TU', 1.75, 2.4
+0, 'TO', 2.25, 2.16
+0, 'TU', 2.25, 1.74
+0, 'TO', 2.5, 2.47
+0, 'TU', 2.5, 1.558
+0, '1', nil, 2.83
+0, 'X', nil, 3.13
+0, '2', nil, 2.76
+Aves - Santa Clara
+Belenenses - Naval
+CD Tondela - Sporting Braga B
+Leixoes - Freamunde
+Oliveirense - Porto B
+Penafiel - Trofense
+Portimonense - Feirense
+Sporting Covilha - Atletico Clube de Portugal
+Sporting Lisbon B - Maritimo B
+Uniao da Madeira - Benfica B
+Vitoria Guimaraes B - FC Arouca
+Aves - Freamunde
+Uniao da Madeira - Santa Clara
+Ceahlaul Piatra Neamt - Viitorul Constanta
+0, 'F1', -0.25, 1.862
+0, 'F2', 0.25, 2.04
+0, 'F1', -0.75, 2.57
+0, 'F2', 0.75, 1.534
+0, 'F1', -0.5, 2.17
+0, 'F2', 0.5, 1.757
+0, 'F1', 0, 1.526
+0, 'F2', 0, 2.6
+0, 'F1', 0.25, 1.375
+0, 'F2', -0.25, 3.1
+0, 'TO', 2.25, 1.99
+0, 'TU', 2.25, 1.892
+0, 'TO', 1.75, 1.495
+0, 'TU', 1.75, 2.62
+0, 'TO', 2, 1.68
+0, 'TU', 2, 2.25
+0, 'TO', 2.5, 2.27
+0, 'TU', 2.5, 1.666
+0, 'TO', 2.75, 2.66
+0, 'TU', 2.75, 1.483
+0, '1', nil, 2.17
+0, 'X', nil, 3.33
+0, '2', nil, 3.65
+CSMS Iasi - Pandurii Targu Jiu
+0, 'F1', 0.5, 2.01
+0, 'F2', -0.5, 1.892
+0, 'F1', 1, 1.492
+0, 'F2', -1, 2.69
+0, 'F1', 0.75, 1.757
+0, 'F2', -0.75, 2.17
+0, 'F1', 0.25, 2.37
+0, 'F2', -0.25, 1.628
+0, 'F1', 0, 3.16
+0, 'F2', 0, 1.362
+0, 'TO', 2.5, 1.952
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.44
+0, 'TU', 2, 2.78
+0, 'TO', 2.25, 1.699
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.2
+0, 'TU', 2.75, 1.709
+0, 'TO', 3, 2.63
+0, 'TU', 3, 1.492
+0, '1', nil, 4.29
+0, 'X', nil, 3.65
+0, '2', nil, 1.892
+Dinamo Bucuresti - Petrolul Ploiesti
+0, 'F1', -0.5, 2.1
+0, 'F2', 0.5, 1.806
+0, 'F1', -1, 3.19
+0, 'F2', 1, 1.357
+0, 'F1', -0.75, 2.46
+0, 'F2', 0.75, 1.584
+0, 'F1', -0.25, 1.806
+0, 'F2', 0.25, 2.1
+0, 'F1', 0, 1.49
+0, 'F2', 0, 2.7
+0, 'TO', 2.25, 1.833
+0, 'TU', 2.25, 2.05
+0, 'TO', 1.75, 1.406
+0, 'TU', 1.75, 2.9
+0, 'TO', 2, 1.546
+0, 'TU', 2, 2.5
+0, 'TO', 2.5, 2.1
+0, 'TU', 2.5, 1.793
+0, 'TO', 2.75, 2.4
+0, 'TU', 2.75, 1.591
+0, '1', nil, 2.1
+0, 'X', nil, 3.33
+0, '2', nil, 3.86
+Universitatea Cluj - FC Brasov
+0, 'F1', -0.25, 2.16
+0, 'F2', 0.25, 1.763
+0, 'F1', -0.75, 3.1
+0, 'F2', 0.75, 1.375
+0, 'F1', -0.5, 2.52
+0, 'F2', 0.5, 1.555
+0, 'F1', 0, 1.787
+0, 'F2', 0, 2.13
+0, 'F1', 0.25, 1.54
+0, 'F2', -0.25, 2.56
+0, 'TO', 2.25, 1.934
+0, 'TU', 2.25, 1.952
+0, 'TO', 1.75, 1.462
+0, 'TU', 1.75, 2.72
+0, 'TO', 2, 1.628
+0, 'TU', 2, 2.34
+0, 'TO', 2.5, 2.2
+0, 'TU', 2.5, 1.709
+0, 'TO', 2.75, 2.56
+0, 'TU', 2.75, 1.52
+0, '1', nil, 2.45
+0, 'X', nil, 3.29
+0, '2', nil, 3.1
+Vaslui - Steaua Bucuresti
+0, 'F1', -0.25, 1.847
+0, 'F2', 0.25, 2.06
+0, 'F1', -0.75, 2.56
+0, 'F2', 0.75, 1.54
+0, 'F1', -0.5, 2.15
+0, 'F2', 0.5, 1.763
+0, 'F1', 0, 1.512
+0, 'F2', 0, 2.63
+0, 'F1', 0.25, 1.364
+0, 'F2', -0.25, 3.15
+0, 'TO', 2.25, 2.06
+0, 'TU', 2.25, 1.826
+0, 'TO', 1.75, 1.537
+0, 'TU', 1.75, 2.52
+0, 'TO', 2, 1.74
+0, 'TU', 2, 2.16
+0, 'TO', 2.5, 2.35
+0, 'TU', 2.5, 1.621
+0, 'TO', 2.75, 2.79
+0, 'TU', 2.75, 1.438
+0, '1', nil, 2.16
+0, 'X', nil, 3.31
+0, '2', nil, 3.69
+Astra Ploiesti - Dinamo Bucuresti
+CFR Cluj - Petrolul Ploiesti
+Concordia Chiajna - Universitatea Cluj
+FC Brasov - Gaz Metan Medias
+Gaz Metan Severin - Ceahlaul Piatra Neamt
+Gloria Bistrita - CSMS Iasi
+Pandurii Targu Jiu - Rapid Bucuresti
+Steaua Bucuresti - Otelul Galati
+Viitorul Constanta - Vaslui
+Amkar Perm - FC Krasnodar
+0, 'F1', 0, 1.943
+0, 'F2', 0, 1.98
+0, 'F1', -0.5, 2.73
+0, 'F2', 0.5, 1.497
+0, 'F1', -0.25, 2.34
+0, 'F2', 0.25, 1.666
+0, 'F1', 0.25, 1.645
+0, 'F2', -0.25, 2.38
+0, 'F1', 0.5, 1.48
+0, 'F2', -0.5, 2.78
+0, 'TO', 2.25, 2.1
+0, 'TU', 2.25, 1.806
+0, 'TO', 1.75, 1.564
+0, 'TU', 1.75, 2.5
+0, 'TO', 2, 1.781
+0, 'TU', 2, 2.14
+0, 'TO', 2.5, 2.41
+0, 'TU', 2.5, 1.609
+0, 'TO', 2.75, 2.87
+0, 'TU', 2.75, 1.434
+0, '1', nil, 2.73
+0, 'X', nil, 3.3
+0, '2', nil, 2.78
+Anzhi Makhachkala - Mordovia Saransk
+0, 'F1', -1.25, 1.952
+0, 'F2', 1.25, 1.97
+0, 'F1', -1.75, 2.61
+0, 'F2', 1.75, 1.54
+0, 'F1', -1.5, 2.21
+0, 'F2', 1.5, 1.746
+0, 'F1', -1, 1.662
+0, 'F2', 1, 2.35
+0, 'F1', -0.75, 1.505
+0, 'F2', 0.75, 2.71
+0, 'TO', 2.5, 1.99
+0, 'TU', 2.5, 1.909
+0, 'TO', 2, 1.471
+0, 'TU', 2, 2.75
+0, 'TO', 2.25, 1.735
+0, 'TU', 2.25, 2.2
+0, 'TO', 2.75, 2.25
+0, 'TU', 2.75, 1.699
+0, 'TO', 3, 2.71
+0, 'TU', 3, 1.485
+0, '1', nil, 1.413
+0, 'X', nil, 4.7
+0, '2', nil, 9.6
+CSKA Moscow - Kryliya Sovetov
+0, 'F1', -1.25, 1.925
+0, 'F2', 1.25, 1.99
+0, 'F1', -1.75, 2.56
+0, 'F2', 1.75, 1.561
+0, 'F1', -1.5, 2.19
+0, 'F2', 1.5, 1.757
+0, 'F1', -1, 1.636
+0, 'F2', 1, 2.39
+0, 'F1', -0.75, 1.48
+0, 'F2', 0.75, 2.78
+0, 'TO', 2.5, 1.961
+0, 'TU', 2.5, 1.943
+0, 'TO', 2, 1.45
+0, 'TU', 2, 2.82
+0, 'TO', 2.25, 1.704
+0, 'TU', 2.25, 2.24
+0, 'TO', 2.75, 2.21
+0, 'TU', 2.75, 1.724
+0, 'TO', 3, 2.65
+0, 'TU', 3, 1.507
+0, '1', nil, 1.395
+0, 'X', nil, 4.81
+0, '2', nil, 10
+Kuban Krasnodar - Volga Nizhny Novgorod
+0, 'F1', -1, 2.07
+0, 'F2', 1, 1.854
+0, 'F1', -1.5, 2.78
+0, 'F2', 1.5, 1.48
+0, 'F1', -1.25, 2.43
+0, 'F2', 1.25, 1.617
+0, 'F1', -0.75, 1.763
+0, 'F2', 0.75, 2.19
+0, 'F1', -0.5, 1.581
+0, 'F2', 0.5, 2.51
+0, 'TO', 2.25, 1.917
+0, 'TU', 2.25, 1.98
+0, 'TO', 1.75, 1.46
+0, 'TU', 1.75, 2.78
+0, 'TO', 2, 1.621
+0, 'TU', 2, 2.39
+0, 'TO', 2.5, 2.19
+0, 'TU', 2.5, 1.74
+0, 'TO', 2.75, 2.54
+0, 'TU', 2.75, 1.546
+0, '1', nil, 1.584
+0, 'X', nil, 4
+0, '2', nil, 6.74
+Mordovia Saransk - Zenit St. Petersburg
+Rubin Kazan - Terek Grozny
+Volga Nizhny Novgorod - Rostov FK
+Dynamo Moscow - Kuban Krasnodar
+FC Krasnodar - CSKA Moscow
+Kryliya Sovetov - Anzhi Makhachkala
+Spartak Moscow - Lokomotiv Moscow
+Alania Vladikavkaz - Amkar Perm
+Airdrie United - Cowdenbeath
+Dunfermline Athletic - Raith Rovers
+Greenock Morton - Dumbarton
+Partick Thistle - Hamilton Academical
+Falkirk - Livingston
+Brechin City - Alloa Athletic
+East Fife - Albion Rovers
+Stenhousemuir - Forfar Athletic
+Queen of South - Arbroath
+Stranraer - Ayr United
+Berwick Rangers - Glasgow Rangers
+1, 'F1', 1.25, 1.952
+1, 'F2', -1.25, 1.925
+1, 'TO', 1.5, 1.813
+1, 'TU', 1.5, 2.07
+0, 'F1', 2.25, 2.14
+0, 'F2', -2.25, 1.775
+0, 'TO', 3.5, 1.588
+0, 'TU', 3.5, 2.41
+0, '1', nil, 18.5
+0, 'X', nil, 9
+0, '2', nil, 1.142
+Glasgow Rangers - Elgin City
+Berwick Rangers - East Stirlingshire
+Clyde - Annan Athletic
+Peterhead - Montrose
+Stirling Albion - Queens Park
+Motherwell - Saint Mirren
+0, 'F1', -0.5, 2.12
+0, 'F2', 0.5, 1.813
+0, 'F1', -1, 3.28
+0, 'F2', 1, 1.358
+0, 'F1', -0.75, 2.5
+0, 'F2', 0.75, 1.584
+0, 'F1', -0.25, 1.826
+0, 'F2', 0.25, 2.11
+0, 'F1', 0, 1.51
+0, 'F2', 0, 2.69
+0, 'TO', 2.25, 1.925
+0, 'TU', 2.25, 1.97
+0, 'TO', 1.75, 1.465
+0, 'TU', 1.75, 2.77
+0, 'TO', 2, 1.625
+0, 'TU', 2, 2.38
+0, 'TO', 2.5, 2.2
+0, 'TU', 2.5, 1.735
+0, 'TO', 2.75, 2.56
+0, 'TU', 2.75, 1.543
+0, '1', nil, 2.12
+0, 'X', nil, 3.4
+0, '2', nil, 3.88
+Aberdeen - Heart of Midlothian
+0, 'F1', -0.25, 2.01
+0, 'F2', 0.25, 1.909
+0, 'F1', -0.75, 2.82
+0, 'F2', 0.75, 1.469
+0, 'F1', -0.5, 2.33
+0, 'F2', 0.5, 1.671
+0, 'F1', 0, 1.666
+0, 'F2', 0, 2.34
+0, 'F1', 0.25, 1.476
+0, 'F2', -0.25, 2.8
+0, 'TO', 2.25, 2.06
+0, 'TU', 2.25, 1.84
+0, 'TO', 1.75, 1.543
+0, 'TU', 1.75, 2.55
+0, 'TO', 2, 1.746
+0, 'TU', 2, 2.18
+0, 'TO', 2.5, 2.36
+0, 'TU', 2.5, 1.636
+0, 'TO', 2.75, 2.8
+0, 'TU', 2.75, 1.456
+0, '1', nil, 2.35
+0, 'X', nil, 3.32
+0, '2', nil, 3.35
+Aberdeen - Saint Mirren
+Celtic FC - Hibernian
+Ross County - Kilmarnock
+Saint Johnstone - Dundee United
+Heart of Midlothian - Dundee
+Motherwell - Inverness
+Cordoba - Racing Santander
+0, 'F1', -0.75, 2
+0, 'F2', 0.75, 1.917
+0, 'F1', -1.25, 2.9
+0, 'F2', 1.25, 1.446
+0, 'F1', -1, 2.46
+0, 'F2', 1, 1.606
+0, 'F1', -0.5, 1.746
+0, 'F2', 0.5, 2.21
+0, 'F1', -0.25, 1.495
+0, 'F2', 0.25, 2.74
+0, 'TO', 2.25, 1.99
+0, 'TU', 2.25, 1.909
+0, 'TO', 1.75, 1.502
+0, 'TU', 1.75, 2.66
+0, 'TO', 2, 1.68
+0, 'TU', 2, 2.28
+0, 'TO', 2.5, 2.27
+0, 'TU', 2.5, 1.684
+0, 'TO', 2.75, 2.66
+0, 'TU', 2.75, 1.5
+0, '1', nil, 1.746
+0, 'X', nil, 3.56
+0, '2', nil, 5.83
+Hercules - Elche
+0, 'F1', 0, 1.813
+0, 'F2', 0, 2.12
+0, 'F1', -0.5, 2.59
+0, 'F2', 0.5, 1.549
+0, 'F1', -0.25, 2.21
+0, 'F2', 0.25, 1.746
+0, 'F1', 0.25, 1.555
+0, 'F2', -0.25, 2.57
+0, 'F1', 0.5, 1.411
+0, 'F2', -0.5, 3.03
+0, 'TO', 2.5, 2.05
+0, 'TU', 2.5, 1.854
+0, 'TO', 2, 1.515
+0, 'TU', 2, 2.63
+0, 'TO', 2.25, 1.787
+0, 'TU', 2.25, 2.13
+0, 'TO', 2.75, 2.34
+0, 'TU', 2.75, 1.649
+0, 'TO', 3, 2.85
+0, 'TU', 3, 1.44
+0, '1', nil, 2.61
+0, 'X', nil, 3.19
+0, '2', nil, 3.05
+AD Alcorcon - Hercules
+Almeria - Real Madrid Castilla
+Barcelona-B - CE Sabadell
+CD Lugo - Cordoba
+Elche - Las Palmas
+Girona - Ponferradina
+Numancia - Recreativo Huelva
+Racing Santander - Sporting Gijon
+Real Murcia - SD Huesca
+Villarreal - CD Guadalajara
+Xerez Deportivo - CD Mirandes
+CD Guadalajara - Barcelona-B
+CD Mirandes - Numancia
+CE Sabadell - Almeria
+Cordoba - Elche
+Hercules - Girona
+Las Palmas - AD Alcorcon
+Ponferradina - Villarreal
+Real Madrid Castilla - Xerez Deportivo
+Recreativo Huelva - Real Murcia
+SD Huesca - Racing Santander
+Sporting Gijon - CD Lugo
+Novi Pazar - Crvena Zvezda
+0, 'F1', 0.75, 2
+0, 'F2', -0.75, 1.84
+0, 'TO', 2.25, 1.99
+0, 'TU', 2.25, 1.847
+0, 'TO', 1.75, 1.485
+0, 'TU', 1.75, 2.55
+0, 'TO', 2, 1.675
+0, 'TU', 2, 2.19
+0, 'TO', 2.5, 2.27
+0, 'TU', 2.5, 1.628
+0, 'TO', 2.75, 2.66
+0, 'TU', 2.75, 1.442
+Partizan Belgrade - FK Jagodina
+0, 'F1', -1.5, 2.06
+0, 'F2', 1.5, 1.781
+0, 'TO', 2.75, 2.04
+0, 'TU', 2.75, 1.8
+0, 'TO', 2.25, 1.581
+0, 'TU', 2.25, 2.35
+0, 'TO', 2.5, 1.819
+0, 'TU', 2.5, 2.02
+0, 'TO', 3, 2.38
+0, 'TU', 3, 1.564
+0, 'TO', 3.25, 2.68
+0, 'TU', 3.25, 1.436
+BSK Borca - Javor Ivanjica
+Crvena Zvezda - Radnicki Niš
+Donji Srem - Vojvodina Novi Sad
+FK Jagodina - Sloboda Point Sevojno
+FK Smederevo - Novi Pazar
+Hajduk Kula - Radnicki 1923
+OFK Beograd - Partizan Belgrade
+Spartak Zlatibor Voda - Rad Belgrade
+Atalanta - Lazio
+0, 'F1', 0, 1.854
+0, 'F2', 0, 2.09
+0, 'F1', -0.5, 2.65
+0, 'F2', 0.5, 1.546
+0, 'F1', -0.25, 2.26
+0, 'F2', 0.25, 1.735
+0, 'F1', 0.25, 1.588
+0, 'F2', -0.25, 2.54
+0, 'F1', 0.5, 1.44
+0, 'F2', -0.5, 3
+0, 'TO', 2.25, 2.03
+0, 'TU', 2.25, 1.892
+0, 'TO', 1.75, 1.531
+0, 'TU', 1.75, 2.64
+0, 'TO', 2, 1.714
+0, 'TU', 2, 2.26
+0, 'TO', 2.5, 2.32
+0, 'TU', 2.5, 1.675
+0, 'TO', 2.75, 2.74
+0, 'TU', 2.75, 1.495
+0, '1', nil, 2.66
+0, 'X', nil, 3.23
+0, '2', nil, 2.98
+0, 'I1TO', 1.25, 2.14
+0, 'I1TU', 1.25, 1.757
+0, 'I2TO', 1, 2.03
+0, 'I2TU', 1, 1.854
+1, 'F1', 0, 1.847
+1, 'F2', 0, 2.08
+1, 'TO', 0.75, 1.751
+1, 'TU', 0.75, 2.15
+Chievo - Bologna
+0, 'F1', -0.5, 2.19
+0, 'F2', 0.5, 1.781
+0, 'F1', -1, 3.51
+0, 'F2', 1, 1.337
+0, 'F1', -0.75, 2.61
+0, 'F2', 0.75, 1.558
+0, 'F1', -0.25, 1.847
+0, 'F2', 0.25, 2.1
+0, 'F1', 0, 1.497
+0, 'F2', 0, 2.8
+0, 'TO', 2, 1.9
+0, 'TU', 2, 2.02
+0, 'TO', 1.5, 1.497
+0, 'TU', 1.5, 2.73
+0, 'TO', 1.75, 1.645
+0, 'TU', 1.75, 2.38
+0, 'TO', 2.25, 2.24
+0, 'TU', 2.25, 1.724
+0, 'TO', 2.5, 2.57
+0, 'TU', 2.5, 1.555
+0, '1', nil, 2.19
+0, 'X', nil, 3.2
+0, '2', nil, 4
+0, 'I1TO', 1.25, 2.12
+0, 'I1TU', 1.25, 1.769
+0, 'I2TO', 0.75, 1.909
+0, 'I2TU', 0.75, 1.97
+1, 'F1', -0.25, 2.28
+1, 'F2', 0.25, 1.699
+1, 'TO', 0.75, 1.793
+1, 'TU', 0.75, 2.09
+Genoa - Cagliari
+1, 'F1', -0.25, 2.25
+1, 'F2', 0.25, 1.719
+1, 'TO', 1, 2.12
+1, 'TU', 1, 1.769
+0, 'F1', -0.25, 1.961
+0, 'F2', 0.25, 1.98
+0, 'F1', -0.75, 2.76
+0, 'F2', 0.75, 1.507
+0, 'F1', -0.5, 2.31
+0, 'F2', 0.5, 1.704
+0, 'F1', 0, 1.591
+0, 'F2', 0, 2.53
+0, 'F1', 0.25, 1.42
+0, 'F2', -0.25, 3.08
+0, 'TO', 2.25, 1.934
+0, 'TU', 2.25, 1.99
+0, 'TO', 1.75, 1.476
+0, 'TU', 1.75, 2.8
+0, 'TO', 2, 1.636
+0, 'TU', 2, 2.4
+0, 'TO', 2.5, 2.21
+0, 'TU', 2.5, 1.746
+0, 'TO', 2.75, 2.57
+0, 'TU', 2.75, 1.555
+0, '1', nil, 2.3
+0, 'X', nil, 3.21
+0, '2', nil, 3.64
+0, 'I1TO', 1.25, 1.813
+0, 'I1TU', 1.25, 2.07
+0, 'I2TO', 0.75, 1.757
+0, 'I2TU', 0.75, 2.14
+AC Milan - Sampdoria
+0, 'F1', -1.25, 2.12
+0, 'F2', 1.25, 1.833
+0, 'F1', -1.75, 2.9
+0, 'F2', 1.75, 1.465
+0, 'F1', -1.5, 2.42
+0, 'F2', 1.5, 1.645
+0, 'F1', -1, 1.8
+0, 'F2', 1, 2.16
+0, 'F1', -0.75, 1.588
+0, 'F2', 0.75, 2.54
+0, 'TO', 2.5, 1.877
+0, 'TU', 2.5, 2.04
+0, 'TO', 2, 1.401
+0, 'TU', 2, 3.08
+0, 'TO', 2.25, 1.641
+0, 'TU', 2.25, 2.39
+0, 'TO', 2.75, 2.11
+0, 'TU', 2.75, 1.819
+0, 'TO', 3, 2.48
+0, 'TU', 3, 1.595
+0, '1', nil, 1.469
+0, 'X', nil, 4.54
+0, '2', nil, 8.27
+0, 'I1TO', 2, 2.12
+0, 'I1TU', 2, 1.775
+0, 'I2TO', 0.5, 1.847
+0, 'I2TU', 0.5, 2.03
+1, 'F1', -0.5, 1.98
+1, 'F2', 0.5, 1.943
+1, 'TO', 1, 1.757
+1, 'TU', 1, 2.14
+Palermo - Napoli
+0, 'F1', 0.25, 1.952
+0, 'F2', -0.25, 1.99
+0, 'F1', 0.75, 1.507
+0, 'F2', -0.75, 2.76
+0, 'F1', 0.5, 1.699
+0, 'F2', -0.5, 2.32
+0, 'F1', 0, 2.42
+0, 'F2', 0, 1.645
+0, 'F1', -0.25, 2.9
+0, 'F2', 0.25, 1.465
+0, 'TO', 2.5, 1.961
+0, 'TU', 2.5, 1.961
+0, 'TO', 2, 1.454
+0, 'TU', 2, 2.87
+0, 'TO', 2.25, 1.709
+0, 'TU', 2.25, 2.27
+0, 'TO', 2.75, 2.21
+0, 'TU', 2.75, 1.746
+0, 'TO', 3, 2.64
+0, 'TU', 3, 1.529
+0, '1', nil, 3.43
+0, 'X', nil, 3.4
+0, '2', nil, 2.3
+0, 'I1TO', 1, 1.735
+0, 'I1TU', 1, 2.17
+0, 'I2TO', 1.25, 1.869
+0, 'I2TU', 1.25, 2.01
+1, 'F1', 0, 2.21
+1, 'F2', 0, 1.746
+1, 'TO', 1, 1.943
+1, 'TU', 1, 1.943
+Pescara - Inter Milan
+0, 'F1', 0.5, 1.952
+0, 'F2', -0.5, 1.99
+0, 'F1', 1, 1.487
+0, 'F2', -1, 2.82
+0, 'F1', 0.75, 1.719
+0, 'F2', -0.75, 2.28
+0, 'F1', 0.25, 2.32
+0, 'F2', -0.25, 1.699
+0, 'F1', 0, 3.13
+0, 'F2', 0, 1.408
+0, 'TO', 2.5, 1.869
+0, 'TU', 2.5, 2.05
+0, 'TO', 2, 1.395
+0, 'TU', 2, 3.11
+0, 'TO', 2.25, 1.632
+0, 'TU', 2.25, 2.4
+0, 'TO', 2.75, 2.1
+0, 'TU', 2.75, 1.833
+0, 'TO', 3, 2.46
+0, 'TU', 3, 1.602
+0, '1', nil, 4.35
+0, 'X', nil, 3.48
+0, '2', nil, 1.99
+0, 'I1TO', 1, 2.2
+0, 'I1TU', 1, 1.714
+0, 'I2TO', 1.5, 1.826
+0, 'I2TU', 1.5, 2.06
+1, 'F1', 0.25, 1.877
+1, 'F2', -0.25, 2.04
+1, 'TO', 1, 1.813
+1, 'TU', 1, 2.07
+AS Roma - Catania
+1, 'F1', -0.5, 1.909
+1, 'F2', 0.5, 2.01
+1, 'TO', 1.25, 2.01
+1, 'TU', 1.25, 1.869
+0, 'F1', -1.25, 2.06
+0, 'F2', 1.25, 1.884
+0, 'F1', -1.75, 2.75
+0, 'F2', 1.75, 1.51
+0, 'F1', -1.5, 2.35
+0, 'F2', 1.5, 1.68
+0, 'F1', -1, 1.751
+0, 'F2', 1, 2.23
+0, 'F1', -0.75, 1.561
+0, 'F2', 0.75, 2.61
+0, 'TO', 3, 1.9
+0, 'TU', 3, 2.02
+0, 'TO', 2.5, 1.558
+0, 'TU', 2.5, 2.57
+0, 'TO', 2.75, 1.694
+0, 'TU', 2.75, 2.29
+0, 'TO', 3.25, 2.16
+0, 'TU', 3.25, 1.781
+0, 'TO', 3.5, 2.42
+0, 'TU', 3.5, 1.625
+0, '1', nil, 1.462
+0, 'X', nil, 4.79
+0, '2', nil, 7.84
+0, 'I1TO', 2, 1.862
+0, 'I1TU', 2, 2.02
+0, 'I2TO', 0.75, 1.98
+0, 'I2TU', 0.75, 1.9
+Siena - Torino
+1, 'F1', 0, 1.689
+1, 'F2', 0, 2.3
+1, 'TO', 0.75, 1.813
+1, 'TU', 0.75, 2.07
+0, 'F1', -0.25, 2.02
+0, 'F2', 0.25, 1.917
+0, 'F1', -0.75, 2.9
+0, 'F2', 0.75, 1.465
+0, 'F1', -0.5, 2.39
+0, 'F2', 0.5, 1.657
+0, 'F1', 0, 1.641
+0, 'F2', 0, 2.43
+0, 'F1', 0.25, 1.454
+0, 'F2', -0.25, 2.94
+0, 'TO', 2, 1.833
+0, 'TU', 2, 2.09
+0, 'TO', 1.5, 1.469
+0, 'TU', 1.5, 2.82
+0, 'TO', 1.75, 1.606
+0, 'TU', 1.75, 2.46
+0, 'TO', 2.25, 2.17
+0, 'TU', 2.25, 1.775
+0, 'TO', 2.5, 2.49
+0, 'TU', 2.5, 1.591
+0, '1', nil, 2.38
+0, 'X', nil, 3.18
+0, '2', nil, 3.5
+0, 'I1TO', 1.25, 2.16
+0, 'I1TU', 1.25, 1.74
+0, 'I2TO', 0.75, 1.74
+0, 'I2TU', 0.75, 2.16
+Torino - Pescara
+Bologna - AC Milan
+Udinese - Juventus
+Cagliari - Atalanta
+Catania - Genoa
+Inter Milan - AS Roma
+Lazio - Palermo
+Napoli - Fiorentina
+Parma - Chievo
+Sampdoria - Siena
+Home Teams (Sunday 8 Matches) - Away Teams (Sunday 8 Matches)
+0, 'F1', -3, 1.98
+0, 'F2', 3, 1.961
+0, 'TO', 21, 2.07
+0, 'TU', 21, 1.854
+Cesena - Sassuolo
+0, 'F1', -0.25, 1.884
+0, 'F2', 0.25, 2.04
+0, 'F1', -0.75, 2.65
+0, 'F2', 0.75, 1.526
+0, 'F1', -0.5, 2.22
+0, 'F2', 0.5, 1.74
+0, 'F1', 0, 1.52
+0, 'F2', 0, 2.66
+0, 'F1', 0.25, 1.367
+0, 'F2', -0.25, 3.23
+0, 'TO', 2, 1.84
+0, 'TU', 2, 2.06
+0, 'TO', 1.5, 1.465
+0, 'TU', 1.5, 2.77
+0, 'TO', 1.75, 1.606
+0, 'TU', 1.75, 2.42
+0, 'TO', 2.25, 2.17
+0, 'TU', 2.25, 1.751
+0, 'TO', 2.5, 2.49
+0, 'TU', 2.5, 1.571
+0, '1', nil, 2.24
+0, 'X', nil, 3.1
+0, '2', nil, 3.83
+Ascoli - Bari
+Brescia - Juve Stabia
+Cittadella - Grosseto
+Hellas Verona - Spezia
+Lecce - Cesena
+Livorno - Padova
+Novara - Empoli
+Reggina - Pro Vercelli
+Sassuolo - Crotone
+Ternana - Modena
+Virtus Lanciano - Varese
+Modena - Varese
+Hellas Verona - Reggina
+Bari - Ternana
+Crotone - Cittadella
+Empoli - Sassuolo
+Juve Stabia - Lecce
+Padova - Grosseto
+Pro Vercelli - Livorno
+Virtus Lanciano - Ascoli
+Spezia - Brescia
+Cesena - Novara
+Spartak Myjava - Tatran Presov
+MFK Kosice - Dukla Banská Bystrica
+MSK Zilina - Nitra
+Slovan Bratislava - MFK Ruzomberok
+FK Senica - AS Trencin
+Spartak Trnava - ViOn Zlaté Moravce
+Aluminij - Olimpija
+0, 'F1', 0.5, 1.757
+0, 'F2', -0.5, 2.09
+0, 'TO', 2.75, 1.99
+0, 'TU', 2.75, 1.847
+0, 'TO', 2.25, 1.546
+0, 'TU', 2.25, 2.42
+0, 'TO', 2.5, 1.781
+0, 'TU', 2.5, 2.06
+0, 'TO', 3, 2.3
+0, 'TU', 3, 1.606
+0, 'TO', 3.25, 2.59
+0, 'TU', 3.25, 1.467
+Koper - Mura 05
+0, 'F1', -1, 1.671
+0, 'F2', 1, 2.2
+0, 'TO', 2.5, 1.892
+0, 'TU', 2.5, 1.952
+0, 'TO', 2, 1.383
+0, 'TU', 2, 2.84
+0, 'TO', 2.25, 1.641
+0, 'TU', 2.25, 2.25
+0, 'TO', 2.75, 2.12
+0, 'TU', 2.75, 1.729
+0, 'TO', 3, 2.5
+0, 'TU', 3, 1.505
+Triglav - ND Gorica
+0, 'F1', 0.25, 1.877
+0, 'F2', -0.25, 1.961
+0, 'TO', 2.25, 1.793
+0, 'TU', 2.25, 2.05
+0, 'TO', 1.75, 1.37
+0, 'TU', 1.75, 2.89
+0, 'TO', 2, 1.507
+0, 'TU', 2, 2.5
+0, 'TO', 2.5, 2.05
+0, 'TU', 2.5, 1.793
+0, 'TO', 2.75, 2.34
+0, 'TU', 2.75, 1.584
+Mura 05 - Triglav
+ND Gorica - Domzale
+NK CM Celje - Aluminij
+NK Maribor - Rudar
+Olimpija - Koper
+Real Madrid - Barcelona
+0, 'F1', 0, 1.961
+0, 'F2', 0, 1.97
+0, 'TO', 3, 1.925
+0, 'TU', 3, 1.98
+0, 'TO', 2.5, 1.571
+0, 'TU', 2.5, 2.51
+0, 'TO', 2.75, 1.709
+0, 'TU', 2.75, 2.25
+0, 'TO', 3.25, 2.19
+0, 'TU', 3.25, 1.751
+0, 'TO', 3.5, 2.45
+0, 'TU', 3.5, 1.598
+Falkenberg - Hammarby
+0, 'F1', -0.25, 2
+0, 'F2', 0.25, 1.917
+0, 'F1', -0.75, 2.72
+0, 'F2', 0.75, 1.5
+0, 'F1', -0.5, 2.3
+0, 'F2', 0.5, 1.689
+0, 'F1', 0, 1.699
+0, 'F2', 0, 2.28
+0, 'F1', 0.25, 1.512
+0, 'F2', -0.25, 2.69
+0, 'TO', 2.75, 2.01
+0, 'TU', 2.75, 1.892
+0, 'TO', 2.25, 1.571
+0, 'TU', 2.25, 2.49
+0, 'TO', 2.5, 1.8
+0, 'TU', 2.5, 2.11
+0, 'TO', 3, 2.33
+0, 'TU', 3, 1.653
+0, 'TO', 3.25, 2.63
+0, 'TU', 3.25, 1.512
+0, '1', nil, 2.29
+0, 'X', nil, 3.79
+0, '2', nil, 3.08
+Assyriska - Ljungskile
+0, 'F1', -0.25, 2.04
+0, 'F2', 0.25, 1.877
+0, 'F1', -0.75, 2.8
+0, 'F2', 0.75, 1.476
+0, 'F1', -0.5, 2.35
+0, 'F2', 0.5, 1.662
+0, 'F1', 0, 1.719
+0, 'F2', 0, 2.25
+0, 'F1', 0.25, 1.523
+0, 'F2', -0.25, 2.66
+0, 'TO', 2.75, 2.03
+0, 'TU', 2.75, 1.869
+0, 'TO', 2.25, 1.584
+0, 'TU', 2.25, 2.46
+0, 'TO', 2.5, 1.819
+0, 'TU', 2.5, 2.09
+0, 'TO', 3, 2.36
+0, 'TU', 3, 1.632
+0, 'TO', 3.25, 2.67
+0, 'TU', 3.25, 1.5
+0, '1', nil, 2.36
+0, 'X', nil, 3.58
+0, '2', nil, 3.1
+Angelholms FF - Umea FC
+0, 'F1', -1, 1.833
+0, 'F2', 1, 2.09
+0, 'F1', -1.5, 2.41
+0, 'F2', 1.5, 1.628
+0, 'F1', -1.25, 2.13
+0, 'F2', 1.25, 1.806
+0, 'F1', -0.75, 1.621
+0, 'F2', 0.75, 2.43
+0, 'F1', -0.5, 1.487
+0, 'F2', 0.5, 2.76
+0, 'TO', 3, 1.9
+0, 'TU', 3, 2
+0, 'TO', 2.5, 1.552
+0, 'TU', 2.5, 2.53
+0, 'TO', 2.75, 1.689
+0, 'TU', 2.75, 2.27
+0, 'TO', 3.25, 2.16
+0, 'TU', 3.25, 1.763
+0, 'TO', 3.5, 2.41
+0, 'TU', 3.5, 1.606
+0, '1', nil, 1.492
+0, 'X', nil, 4.64
+0, '2', nil, 6.9
+IFK Varnamo - Trelleborgs FF
+0, 'F1', 0, 1.97
+0, 'F2', 0, 1.952
+0, 'F1', 0.5, 1.534
+0, 'F2', -0.5, 2.63
+0, 'F1', 0.25, 1.694
+0, 'F2', -0.25, 2.29
+0, 'F1', -0.25, 2.3
+0, 'F2', 0.25, 1.689
+0, 'F1', -0.5, 2.64
+0, 'F2', 0.5, 1.529
+0, 'TO', 3, 1.98
+0, 'TU', 3, 1.917
+0, 'TO', 2.5, 1.598
+0, 'TU', 2.5, 2.43
+0, 'TO', 2.75, 1.751
+0, 'TU', 2.75, 2.18
+0, 'TO', 3.25, 2.25
+0, 'TU', 3.25, 1.704
+0, 'TO', 3.5, 2.51
+0, 'TU', 3.5, 1.564
+0, '1', nil, 2.66
+0, 'X', nil, 3.65
+0, '2', nil, 2.63
+IK Brage - Jönköpings Södra
+0, 'F1', -0.25, 1.925
+0, 'F2', 0.25, 1.99
+0, 'F1', -0.75, 2.61
+0, 'F2', 0.75, 1.54
+0, 'F1', -0.5, 2.22
+0, 'F2', 0.5, 1.735
+0, 'F1', 0, 1.613
+0, 'F2', 0, 2.44
+0, 'F1', 0.25, 1.454
+0, 'F2', -0.25, 2.87
+0, 'TO', 2.75, 2
+0, 'TU', 2.75, 1.9
+0, 'TO', 2.25, 1.564
+0, 'TU', 2.25, 2.51
+0, 'TO', 2.5, 1.793
+0, 'TU', 2.5, 2.12
+0, 'TO', 3, 2.32
+0, 'TU', 3, 1.657
+0, 'TO', 3.25, 2.62
+0, 'TU', 3.25, 1.518
+0, '1', nil, 2.21
+0, 'X', nil, 3.58
+0, '2', nil, 3.35
+Landskrona BoIS - Degerfors
+0, 'F1', -0.5, 1.826
+0, 'F2', 0.5, 2.1
+0, 'F1', -1, 2.49
+0, 'F2', 1, 1.591
+0, 'F1', -0.75, 2.08
+0, 'F2', 0.75, 1.847
+0, 'F1', -0.25, 1.591
+0, 'F2', 0.25, 2.49
+0, 'F1', 0, 1.354
+0, 'F2', 0, 3.3
+0, 'TO', 3, 2
+0, 'TU', 3, 1.9
+0, 'TO', 2.5, 1.609
+0, 'TU', 2.5, 2.41
+0, 'TO', 2.75, 1.763
+0, 'TU', 2.75, 2.16
+0, 'TO', 3.25, 2.26
+0, 'TU', 3.25, 1.689
+0, 'TO', 3.5, 2.53
+0, 'TU', 3.5, 1.555
+0, '1', nil, 1.877
+0, 'X', nil, 3.88
+0, '2', nil, 4.16
+Varberg BoIS - Östers
+0, 'F1', 0.5, 2.04
+0, 'F2', -0.5, 1.877
+0, 'F1', 1, 1.537
+0, 'F2', -1, 2.62
+0, 'F1', 0.75, 1.793
+0, 'F2', -0.75, 2.14
+0, 'F1', 0.25, 2.4
+0, 'F2', -0.25, 1.632
+0, 'F1', 0, 3.16
+0, 'F2', 0, 1.383
+0, 'TO', 2.75, 1.892
+0, 'TU', 2.75, 2.01
+0, 'TO', 2.25, 1.492
+0, 'TU', 2.25, 2.68
+0, 'TO', 2.5, 1.704
+0, 'TU', 2.5, 2.24
+0, 'TO', 3, 2.17
+0, 'TU', 3, 1.757
+0, 'TO', 3.25, 2.45
+0, 'TU', 3.25, 1.591
+0, '1', nil, 4.29
+0, 'X', nil, 3.78
+0, '2', nil, 1.877
+Brommapojkarna - Halmstads
+0, 'F1', -0.5, 2.07
+0, 'F2', 0.5, 1.854
+0, 'F1', -1, 2.99
+0, 'F2', 1, 1.423
+0, 'F1', -0.75, 2.39
+0, 'F2', 0.75, 1.641
+0, 'F1', -0.25, 1.806
+0, 'F2', 0.25, 2.13
+0, 'F1', 0, 1.518
+0, 'F2', 0, 2.67
+0, 'TO', 3, 2.11
+0, 'TU', 3, 1.8
+0, 'TO', 2.5, 1.675
+0, 'TU', 2.5, 2.29
+0, 'TO', 2.75, 1.847
+0, 'TU', 2.75, 2.05
+0, 'TO', 3.25, 2.39
+0, 'TU', 3.25, 1.621
+0, 'TO', 3.5, 2.66
+0, 'TU', 3.5, 1.5
+0, '1', nil, 2.04
+0, 'X', nil, 3.71
+0, '2', nil, 3.68
+Halmstads - IK Brage
+Ljungskile - Landskrona BoIS
+Trelleborgs FF - Assyriska
+Degerfors - Falkenberg
+Hammarby - Angelholms FF
+Jönköpings Södra - Varberg BoIS
+Umea FC - Brommapojkarna
+Östers - IFK Varnamo
+FC Zurich - FC Sion
+0, 'F1', 0, 2.04
+0, 'F2', 0, 1.877
+0, 'F1', 0.5, 1.546
+0, 'F2', -0.5, 2.6
+0, 'F1', 0.25, 1.729
+0, 'F2', -0.25, 2.23
+0, 'F1', -0.25, 2.43
+0, 'F2', 0.25, 1.617
+0, 'F1', -0.5, 2.81
+0, 'F2', 0.5, 1.471
+0, 'TO', 2.5, 1.97
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.458
+0, 'TU', 2, 2.79
+0, 'TO', 2.25, 1.719
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.23
+0, 'TU', 2.75, 1.714
+0, 'TO', 3, 2.67
+0, 'TU', 3, 1.497
+0, '1', nil, 2.86
+0, 'X', nil, 3.4
+0, '2', nil, 2.62
+Servette - Luzern
+0, 'F1', 0, 2.14
+0, 'F2', 0, 1.793
+0, 'F1', 0.5, 1.595
+0, 'F2', -0.5, 2.48
+0, 'F1', 0.25, 1.793
+0, 'F2', -0.25, 2.14
+0, 'F1', -0.25, 2.55
+0, 'F2', 0.25, 1.564
+0, 'F1', -0.5, 2.96
+0, 'F2', 0.5, 1.429
+0, 'TO', 2.5, 1.97
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.458
+0, 'TU', 2, 2.79
+0, 'TO', 2.25, 1.719
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.23
+0, 'TU', 2.75, 1.714
+0, 'TO', 3, 2.67
+0, 'TU', 3, 1.497
+0, '1', nil, 2.99
+0, 'X', nil, 3.44
+0, '2', nil, 2.5
+Young Boys - Lausanne
+0, 'F1', -1.25, 1.813
+0, 'F2', 1.25, 2.12
+0, 'F1', -1.75, 2.38
+0, 'F2', 1.75, 1.645
+0, 'F1', -1.5, 2.05
+0, 'F2', 1.5, 1.869
+0, 'F1', -1, 1.552
+0, 'F2', 1, 2.58
+0, 'F1', -0.75, 1.436
+0, 'F2', 0.75, 2.94
+0, 'TO', 3, 1.961
+0, 'TU', 3, 1.943
+0, 'TO', 2.5, 1.584
+0, 'TU', 2.5, 2.46
+0, 'TO', 2.75, 1.729
+0, 'TU', 2.75, 2.2
+0, 'TO', 3.25, 2.22
+0, 'TU', 3.25, 1.719
+0, 'TO', 3.5, 2.48
+0, 'TU', 3.5, 1.574
+0, '1', nil, 1.378
+0, 'X', nil, 5.17
+0, '2', nil, 9.34
+FC Sion - St. Gallen
+Lausanne - Grasshopper
+Luzern - Young Boys
+Thun - Servette
+Basel - FC Zurich
+FC Biel Bienne - Winterthur
+0, 'F1', 0.25, 1.961
+0, 'F2', -0.25, 1.917
+0, 'F1', 0.75, 1.515
+0, 'F2', -0.75, 2.57
+0, 'F1', 0.5, 1.714
+0, 'F2', -0.5, 2.2
+0, 'F1', 0, 2.38
+0, 'F2', 0, 1.602
+0, 'F1', -0.25, 2.78
+0, 'F2', 0.25, 1.44
+0, 'TO', 2.75, 1.813
+0, 'TU', 2.75, 2.07
+0, 'TO', 2.25, 1.438
+0, 'TU', 2.25, 2.79
+0, 'TO', 2.5, 1.645
+0, 'TU', 2.5, 2.31
+0, 'TO', 3, 2.07
+0, 'TU', 3, 1.819
+0, 'TO', 3.25, 2.33
+0, 'TU', 3.25, 1.628
+0, '1', nil, 3.26
+0, 'X', nil, 3.65
+0, '2', nil, 2.2
+Locarno - FC Wil
+0, 'F1', 0, 2.13
+0, 'F2', 0, 1.763
+0, 'F1', 0.5, 1.602
+0, 'F2', -0.5, 2.38
+0, 'F1', 0.25, 1.8
+0, 'F2', -0.25, 2.09
+0, 'F1', -0.25, 2.5
+0, 'F2', 0.25, 1.546
+0, 'F1', -0.5, 2.87
+0, 'F2', 0.5, 1.414
+0, 'TO', 3, 1.98
+0, 'TU', 3, 1.9
+0, 'TO', 2.5, 1.591
+0, 'TU', 2.5, 2.4
+0, 'TO', 2.75, 1.746
+0, 'TU', 2.75, 2.16
+0, 'TO', 3.25, 2.24
+0, 'TU', 3.25, 1.684
+0, 'TO', 3.5, 2.5
+0, 'TU', 3.5, 1.546
+0, '1', nil, 2.93
+0, 'X', nil, 3.6
+0, '2', nil, 2.4
+Chiasso - Bellinzona
+0, 'F1', 0.25, 1.99
+0, 'F2', -0.25, 1.892
+0, 'F1', 0.75, 1.495
+0, 'F2', -0.75, 2.62
+0, 'F1', 0.5, 1.709
+0, 'F2', -0.5, 2.2
+0, 'F1', 0, 2.51
+0, 'F2', 0, 1.54
+0, 'F1', -0.25, 2.99
+0, 'F2', 0.25, 1.381
+0, 'TO', 2.25, 1.98
+0, 'TU', 2.25, 1.9
+0, 'TO', 1.75, 1.49
+0, 'TU', 1.75, 2.64
+0, 'TO', 2, 1.671
+0, 'TU', 2, 2.27
+0, 'TO', 2.5, 2.26
+0, 'TU', 2.5, 1.675
+0, 'TO', 2.75, 2.64
+0, 'TU', 2.75, 1.487
+0, '1', nil, 3.58
+0, 'X', nil, 3.3
+0, '2', nil, 2.2
+Chiasso - Locarno
+Winterthur - Lugano
+FC Wil - Vaduz
+Wohlen - FC Biel Bienne
+Bellinzona - Aarau
+Antalyaspor - Kayserispor
+0, 'F1', 0, 1.775
+0, 'F2', 0, 2.17
+0, 'F1', -0.5, 2.5
+0, 'F2', 0.5, 1.584
+0, 'F1', -0.25, 2.15
+0, 'F2', 0.25, 1.787
+0, 'F1', 0.25, 1.537
+0, 'F2', -0.25, 2.62
+0, 'F1', 0.5, 1.403
+0, 'F2', -0.5, 3.07
+0, 'TO', 2.25, 2.02
+0, 'TU', 2.25, 1.877
+0, 'TO', 1.75, 1.52
+0, 'TU', 1.75, 2.61
+0, 'TO', 2, 1.709
+0, 'TU', 2, 2.24
+0, 'TO', 2.5, 2.31
+0, 'TU', 2.5, 1.662
+0, 'TO', 2.75, 2.72
+0, 'TU', 2.75, 1.48
+0, '1', nil, 2.5
+0, 'X', nil, 3.28
+0, '2', nil, 3.08
+Besiktas - Galatasaray
+0, 'F1', 0.25, 2.02
+0, 'F2', -0.25, 1.9
+0, 'F1', 0.75, 1.534
+0, 'F2', -0.75, 2.62
+0, 'F1', 0.5, 1.746
+0, 'F2', -0.5, 2.21
+0, 'F1', 0, 2.54
+0, 'F2', 0, 1.568
+0, 'F1', -0.25, 3.03
+0, 'F2', 0.25, 1.411
+0, 'TO', 2.5, 2.07
+0, 'TU', 2.5, 1.833
+0, 'TO', 2, 1.531
+0, 'TU', 2, 2.58
+0, 'TO', 2.25, 1.806
+0, 'TU', 2.25, 2.1
+0, 'TO', 2.75, 2.37
+0, 'TU', 2.75, 1.628
+0, 'TO', 3, 2.9
+0, 'TU', 3, 1.425
+0, '1', nil, 3.53
+0, 'X', nil, 3.37
+0, '2', nil, 2.22
+Bursaspor - Istanbul Buyuksehir Belediyespor
+0, 'F1', -0.5, 1.869
+0, 'F2', 0.5, 2.05
+0, 'F1', -1, 2.65
+0, 'F2', 1, 1.523
+0, 'F1', -0.75, 2.15
+0, 'F2', 0.75, 1.793
+0, 'F1', -0.25, 1.625
+0, 'F2', 0.25, 2.42
+0, 'F1', 0, 1.353
+0, 'F2', 0, 3.31
+0, 'TO', 2.5, 2.04
+0, 'TU', 2.5, 1.862
+0, 'TO', 2, 1.507
+0, 'TU', 2, 2.64
+0, 'TO', 2.25, 1.781
+0, 'TU', 2.25, 2.14
+0, 'TO', 2.75, 2.32
+0, 'TU', 2.75, 1.653
+0, 'TO', 3, 2.83
+0, 'TU', 3, 1.448
+0, '1', nil, 1.869
+0, 'X', nil, 3.64
+0, '2', nil, 4.55
+Trabzonspor - Elazigspor
+0, 'F1', -1, 2.1
+0, 'F2', 1, 1.826
+0, 'F1', -1.5, 2.81
+0, 'F2', 1.5, 1.471
+0, 'F1', -1.25, 2.46
+0, 'F2', 1.25, 1.606
+0, 'F1', -0.75, 1.787
+0, 'F2', 0.75, 2.15
+0, 'F1', -0.5, 1.602
+0, 'F2', 0.5, 2.47
+0, 'TO', 2.5, 2.15
+0, 'TU', 2.5, 1.769
+0, 'TO', 2, 1.591
+0, 'TU', 2, 2.45
+0, 'TO', 2.25, 1.884
+0, 'TU', 2.25, 2.02
+0, 'TO', 2.75, 2.49
+0, 'TU', 2.75, 1.574
+0, 'TO', 3, 3.1
+0, 'TU', 3, 1.375
+0, '1', nil, 1.606
+0, 'X', nil, 4.02
+0, '2', nil, 6.28
+Elazigspor - Kasimpasa
+Galatasaray - Bursaspor
+Gaziantepspor - Trabzonspor
+Genclerbirligi - Orduspor
+Istanbul Buyuksehir Belediyespor - Antalyaspor
+Kardemir Karabukspor - Besiktas
+Kayserispor - Akhisar Belediyespor
+Mersin Idman Yurdu - Eskisehirspor
+Sivasspor - Fenerbahce
+Hapoel Kiryat Shmona (n) - Bate Borisov
+0, 'F1', -0.25, 2.09
+0, 'F2', 0.25, 1.833
+0, 'F1', -0.75, 2.95
+0, 'F2', 0.75, 1.432
+0, 'F1', -0.5, 2.43
+0, 'F2', 0.5, 1.617
+0, 'F1', 0, 1.729
+0, 'F2', 0, 2.23
+0, 'F1', 0.25, 1.515
+0, 'F2', -0.25, 2.68
+0, 'TO', 2.25, 1.917
+0, 'TU', 2.25, 1.98
+0, 'TO', 1.75, 1.46
+0, 'TU', 1.75, 2.78
+0, 'TO', 2, 1.621
+0, 'TU', 2, 2.39
+0, 'TO', 2.5, 2.19
+0, 'TU', 2.5, 1.74
+0, 'TO', 2.75, 2.54
+0, 'TU', 2.75, 1.546
+0, '1', nil, 2.42
+0, 'X', nil, 3.3
+0, '2', nil, 3.18
+Anderlecht - AEL Limassol
+0, 'F1', -1, 1.781
+0, 'F2', 1, 2.16
+0, 'F1', -1.5, 2.37
+0, 'F2', 1.5, 1.649
+0, 'F1', -1.25, 2.08
+0, 'F2', 1.25, 1.847
+0, 'F1', -0.75, 1.581
+0, 'F2', 0.75, 2.51
+0, 'F1', -0.5, 1.456
+0, 'F2', 0.5, 2.86
+0, 'TO', 2.5, 1.97
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.458
+0, 'TU', 2, 2.79
+0, 'TO', 2.25, 1.719
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.23
+0, 'TU', 2.75, 1.714
+0, 'TO', 3, 2.67
+0, 'TU', 3, 1.497
+0, '1', nil, 1.471
+0, 'X', nil, 4.42
+0, '2', nil, 8.05
+Maribor - Dinamo Zagreb
+0, 'F1', 0, 2.04
+0, 'F2', 0, 1.877
+0, 'F1', 0.5, 1.546
+0, 'F2', -0.5, 2.6
+0, 'F1', 0.25, 1.724
+0, 'F2', -0.25, 2.24
+0, 'F1', -0.25, 2.43
+0, 'F2', 0.25, 1.617
+0, 'F1', -0.5, 2.81
+0, 'F2', 0.5, 1.471
+0, 'TO', 2.5, 2.1
+0, 'TU', 2.5, 1.806
+0, 'TO', 2, 1.555
+0, 'TU', 2, 2.53
+0, 'TO', 2.25, 1.84
+0, 'TU', 2.25, 2.07
+0, 'TO', 2.75, 2.41
+0, 'TU', 2.75, 1.606
+0, 'TO', 3, 2.98
+0, 'TU', 3, 1.406
+0, '1', nil, 2.84
+0, 'X', nil, 3.4
+0, '2', nil, 2.61
+Udinese - Sporting Braga
+0, 'F1', -0.5, 2.06
+0, 'F2', 0.5, 1.862
+0, 'F1', -1, 3.1
+0, 'F2', 1, 1.395
+0, 'F1', -0.75, 2.41
+0, 'F2', 0.75, 1.628
+0, 'F1', -0.25, 1.769
+0, 'F2', 0.25, 2.18
+0, 'F1', 0, 1.465
+0, 'F2', 0, 2.83
+0, 'TO', 2.25, 1.99
+0, 'TU', 2.25, 1.909
+0, 'TO', 1.75, 1.502
+0, 'TU', 1.75, 2.66
+0, 'TO', 2, 1.68
+0, 'TU', 2, 2.28
+0, 'TO', 2.5, 2.27
+0, 'TU', 2.5, 1.684
+0, 'TO', 2.75, 2.66
+0, 'TU', 2.75, 1.5
+0, '1', nil, 2.06
+0, 'X', nil, 3.43
+0, '2', nil, 4.03
+Panathinaikos - Malaga
+0, 'F1', 0, 1.813
+0, 'F2', 0, 2.12
+0, 'F1', -0.5, 2.54
+0, 'F2', 0.5, 1.568
+0, 'F1', -0.25, 2.19
+0, 'F2', 0.25, 1.757
+0, 'F1', 0.25, 1.568
+0, 'F2', -0.25, 2.54
+0, 'F1', 0.5, 1.427
+0, 'F2', -0.5, 2.97
+0, 'TO', 2.25, 1.9
+0, 'TU', 2.25, 2
+0, 'TO', 1.75, 1.452
+0, 'TU', 1.75, 2.81
+0, 'TO', 2, 1.606
+0, 'TU', 2, 2.42
+0, 'TO', 2.5, 2.17
+0, 'TU', 2.5, 1.751
+0, 'TO', 2.75, 2.51
+0, 'TU', 2.75, 1.561
+0, '1', nil, 2.55
+0, 'X', nil, 3.33
+0, '2', nil, 2.96
+CFR Cluj - Basel
+0, 'F1', 0, 1.869
+0, 'F2', 0, 2.05
+0, 'F1', -0.5, 2.54
+0, 'F2', 0.5, 1.568
+0, 'F1', -0.25, 2.21
+0, 'F2', 0.25, 1.746
+0, 'F1', 0.25, 1.625
+0, 'F2', -0.25, 2.42
+0, 'F1', 0.5, 1.478
+0, 'F2', -0.5, 2.79
+0, 'TO', 2.5, 1.781
+0, 'TU', 2.5, 2.13
+0, 'TO', 2, 1.328
+0, 'TU', 2, 3.33
+0, 'TO', 2.25, 1.555
+0, 'TU', 2.25, 2.52
+0, 'TO', 2.75, 1.99
+0, 'TU', 2.75, 1.909
+0, 'TO', 3, 2.3
+0, 'TU', 3, 1.666
+0, '1', nil, 2.56
+0, 'X', nil, 3.53
+0, '2', nil, 2.81
+Celtic FC - Helsingborg
+0, 'F1', -1, 1.961
+0, 'F2', 1, 1.961
+0, 'F1', -1.5, 2.6
+0, 'F2', 1.5, 1.543
+0, 'F1', -1.25, 2.28
+0, 'F2', 1.25, 1.699
+0, 'F1', -0.75, 1.699
+0, 'F2', 0.75, 2.28
+0, 'F1', -0.5, 1.54
+0, 'F2', 0.5, 2.61
+0, 'TO', 2.25, 1.833
+0, 'TU', 2.25, 2.07
+0, 'TO', 1.75, 1.414
+0, 'TU', 1.75, 2.94
+0, 'TO', 2, 1.552
+0, 'TU', 2, 2.53
+0, 'TO', 2.5, 2.1
+0, 'TU', 2.5, 1.813
+0, 'TO', 2.75, 2.41
+0, 'TU', 2.75, 1.609
+0, '1', nil, 1.54
+0, 'X', nil, 4.13
+0, '2', nil, 7.2
+Fenerbahce - Spartak Moscow
+0, 'F1', -0.25, 2.02
+0, 'F2', 0.25, 1.9
+0, 'F1', -0.75, 2.75
+0, 'F2', 0.75, 1.49
+0, 'F1', -0.5, 2.32
+0, 'F2', 0.5, 1.675
+0, 'F1', 0, 1.689
+0, 'F2', 0, 2.3
+0, 'F1', 0.25, 1.5
+0, 'F2', -0.25, 2.72
+0, 'TO', 2.5, 1.925
+0, 'TU', 2.5, 1.97
+0, 'TO', 2, 1.427
+0, 'TU', 2, 2.9
+0, 'TO', 2.25, 1.68
+0, 'TU', 2.25, 2.28
+0, 'TO', 2.75, 2.17
+0, 'TU', 2.75, 1.751
+0, 'TO', 3, 2.58
+0, 'TU', 3, 1.531
+0, '1', nil, 2.34
+0, 'X', nil, 3.49
+0, '2', nil, 3.21
+Dynamo Kyiv - Borussia Monchengladbach
+0, 'F1', -0.5, 1.909
+0, 'F2', 0.5, 2.01
+0, 'F1', -1, 2.73
+0, 'F2', 1, 1.497
+0, 'F1', -0.75, 2.19
+0, 'F2', 0.75, 1.757
+0, 'F1', -0.25, 1.636
+0, 'F2', 0.25, 2.39
+0, 'F1', 0, 1.363
+0, 'F2', 0, 3.25
+0, 'TO', 2.5, 2.04
+0, 'TU', 2.5, 1.862
+0, 'TO', 2, 1.507
+0, 'TU', 2, 2.64
+0, 'TO', 2.25, 1.781
+0, 'TU', 2.25, 2.14
+0, 'TO', 2.75, 2.32
+0, 'TU', 2.75, 1.653
+0, 'TO', 3, 2.83
+0, 'TU', 3, 1.448
+0, '1', nil, 1.909
+0, 'X', nil, 3.57
+0, '2', nil, 4.41
+Lille - FC Copenhagen
+0, 'F1', -1.25, 2.04
+0, 'F2', 1.25, 1.877
+0, 'F1', -1.75, 2.76
+0, 'F2', 1.75, 1.487
+0, 'F1', -1.5, 2.33
+0, 'F2', 1.5, 1.671
+0, 'F1', -1, 1.74
+0, 'F2', 1, 2.22
+0, 'F1', -0.75, 1.549
+0, 'F2', 0.75, 2.59
+0, 'TO', 2.5, 1.952
+0, 'TU', 2.5, 1.952
+0, 'TO', 2, 1.442
+0, 'TU', 2, 2.84
+0, 'TO', 2.25, 1.699
+0, 'TU', 2.25, 2.25
+0, 'TO', 2.75, 2.2
+0, 'TU', 2.75, 1.735
+0, 'TO', 3, 2.62
+0, 'TU', 3, 1.515
+0, '1', nil, 1.434
+0, 'X', nil, 4.48
+0, '2', nil, 9.05
+Chelsea (n) - Atletico Madrid
+0, 'F1', -0.25, 1.98
+0, 'F2', 0.25, 1.961
+0, 'F1', -0.75, 2.75
+0, 'F2', 0.75, 1.512
+0, 'F1', -0.5, 2.31
+0, 'F2', 0.5, 1.704
+0, 'F1', 0, 1.641
+0, 'F2', 0, 2.43
+0, 'F1', 0.25, 1.465
+0, 'F2', -0.25, 2.9
+0, 'TO', 2.5, 1.99
+0, 'TU', 2.5, 1.925
+0, 'TO', 2, 1.478
+0, 'TU', 2, 2.79
+0, 'TO', 2.25, 1.735
+0, 'TU', 2.25, 2.22
+0, 'TO', 2.75, 2.26
+0, 'TU', 2.75, 1.714
+0, 'TO', 3, 2.72
+0, 'TU', 3, 1.502
+0, '1', nil, 2.31
+0, 'X', nil, 3.48
+0, '2', nil, 3.33
+Metalurg Zaporizhya - Metalurh Donetsk
+0, 'F1', 0.5, 1.847
+0, 'F2', -0.5, 2.03
+0, 'F1', 1, 1.378
+0, 'F2', -1, 3
+0, 'F1', 0.75, 1.617
+0, 'F2', -0.75, 2.36
+0, 'F1', 0.25, 2.12
+0, 'F2', -0.25, 1.769
+0, 'F1', 0, 2.72
+0, 'F2', 0, 1.46
+0, 'TO', 2.25, 1.854
+0, 'TU', 2.25, 2.03
+0, 'TO', 1.75, 1.418
+0, 'TU', 1.75, 2.86
+0, 'TO', 2, 1.564
+0, 'TU', 2, 2.46
+0, 'TO', 2.5, 2.12
+0, 'TU', 2.5, 1.775
+0, 'TO', 2.75, 2.44
+0, 'TU', 2.75, 1.574
+0, '1', nil, 3.67
+0, 'X', nil, 3.54
+0, '2', nil, 2.06
+Dnipro Dnipropetrovsk - Volyn
+0, 'F1', -1.25, 2.04
+0, 'F2', 1.25, 1.84
+0, 'F1', -1.75, 2.79
+0, 'F2', 1.75, 1.438
+0, 'F1', -1.5, 2.34
+0, 'F2', 1.5, 1.625
+0, 'F1', -1, 1.735
+0, 'F2', 1, 2.17
+0, 'F1', -0.75, 1.531
+0, 'F2', 0.75, 2.53
+0, 'TO', 2.5, 1.892
+0, 'TU', 2.5, 1.99
+0, 'TO', 2, 1.396
+0, 'TU', 2, 2.93
+0, 'TO', 2.25, 1.645
+0, 'TU', 2.25, 2.31
+0, 'TO', 2.75, 2.12
+0, 'TU', 2.75, 1.769
+0, 'TO', 3, 2.51
+0, 'TU', 3, 1.543
+0, '1', nil, 1.432
+0, 'X', nil, 4.63
+0, '2', nil, 7.95
+Shakhtar Donetsk - Karpaty Lviv
+0, 'F1', -2, 1.662
+0, 'F2', 2, 2.28
+0, 'TO', 3, 1.793
+0, 'TU', 3, 2.09
+0, 'TO', 2.5, 1.487
+0, 'TU', 2.5, 2.64
+0, 'TO', 2.75, 1.609
+0, 'TU', 2.75, 2.37
+0, 'TO', 3.25, 2.05
+0, 'TU', 3.25, 1.833
+0, 'TO', 3.5, 2.29
+0, 'TU', 3.5, 1.657
+Metallist Kharkiv - Kryvbas Kryvyi Rih
+0, 'F1', -1.25, 2.04
+0, 'F2', 1.25, 1.84
+0, 'F1', -1.75, 2.79
+0, 'F2', 1.75, 1.438
+0, 'F1', -1.5, 2.33
+0, 'F2', 1.5, 1.632
+0, 'F1', -1, 1.719
+0, 'F2', 1, 2.19
+0, 'F1', -0.75, 1.515
+0, 'F2', 0.75, 2.57
+0, 'TO', 2.5, 2.06
+0, 'TU', 2.5, 1.826
+0, 'TO', 2, 1.518
+0, 'TU', 2, 2.57
+0, 'TO', 2.25, 1.8
+0, 'TU', 2.25, 2.09
+0, 'TO', 2.75, 2.35
+0, 'TU', 2.75, 1.621
+0, 'TO', 3, 2.87
+0, 'TU', 3, 1.413
+0, '1', nil, 1.431
+0, 'X', nil, 4.41
+0, '2', nil, 8.72
+Tavriya Simferopol - Arsenal Kyiv
+0, 'F1', 0, 1.833
+0, 'F2', 0, 2.05
+0, 'F1', -0.5, 2.52
+0, 'F2', 0.5, 1.537
+0, 'F1', -0.25, 2.19
+0, 'F2', 0.25, 1.719
+0, 'F1', 0.25, 1.571
+0, 'F2', -0.25, 2.45
+0, 'F1', 0.5, 1.42
+0, 'F2', -0.5, 2.85
+0, 'TO', 2.25, 1.884
+0, 'TU', 2.25, 2
+0, 'TO', 1.75, 1.434
+0, 'TU', 1.75, 2.8
+0, 'TO', 2, 1.588
+0, 'TU', 2, 2.41
+0, 'TO', 2.5, 2.15
+0, 'TU', 2.5, 1.751
+0, 'TO', 2.75, 2.48
+0, 'TU', 2.75, 1.555
+0, '1', nil, 2.51
+0, 'X', nil, 3.35
+0, '2', nil, 2.91
+Arsenal Kyiv - Metalurg Zaporizhya
+Chernomorets Odessa - Zorya Lugansk
+Hoverla Uzhhorod - Tavriya Simferopol
+Karpaty Lviv - Metalurh Donetsk
+Kryvbas Kryvyi Rih - Illychivets
+Shakhtar Donetsk - Dynamo Kyiv
+Volyn - Metallist Kharkiv
+Vorskla Poltava - Dnipro Dnipropetrovsk
+Central Espanol (n) - El Tanque Sisley
+0, 'F1', -0.25, 2.3
+0, 'F2', 0.25, 1.609
+0, 'TO', 2.5, 1.8
+0, 'TU', 2.5, 2.04
+0, 'TO', 2, 1.321
+0, 'TU', 2, 3.07
+0, 'TO', 2.25, 1.561
+0, 'TU', 2.25, 2.38
+0, 'TO', 2.75, 2.02
+0, 'TU', 2.75, 1.826
+0, 'TO', 3, 2.34
+0, 'TU', 3, 1.584
+Centro Atletico Fenix (n) - Penarol Montevideo
+0, 'F1', 1.5, 1.8
+0, 'F2', -1.5, 2.04
+0, 'TO', 3, 1.909
+0, 'TU', 3, 1.934
+0, 'TO', 2.5, 1.537
+0, 'TU', 2.5, 2.43
+0, 'TO', 2.75, 1.684
+0, 'TU', 2.75, 2.18
+0, 'TO', 3.25, 2.16
+0, 'TU', 3.25, 1.704
+0, 'TO', 3.5, 2.4
+0, 'TU', 3.5, 1.552
+Cerro Largo - Montevideo Wanderers
+0, 'F1', -0.5, 2.03
+0, 'F2', 0.5, 1.813
+0, 'TO', 2.75, 1.8
+0, 'TU', 2.75, 2.04
+0, 'TO', 2.25, 1.418
+0, 'TU', 2.25, 2.73
+0, 'TO', 2.5, 1.628
+0, 'TU', 2.5, 2.27
+0, 'TO', 3, 2.05
+0, 'TU', 3, 1.793
+0, 'TO', 3.25, 2.31
+0, 'TU', 3.25, 1.602
+Cerro Montevideo - CA Progreso
+0, 'F1', -0.75, 2.2
+0, 'F2', 0.75, 1.671
+0, 'TO', 2.75, 1.787
+0, 'TU', 2.75, 2.06
+0, 'TO', 2.25, 1.408
+0, 'TU', 2.25, 2.76
+0, 'TO', 2.5, 1.617
+0, 'TU', 2.5, 2.29
+0, 'TO', 3, 2.03
+0, 'TU', 3, 1.806
+0, 'TO', 3.25, 2.29
+0, 'TU', 3.25, 1.613
+LA Galaxy - FC Dallas
+0, 'F1', -0.75, 2.03
+0, 'F2', 0.75, 1.892
+0, 'F1', -1.25, 2.81
+0, 'F2', 1.25, 1.471
+0, 'F1', -1, 2.44
+0, 'F2', 1, 1.617
+0, 'F1', -0.5, 1.787
+0, 'F2', 0.5, 2.15
+0, 'F1', -0.25, 1.546
+0, 'F2', 0.25, 2.6
+0, 'TO', 2.75, 2.01
+0, 'TU', 2.75, 1.892
+0, 'TO', 2.25, 1.571
+0, 'TU', 2.25, 2.49
+0, 'TO', 2.5, 1.8
+0, 'TU', 2.5, 2.11
+0, 'TO', 3, 2.33
+0, 'TU', 3, 1.653
+0, 'TO', 3.25, 2.63
+0, 'TU', 3.25, 1.512
+0, '1', nil, 1.781
+0, 'X', nil, 3.89
+0, '2', nil, 4.85
+Sporting Kansas City - New York Red Bulls
+0, 'F1', -0.5, 2.01
+0, 'F2', 0.5, 1.909
+0, 'F1', -1, 2.9
+0, 'F2', 1, 1.446
+0, 'F1', -0.75, 2.32
+0, 'F2', 0.75, 1.68
+0, 'F1', -0.25, 1.74
+0, 'F2', 0.25, 2.22
+0, 'F1', 0, 1.442
+0, 'F2', 0, 2.91
+0, 'TO', 2.5, 1.943
+0, 'TU', 2.5, 1.961
+0, 'TO', 2, 1.436
+0, 'TU', 2, 2.86
+0, 'TO', 2.25, 1.689
+0, 'TU', 2.25, 2.26
+0, 'TO', 2.75, 2.19
+0, 'TU', 2.75, 1.74
+0, 'TO', 3, 2.61
+0, 'TU', 3, 1.523
+0, '1', nil, 1.961
+0, 'X', nil, 3.63
+0, '2', nil, 4.11
+D.C. United - New York Red Bulls
+New England Revolution - Deportivo Chivas USA
+Philadelphia Union - Columbus Crew
+Portland Timbers - Colorado Rapids
+Columbus Crew - Montreal Impact
+New England Revolution - Philadelphia Union
+Sporting Kansas City - Toronto FC
+Real Salt Lake - D.C. United
+LA Galaxy - Vancouver Whitecaps
+Chicago Fire - Houston Dynamo
+FC Dallas - Seattle Sounders FC
+San Jose Earthquakes - Deportivo Chivas USA
+New England Revolution - Columbus Crew
+Colorado Rapids - Portland Timbers
+Houston Dynamo - Real Salt Lake
+Seattle Sounders FC - Deportivo Chivas USA
