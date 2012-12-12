@@ -3,7 +3,7 @@ namespace :sbobet do
 
     desc 'Imports line lines'
     task live: :environment do
-     %w(football).each do |sport|
+     %w(americanfootball badminton baseball basketball darts football futsal handball hockey rugbyunion snooker soccer tabletennis volleyball waterpolo).each do |sport|
       provider = Providers::Sbobet.new(sport.to_sym)
       provider.bet_lines
      end  

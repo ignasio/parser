@@ -1,6 +1,6 @@
 module Providers
   class Sbobet < Base
-    module Futsal
+    module Badminton
         
         def get_line(league,agent)
           page = agent.get($main+league['href'])
@@ -18,7 +18,7 @@ module Providers
           #puts league.content.gsub!(/\(\d\)|\d/,'')
           teams = home_t+"-"+away_t
           league = league.content.gsub!(/\(\d\)|\d/,'').strip
-          arr={"Futsal"=>{league=>{teams=>[]}}}
+          arr={"Badminton"=>{league=>{teams=>[]}}}
           data = JSON.parse(data[0][0])
           count =0
           count = data[2][0][1][0][3].length.to_i-1 if data[2][0][1][0] and data[2][0][1][0][3]
@@ -31,45 +31,45 @@ module Providers
                 #puts "ah"
                 #puts "0, F1, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
                 #puts "0, F2, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
-                arr["Futsal"][league][teams].push([0,"F1",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
-                arr["Futsal"][league][teams].push([0,"F2",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+                arr["Badminton"][league][teams].push([0,"F1",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["Badminton"][league][teams].push([0,"F2",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
               when 7 then
                 #puts "fhah"
                 #puts "0, F1, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
                 #puts "0, F2, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
-                arr["Futsal"][league][teams].push([0,"F1",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
-                arr["Futsal"][league][teams].push([0,"F2",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+                arr["Badminton"][league][teams].push([0,"F1",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["Badminton"][league][teams].push([0,"F2",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
               when 8 then
                 #puts "1st"
                 #puts "0, 1, nil, #{data[2][0][1][0][3][i+1][2][0]}"
                 #puts "0, x, nil, #{data[2][0][1][0][3][i+1][2][1]}"
                 #puts "0, 2, nil, #{data[2][0][1][0][3][i+1][2][2]}"
-                arr["Futsal"][league][teams].push([0,"1",nil,data[2][0][1][0][3][i+1][2][0]])
-                arr["Futsal"][league][teams].push([0,"X",nil,data[2][0][1][0][3][i+1][2][1]])
-                arr["Futsal"][league][teams].push([0,"2",nil,data[2][0][1][0][3][i+1][2][2]])
+                arr["Badminton"][league][teams].push([0,"1",nil,data[2][0][1][0][3][i+1][2][0]])
+                arr["Badminton"][league][teams].push([0,"X",nil,data[2][0][1][0][3][i+1][2][1]])
+                arr["Badminton"][league][teams].push([0,"2",nil,data[2][0][1][0][3][i+1][2][2]])
 
               when 9 then
                 #puts "fhou"
                 #puts "0, TO, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
                 #puts "0, TU, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
-                arr["Futsal"][league][teams].push([0,"TO",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
-                arr["Futsal"][league][teams].push([0,"TU",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+                arr["Badminton"][league][teams].push([0,"TO",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["Badminton"][league][teams].push([0,"TU",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
               when 3 then
                 #puts "totals"
                 #puts "0, TO, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
                 #puts "0, TU, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
-                arr["Futsal"][league][teams].push([0,"TO",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
-                arr["Futsal"][league][teams].push([0,"TU",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+                arr["Badminton"][league][teams].push([0,"TO",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["Badminton"][league][teams].push([0,"TU",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
               when 5 then
                 #puts "1x2"
                 #puts "0, 1, nil, #{data[2][0][1][0][3][i+1][2][0]}"
                 #puts "0, x, nil, #{data[2][0][1][0][3][i+1][2][1]}"
                 #puts "0, 2, nil, #{data[2][0][1][0][3][i+1][2][2]}"
-                arr["Futsal"][league][teams].push([0,"1",nil,data[2][0][1][0][3][i+1][2][0]])
-                arr["Futsal"][league][teams].push([0,"X",nil,data[2][0][1][0][3][i+1][2][1]])
-                arr["Futsal"][league][teams].push([0,"2",nil,data[2][0][1][0][3][i+1][2][2]])
+                arr["Badminton"][league][teams].push([0,"1",nil,data[2][0][1][0][3][i+1][2][0]])
+                arr["Badminton"][league][teams].push([0,"X",nil,data[2][0][1][0][3][i+1][2][1]])
+                arr["Badminton"][league][teams].push([0,"2",nil,data[2][0][1][0][3][i+1][2][2]])
               else
-                puts "ADD ME TO CASE"
+                puts "ADD ME TO CASE------>#{data[2][0][1][0][3][i+1][1][0]}"
                 puts "0, TO, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
                 puts "0, TU, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
               end

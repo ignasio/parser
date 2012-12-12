@@ -1,76 +1,98 @@
 module Providers
   class Sbobet < Base
     module Americanfootball
+        
+        def get_line(league,agent)
+          page = agent.get($main+league['href'])
+          du = page.content.scan(/(\d{7},(.*))/)[0][0]
+          home_t = du.split(',')[1].downcase.delete("'").gsub(/ /,'-')
+          away_t = du.split(',')[2].downcase.delete("'").gsub(/ /,'-')
+          url = $main+league['href']+"/"+du.split(',')[0]+"/"+home_t+"-vs-"+away_t
+          page = agent.get(url)
+          str = page.at("//script[contains(.,'function initiateOddsDisplay()')]").content
+          data = str.scan(/onUpdate\('od',(.*)\);\$/)
+          data[0][0] = data[0][0].gsub(/,,\{(.*)\}/,'')
+          data[0][0] = data[0][0].gsub(/,\{(.*)\}/,'')
+          data[0][0].gsub!(/'/,'"')
+          #puts data[0][0] 
+          #puts league.content.gsub!(/\(\d\)|\d/,'')
+          teams = home_t+"-"+away_t
+          league = league.content.gsub!(/\(\d\)|\d/,'').strip
+          arr={"American Football"=>{league=>{teams=>[]}}}
+          data = JSON.parse(data[0][0])
+          count =0
+          count = data[2][0][1][0][3].length.to_i-1 if data[2][0][1][0] and data[2][0][1][0][3]
+          unless data.nil?  
+            count.times do |i|
+              #puts data[2][0][1][0][3][i+1][2]
+              #puts data[2][0][1][0][3][i+1][1][0]
+              case data[2][0][1][0][3][i+1][1][0]
+              when 1 then
+                #puts "ah"
+                #puts "0, F1, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
+                #puts "0, F2, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
+                arr["American Football"][league][teams].push([0,"F1",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["American Football"][league][teams].push([0,"F2",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+              when 7 then
+                #puts "fhah"
+                #puts "0, F1, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
+                #puts "0, F2, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
+                arr["American Football"][league][teams].push([0,"F1",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["American Football"][league][teams].push([0,"F2",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+              when 8 then
+                #puts "1st"
+                #puts "0, 1, nil, #{data[2][0][1][0][3][i+1][2][0]}"
+                #puts "0, x, nil, #{data[2][0][1][0][3][i+1][2][1]}"
+                #puts "0, 2, nil, #{data[2][0][1][0][3][i+1][2][2]}"
+                arr["American Football"][league][teams].push([0,"1",nil,data[2][0][1][0][3][i+1][2][0]])
+                arr["American Football"][league][teams].push([0,"X",nil,data[2][0][1][0][3][i+1][2][1]])
+                arr["American Football"][league][teams].push([0,"2",nil,data[2][0][1][0][3][i+1][2][2]])
 
-      def parse
-        @league_events.each do |league_id, raw_league|
-          @bookmaker_league = create_bookmaker_league(raw_league[:name], league_id)
-          @bookmaker_events = bookmaker_events(@bookmaker_league)
-
-          raw_league[:events].each_value do |raw_event|
-            # check teams first
-            home_team = create_bookmaker_team(raw_event[:home_team].gsub(/\(n\)/, '')) # remove (n)
-            away_team = create_bookmaker_team(raw_event[:away_team].gsub(/\(n\)/, '')) # remove (n)
-
-            # creating events
-            Time.zone = @time_zone
-            event_time = Time.zone.parse(raw_event[:event_date].gsub(/^(\d{2})\/(\d{2})(.+)$/, '\2/\1\3'))
-            bookmaker_event = create_bookmaker_event(home_team, away_team, event_time, raw_event[:short_url])
-
-
-
-            # bookmaker's bet
-            @bets = bookmaker_event.bets
-            @bets_to_remove[bookmaker_event.id] = @bets.map(&:id) unless @bets_to_remove[bookmaker_event.id]
-
-            # moneyline
-            if raw_event[:moneyline]
-              create_or_update_bet(bookmaker_event, 0, 'ML1', nil, raw_event[:moneyline][:_1])
-              create_or_update_bet(bookmaker_event, 0, 'ML2', nil, raw_event[:moneyline][:_2])
-            end
-            # totals
-            if raw_event[:totals]
-              raw_event[:totals].each do |t|
-                create_or_update_bet(bookmaker_event, 0, 'TO', t[:total], t[:over])
-                create_or_update_bet(bookmaker_event, 0, 'TU', t[:total], t[:under])
+              when 9 then
+                #puts "fhou"
+                #puts "0, TO, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
+                #puts "0, TU, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
+                arr["American Football"][league][teams].push([0,"TO",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["American Football"][league][teams].push([0,"TU",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+              when 3 then
+                #puts "totals"
+                #puts "0, TO, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
+                #puts "0, TU, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
+                arr["American Football"][league][teams].push([0,"TO",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][0]])
+                arr["American Football"][league][teams].push([0,"TU",data[2][0][1][0][3][i+1][1][5],data[2][0][1][0][3][i+1][2][1]])
+              when 5 then
+                #puts "1x2"
+                #puts "0, 1, nil, #{data[2][0][1][0][3][i+1][2][0]}"
+                #puts "0, x, nil, #{data[2][0][1][0][3][i+1][2][1]}"
+                #puts "0, 2, nil, #{data[2][0][1][0][3][i+1][2][2]}"
+                arr["American Football"][league][teams].push([0,"1",nil,data[2][0][1][0][3][i+1][2][0]])
+                arr["American Football"][league][teams].push([0,"X",nil,data[2][0][1][0][3][i+1][2][1]])
+                arr["American Football"][league][teams].push([0,"2",nil,data[2][0][1][0][3][i+1][2][2]])
+              else
+                puts "ADD ME TO CASE"
+                puts "0, TO, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][0]}"
+                puts "0, TU, #{data[2][0][1][0][3][i+1][1][5]}, #{data[2][0][1][0][3][i+1][2][1]}"
               end
             end
-            # 1st half totals
-            if raw_event[:_1st_totals]
-              raw_event[:_1st_totals].each do |t|
-                create_or_update_bet(bookmaker_event, 10, 'TO', t[:total], t[:over])
-                create_or_update_bet(bookmaker_event, 10, 'TU', t[:total], t[:under])
-              end
-            end
-            # handicaps
-            if raw_event[:handicaps]
-              raw_event[:handicaps].each do |h|
-                create_or_update_bet(bookmaker_event, 0, 'F1', h[:hand_1], h[:odds_1])
-                create_or_update_bet(bookmaker_event, 0, 'F2', h[:hand_2], h[:odds_2])
-              end
-            end
-            # 1st handicaps
-            if raw_event[:_1st_handicaps]
-              raw_event[:_1st_handicaps].each do |h|
-                create_or_update_bet(bookmaker_event, 10, 'F1', h[:hand_1], h[:odds_1])
-                create_or_update_bet(bookmaker_event, 10, 'F2', h[:hand_2], h[:odds_2])
-              end
-            end
-            # odd/even
-            if raw_event[:odd_even]
-              create_or_update_bet(bookmaker_event, 0, 'ODD', nil, raw_event[:odd_even][:odd])
-              create_or_update_bet(bookmaker_event, 0, 'EVEN', nil, raw_event[:odd_even][:even])
-            end
-            rescan_event(bookmaker_event)
+          end
+          puts arr
+        end
+
+        def get_league(country,agent)
+          page = agent.get($main+country['href'])
+          leagues = page.parser.css('ul#ms-live li.Sel div a')
+          leagues.each do |league|
+            get_line(league,agent)
           end
         end
-      end
 
-      private
-
-      def parse_money_line(bets_data)
-        (moneyline = bets_data.find{ |b| b[1][0] == 11 }) ? { _1: moneyline[2][0], _2: moneyline[2][1] } : {}
-      end
+        def get_sport(game,agent)
+          page = agent.get($main+game['href'])
+          countries = page.parser.css('li.SptSel').last
+          countries.children().last.children().css('a').each do |country|
+            get_league(country,agent)
+          end
+        end
 
     end
   end

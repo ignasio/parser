@@ -1,6 +1,9 @@
 module Providers
   class Sbobet < Base
-    
+    def initialize(sport)
+      super(sport)
+  	end
+
     def bet_lines
       $main = "http://www.sbobet.com"
       url = "http://www.sbobet.com/euro/live-betting"
@@ -8,10 +11,8 @@ module Providers
       page = agent.get(url)
       games = page.parser.css('#ms-live a')
       games.each do |game|
-      #puts game.content.split(' ').first
-        if game.content.split(' ').first=='Basketball' or game.content.split(' ').first=='Volleyball' or game.content.split(' ').first=='Football'
-          send(:extend, "#{self.class.name}::#{game.content.split(' ').first.capitalize}".constantize)
-          #"#{game.content.split(' ').first.capitalize}".constantize.
+        if game.content.split(' ').first==@sport.capitalize.to_s
+          send(:extend, "#{self.class.name}::#{@sport.capitalize}".constantize)
           get_sport(game,agent)
         end
       end
